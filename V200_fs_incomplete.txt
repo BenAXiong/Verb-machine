@@ -1,0 +1,2074 @@
+[
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f889c"
+    },
+    "infinitif": "accepter",
+    "futurSimple": [
+      "accepterai",
+      "accepteras",
+      "acceptera",
+      "accepterons",
+      "accepterez",
+      "accepteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88a4"
+    },
+    "infinitif": "acheter",
+    "futurSimple": [
+      "achèterai",
+      "achèteras",
+      "achètera",
+      "achèterons",
+      "achèterez",
+      "achèteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ad"
+    },
+    "infinitif": "aimer",
+    "futurSimple": [
+      "aimerai",
+      "aimeras",
+      "aimera",
+      "aimerons",
+      "aimerez",
+      "aimeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88af"
+    },
+    "infinitif": "aller",
+    "futurSimple": [
+      "irai",
+      "iras",
+      "ira",
+      "irons",
+      "irez",
+      "iront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b0"
+    },
+    "infinitif": "allumer",
+    "futurSimple": [
+      "allumerai",
+      "allumeras",
+      "allumera",
+      "allumerons",
+      "allumerez",
+      "allumeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b1"
+    },
+    "infinitif": "amener",
+    "futurSimple": [
+      "amènerai",
+      "amèneras",
+      "amènera",
+      "amènerons",
+      "amènerez",
+      "amèneront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b6"
+    },
+    "infinitif": "apparaître",
+    "futurSimple": [
+      "apparaîtrai",
+      "apparaîtras",
+      "apparaîtra",
+      "apparaîtrons",
+      "apparaîtrez",
+      "apparaîtront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b8"
+    },
+    "infinitif": "appeler",
+    "futurSimple": [
+      "appellerai",
+      "appelleras",
+      "appellera",
+      "appellerons",
+      "appellerez",
+      "appelleront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b9"
+    },
+    "infinitif": "apporter",
+    "futurSimple": [
+      "apporterai",
+      "apporteras",
+      "apportera",
+      "apporterons",
+      "apporterez",
+      "apporteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ba"
+    },
+    "infinitif": "apprendre",
+    "futurSimple": [
+      "apprendrai",
+      "apprendras",
+      "apprendra",
+      "apprendrons",
+      "apprendrez",
+      "apprendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88bf"
+    },
+    "infinitif": "arrêter",
+    "futurSimple": [
+      "arrêterai",
+      "arrêteras",
+      "arrêtera",
+      "arrêterons",
+      "arrêterez",
+      "arrêteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c0"
+    },
+    "infinitif": "arriver",
+    "futurSimple": [
+      "arriverai",
+      "arriveras",
+      "arrivera",
+      "arriverons",
+      "arriverez",
+      "arriveront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c3"
+    },
+    "infinitif": "assister",
+    "futurSimple": [
+      "assisterai",
+      "assisteras",
+      "assistera",
+      "assisterons",
+      "assisterez",
+      "assisteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c8"
+    },
+    "infinitif": "attendre",
+    "futurSimple": [
+      "attendrai",
+      "attendras",
+      "attendra",
+      "attendrons",
+      "attendrez",
+      "attendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88cb"
+    },
+    "infinitif": "avoir",
+    "futurSimple": [
+      "aurai",
+      "auras",
+      "aura",
+      "aurons",
+      "aurez",
+      "auront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88cf"
+    },
+    "infinitif": "boire",
+    "futurSimple": [
+      "boirai",
+      "boiras",
+      "boira",
+      "boirons",
+      "boirez",
+      "boiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88d4"
+    },
+    "infinitif": "cacher",
+    "futurSimple": [
+      "cacherai",
+      "cacheras",
+      "cachera",
+      "cacherons",
+      "cacherez",
+      "cacheront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88d7"
+    },
+    "infinitif": "casser",
+    "futurSimple": [
+      "casserai",
+      "casseras",
+      "cassera",
+      "casserons",
+      "casserez",
+      "casseront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88db"
+    },
+    "infinitif": "changer",
+    "futurSimple": [
+      "changerai",
+      "changeras",
+      "changera",
+      "changerons",
+      "changerez",
+      "changeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88dc"
+    },
+    "infinitif": "chanter",
+    "futurSimple": [
+      "chanterai",
+      "chanteras",
+      "chantera",
+      "chanterons",
+      "chanterez",
+      "chanteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88df"
+    },
+    "infinitif": "chercher",
+    "futurSimple": [
+      "chercherai",
+      "chercheras",
+      "cherchera",
+      "chercherons",
+      "chercherez",
+      "chercheront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e1"
+    },
+    "infinitif": "choisir",
+    "futurSimple": [
+      "choisirai",
+      "choisiras",
+      "choisira",
+      "choisirons",
+      "choisirez",
+      "choisiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e4"
+    },
+    "infinitif": "commencer",
+    "futurSimple": [
+      "commencerai",
+      "commenceras",
+      "commencera",
+      "commencerons",
+      "commencerez",
+      "commenceront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e7"
+    },
+    "infinitif": "comprendre",
+    "futurSimple": [
+      "comprendrai",
+      "comprendras",
+      "comprendra",
+      "comprendrons",
+      "comprendrez",
+      "comprendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88eb"
+    },
+    "infinitif": "conduire",
+    "futurSimple": [
+      "conduirai",
+      "conduiras",
+      "conduira",
+      "conduirons",
+      "conduirez",
+      "conduiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ef"
+    },
+    "infinitif": "connaître",
+    "futurSimple": [
+      "connaîtrai",
+      "connaîtras",
+      "connaîtra",
+      "connaîtrons",
+      "connaîtrez",
+      "connaîtront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88f2"
+    },
+    "infinitif": "construire",
+    "futurSimple": [
+      "construirai",
+      "construiras",
+      "construira",
+      "construirons",
+      "construirez",
+      "construiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88f6"
+    },
+    "infinitif": "continuer",
+    "futurSimple": [
+      "continuerai",
+      "continueras",
+      "continuera",
+      "continuerons",
+      "continuerez",
+      "continueront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88fe"
+    },
+    "infinitif": "courir",
+    "futurSimple": [
+      "courrai",
+      "courras",
+      "courra",
+      "courrons",
+      "courrez",
+      "courront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8905"
+    },
+    "infinitif": "croire",
+    "futurSimple": [
+      "croirai",
+      "croiras",
+      "croira",
+      "croirons",
+      "croirez",
+      "croiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8909"
+    },
+    "infinitif": "demander",
+    "futurSimple": [
+      "demanderai",
+      "demanderas",
+      "demandera",
+      "demanderons",
+      "demanderez",
+      "demanderont"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f890e"
+    },
+    "infinitif": "devenir",
+    "futurSimple": [
+      "deviendrai",
+      "deviendras",
+      "deviendra",
+      "deviendrons",
+      "deviendrez",
+      "deviendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8910"
+    },
+    "infinitif": "devoir",
+    "futurSimple": [
+      "devrai",
+      "devras",
+      "devra",
+      "devrons",
+      "devrez",
+      "devront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8914"
+    },
+    "infinitif": "décider",
+    "futurSimple": [
+      "déciderai",
+      "décideras",
+      "décidera",
+      "déciderons",
+      "déciderez",
+      "décideront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8918"
+    },
+    "infinitif": "décrire",
+    "futurSimple": [
+      "décrirai",
+      "décriras",
+      "décrira",
+      "décrirons",
+      "décrirez",
+      "décriront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8925"
+    },
+    "infinitif": "dire",
+    "futurSimple": [
+      "dirai",
+      "diras",
+      "dira",
+      "dirons",
+      "direz",
+      "diront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8927"
+    },
+    "infinitif": "discuter",
+    "futurSimple": [
+      "discuterai",
+      "discuteras",
+      "discutera",
+      "discuterons",
+      "discuterez",
+      "discuteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8928"
+    },
+    "infinitif": "disparaître",
+    "futurSimple": [
+      "disparaîtrai",
+      "disparaîtras",
+      "disparaîtra",
+      "disparaîtrons",
+      "disparaîtrez",
+      "disparaîtront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f892d"
+    },
+    "infinitif": "donner",
+    "futurSimple": [
+      "donnerai",
+      "donneras",
+      "donnera",
+      "donnerons",
+      "donnerez",
+      "donneront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f892e"
+    },
+    "infinitif": "dormir",
+    "futurSimple": [
+      "dormirai",
+      "dormiras",
+      "dormira",
+      "dormirons",
+      "dormirez",
+      "dormiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8931"
+    },
+    "infinitif": "durer",
+    "futurSimple": [
+      "durerai",
+      "dureras",
+      "durera",
+      "durerons",
+      "durerez",
+      "dureront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8932"
+    },
+    "infinitif": "effacer",
+    "futurSimple": [
+      "effacerai",
+      "effaceras",
+      "effacera",
+      "effacerons",
+      "effacerez",
+      "effaceront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8934"
+    },
+    "infinitif": "embrasser",
+    "futurSimple": [
+      "embrasserai",
+      "embrasseras",
+      "embrassera",
+      "embrasserons",
+      "embrasserez",
+      "embrasseront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8935"
+    },
+    "infinitif": "emmener",
+    "futurSimple": [
+      "emmènerai",
+      "emmèneras",
+      "emmènera",
+      "emmènerons",
+      "emmènerez",
+      "emmèneront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8938"
+    },
+    "infinitif": "emporter",
+    "futurSimple": [
+      "emporterai",
+      "emporteras",
+      "emportera",
+      "emporterons",
+      "emporterez",
+      "emporteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f893f"
+    },
+    "infinitif": "entendre",
+    "futurSimple": [
+      "entendrai",
+      "entendras",
+      "entendra",
+      "entendrons",
+      "entendrez",
+      "entendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8942"
+    },
+    "infinitif": "entrer",
+    "futurSimple": [
+      "entrerai",
+      "entreras",
+      "entrera",
+      "entrerons",
+      "entrerez",
+      "entreront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8945"
+    },
+    "infinitif": "envoyer",
+    "futurSimple": [
+      "enverrai",
+      "enverras",
+      "enverra",
+      "enverrons",
+      "enverrez",
+      "enverront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8947"
+    },
+    "infinitif": "essayer",
+    "futurSimple": [
+      "essaierai, essayerai",
+      "essaieras, essayeras",
+      "essaiera, essayera",
+      "essaierons, essayerons",
+      "essaierez, essayerez",
+      "essaieront, essayeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f894d"
+    },
+    "infinitif": "expliquer",
+    "futurSimple": [
+      "expliquerai",
+      "expliqueras",
+      "expliquera",
+      "expliquerons",
+      "expliquerez",
+      "expliqueront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8957"
+    },
+    "infinitif": "écrire",
+    "futurSimple": [
+      "écrirai",
+      "écriras",
+      "écrira",
+      "écrirons",
+      "écrirez",
+      "écriront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f895f"
+    },
+    "infinitif": "éteindre",
+    "futurSimple": [
+      "éteindrai",
+      "éteindras",
+      "éteindra",
+      "éteindrons",
+      "éteindrez",
+      "éteindront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8964"
+    },
+    "infinitif": "éviter",
+    "futurSimple": [
+      "éviterai",
+      "éviteras",
+      "évitera",
+      "éviterons",
+      "éviterez",
+      "éviteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8965"
+    },
+    "infinitif": "être",
+    "futurSimple": [
+      "serai",
+      "seras",
+      "sera",
+      "serons",
+      "serez",
+      "seront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8967"
+    },
+    "infinitif": "faire",
+    "futurSimple": [
+      "ferai",
+      "feras",
+      "fera",
+      "ferons",
+      "ferez",
+      "feront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8968"
+    },
+    "infinitif": "falloir",
+    "futurSimple": [
+      "",
+      "",
+      "faudra",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f896a"
+    },
+    "infinitif": "fermer",
+    "futurSimple": [
+      "fermerai",
+      "fermeras",
+      "fermera",
+      "fermerons",
+      "fermerez",
+      "fermeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f896c"
+    },
+    "infinitif": "finir",
+    "futurSimple": [
+      "finirai",
+      "finiras",
+      "finira",
+      "finirons",
+      "finirez",
+      "finiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8974"
+    },
+    "infinitif": "frapper",
+    "futurSimple": [
+      "frapperai",
+      "frapperas",
+      "frappera",
+      "frapperons",
+      "frapperez",
+      "frapperont"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8978"
+    },
+    "infinitif": "gagner",
+    "futurSimple": [
+      "gagnerai",
+      "gagneras",
+      "gagnera",
+      "gagnerons",
+      "gagnerez",
+      "gagneront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8979"
+    },
+    "infinitif": "garder",
+    "futurSimple": [
+      "garderai",
+      "garderas",
+      "gardera",
+      "garderons",
+      "garderez",
+      "garderont"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8980"
+    },
+    "infinitif": "hésiter",
+    "futurSimple": [
+      "hésiterai",
+      "hésiteras",
+      "hésitera",
+      "hésiterons",
+      "hésiterez",
+      "hésiteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f898d"
+    },
+    "infinitif": "inviter",
+    "futurSimple": [
+      "inviterai",
+      "inviteras",
+      "invitera",
+      "inviterons",
+      "inviterez",
+      "inviteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8990"
+    },
+    "infinitif": "jouer",
+    "futurSimple": [
+      "jouerai",
+      "joueras",
+      "jouera",
+      "jouerons",
+      "jouerez",
+      "joueront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8992"
+    },
+    "infinitif": "lever",
+    "futurSimple": [
+      "lèverai",
+      "lèveras",
+      "lèvera",
+      "lèverons",
+      "lèverez",
+      "lèveront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8994"
+    },
+    "infinitif": "lire",
+    "futurSimple": [
+      "lirai",
+      "liras",
+      "lira",
+      "lirons",
+      "lirez",
+      "liront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8999"
+    },
+    "infinitif": "manger",
+    "futurSimple": [
+      "mangerai",
+      "mangeras",
+      "mangera",
+      "mangerons",
+      "mangerez",
+      "mangeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f899a"
+    },
+    "infinitif": "manquer",
+    "futurSimple": [
+      "manquerai",
+      "manqueras",
+      "manquera",
+      "manquerons",
+      "manquerez",
+      "manqueront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f899b"
+    },
+    "infinitif": "marcher",
+    "futurSimple": [
+      "marcherai",
+      "marcheras",
+      "marchera",
+      "marcherons",
+      "marcherez",
+      "marcheront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a1"
+    },
+    "infinitif": "mentir",
+    "futurSimple": [
+      "mentirai",
+      "mentiras",
+      "mentira",
+      "mentirons",
+      "mentirez",
+      "mentiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a3"
+    },
+    "infinitif": "mettre",
+    "futurSimple": [
+      "mettrai",
+      "mettras",
+      "mettra",
+      "mettrons",
+      "mettrez",
+      "mettront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a6"
+    },
+    "infinitif": "monter",
+    "futurSimple": [
+      "monterai",
+      "monteras",
+      "montera",
+      "monterons",
+      "monterez",
+      "monteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a7"
+    },
+    "infinitif": "montrer",
+    "futurSimple": [
+      "montrerai",
+      "montreras",
+      "montrera",
+      "montrerons",
+      "montrerez",
+      "montreront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a9"
+    },
+    "infinitif": "mourir",
+    "futurSimple": [
+      "mourrai",
+      "mourras",
+      "mourra",
+      "mourrons",
+      "mourrez",
+      "mourront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ab"
+    },
+    "infinitif": "naître",
+    "futurSimple": [
+      "naîtrai",
+      "naîtras",
+      "naîtra",
+      "naîtrons",
+      "naîtrez",
+      "naîtront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b4"
+    },
+    "infinitif": "offrir",
+    "futurSimple": [
+      "offrirai",
+      "offriras",
+      "offrira",
+      "offrirons",
+      "offrirez",
+      "offriront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b5"
+    },
+    "infinitif": "oser",
+    "futurSimple": [
+      "oserai",
+      "oseras",
+      "osera",
+      "oserons",
+      "oserez",
+      "oseront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b6"
+    },
+    "infinitif": "oublier",
+    "futurSimple": [
+      "oublierai",
+      "oublieras",
+      "oubliera",
+      "oublierons",
+      "oublierez",
+      "oublieront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b7"
+    },
+    "infinitif": "ouvrir",
+    "futurSimple": [
+      "ouvrirai",
+      "ouvriras",
+      "ouvrira",
+      "ouvrirons",
+      "ouvrirez",
+      "ouvriront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bb"
+    },
+    "infinitif": "parler",
+    "futurSimple": [
+      "parlerai",
+      "parleras",
+      "parlera",
+      "parlerons",
+      "parlerez",
+      "parleront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bc"
+    },
+    "infinitif": "partager",
+    "futurSimple": [
+      "partagerai",
+      "partageras",
+      "partagera",
+      "partagerons",
+      "partagerez",
+      "partageront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bd"
+    },
+    "infinitif": "partir",
+    "futurSimple": [
+      "partirai",
+      "partiras",
+      "partira",
+      "partirons",
+      "partirez",
+      "partiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bf"
+    },
+    "infinitif": "passer",
+    "futurSimple": [
+      "passerai",
+      "passeras",
+      "passera",
+      "passerons",
+      "passerez",
+      "passeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c0"
+    },
+    "infinitif": "payer",
+    "futurSimple": [
+      "paierai, payerai",
+      "paieras, payeras",
+      "paiera, payera",
+      "paierons, payerons",
+      "paierez, payerez",
+      "paieront, payeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c3"
+    },
+    "infinitif": "penser",
+    "futurSimple": [
+      "penserai",
+      "penseras",
+      "pensera",
+      "penserons",
+      "penserez",
+      "penseront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c5"
+    },
+    "infinitif": "perdre",
+    "futurSimple": [
+      "perdrai",
+      "perdras",
+      "perdra",
+      "perdrons",
+      "perdrez",
+      "perdront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c6"
+    },
+    "infinitif": "permettre",
+    "futurSimple": [
+      "permettrai",
+      "permettras",
+      "permettra",
+      "permettrons",
+      "permettrez",
+      "permettront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cb"
+    },
+    "infinitif": "plaire",
+    "futurSimple": [
+      "plairai",
+      "plairas",
+      "plaira",
+      "plairons",
+      "plairez",
+      "plairont"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cc"
+    },
+    "infinitif": "pleurer",
+    "futurSimple": [
+      "pleurerai",
+      "pleureras",
+      "pleurera",
+      "pleurerons",
+      "pleurerez",
+      "pleureront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cd"
+    },
+    "infinitif": "pleuvoir",
+    "futurSimple": [
+      "",
+      "",
+      "pleuvra",
+      "",
+      "",
+      "pleuvront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d0"
+    },
+    "infinitif": "porter",
+    "futurSimple": [
+      "porterai",
+      "porteras",
+      "portera",
+      "porterons",
+      "porterez",
+      "porteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d6"
+    },
+    "infinitif": "pouvoir",
+    "futurSimple": [
+      "pourrai",
+      "pourras",
+      "pourra",
+      "pourrons",
+      "pourrez",
+      "pourront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d7"
+    },
+    "infinitif": "prendre",
+    "futurSimple": [
+      "prendrai",
+      "prendras",
+      "prendra",
+      "prendrons",
+      "prendrez",
+      "prendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89dd"
+    },
+    "infinitif": "préparer",
+    "futurSimple": [
+      "préparerai",
+      "prépareras",
+      "préparera",
+      "préparerons",
+      "préparerez",
+      "prépareront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89e3"
+    },
+    "infinitif": "prêter",
+    "futurSimple": [
+      "prêterai",
+      "prêteras",
+      "prêtera",
+      "prêterons",
+      "prêterez",
+      "prêteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89e6"
+    },
+    "infinitif": "profiter",
+    "futurSimple": [
+      "profiterai",
+      "profiteras",
+      "profitera",
+      "profiterons",
+      "profiterez",
+      "profiteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89eb"
+    },
+    "infinitif": "proposer",
+    "futurSimple": [
+      "proposerai",
+      "proposeras",
+      "proposera",
+      "proposerons",
+      "proposerez",
+      "proposeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ee"
+    },
+    "infinitif": "quitter",
+    "futurSimple": [
+      "quitterai",
+      "quitteras",
+      "quittera",
+      "quitterons",
+      "quitterez",
+      "quitteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ef"
+    },
+    "infinitif": "raconter",
+    "futurSimple": [
+      "raconterai",
+      "raconteras",
+      "racontera",
+      "raconterons",
+      "raconterez",
+      "raconteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89f2"
+    },
+    "infinitif": "rappeler",
+    "futurSimple": [
+      "rappellerai",
+      "rappelleras",
+      "rappellera",
+      "rappellerons",
+      "rappellerez",
+      "rappelleront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89f8"
+    },
+    "infinitif": "recevoir",
+    "futurSimple": [
+      "recevrai",
+      "recevras",
+      "recevra",
+      "recevrons",
+      "recevrez",
+      "recevront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89fa"
+    },
+    "infinitif": "recommencer",
+    "futurSimple": [
+      "recommencerai",
+      "recommenceras",
+      "recommencera",
+      "recommencerons",
+      "recommencerez",
+      "recommenceront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89fc"
+    },
+    "infinitif": "reconnaître",
+    "futurSimple": [
+      "reconnaîtrai",
+      "reconnaîtras",
+      "reconnaîtra",
+      "reconnaîtrons",
+      "reconnaîtrez",
+      "reconnaîtront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a07"
+    },
+    "infinitif": "refuser",
+    "futurSimple": [
+      "refuserai",
+      "refuseras",
+      "refusera",
+      "refuserons",
+      "refuserez",
+      "refuseront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a08"
+    },
+    "infinitif": "regarder",
+    "futurSimple": [
+      "regarderai",
+      "regarderas",
+      "regardera",
+      "regarderons",
+      "regarderez",
+      "regarderont"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a0f"
+    },
+    "infinitif": "remarquer",
+    "futurSimple": [
+      "remarquerai",
+      "remarqueras",
+      "remarquera",
+      "remarquerons",
+      "remarquerez",
+      "remarqueront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a10"
+    },
+    "infinitif": "remercier",
+    "futurSimple": [
+      "remercierai",
+      "remercieras",
+      "remerciera",
+      "remercierons",
+      "remercierez",
+      "remercieront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a14"
+    },
+    "infinitif": "remplacer",
+    "futurSimple": [
+      "remplacerai",
+      "remplaceras",
+      "remplacera",
+      "remplacerons",
+      "remplacerez",
+      "remplaceront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a17"
+    },
+    "infinitif": "rencontrer",
+    "futurSimple": [
+      "rencontrerai",
+      "rencontreras",
+      "rencontrera",
+      "rencontrerons",
+      "rencontrerez",
+      "rencontreront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a1b"
+    },
+    "infinitif": "rentrer",
+    "futurSimple": [
+      "rentrerai",
+      "rentreras",
+      "rentrera",
+      "rentrerons",
+      "rentrerez",
+      "rentreront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a2b"
+    },
+    "infinitif": "rester",
+    "futurSimple": [
+      "resterai",
+      "resteras",
+      "restera",
+      "resterons",
+      "resterez",
+      "resteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a30"
+    },
+    "infinitif": "retourner",
+    "futurSimple": [
+      "retournerai",
+      "retourneras",
+      "retournera",
+      "retournerons",
+      "retournerez",
+      "retourneront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a32"
+    },
+    "infinitif": "retrouver",
+    "futurSimple": [
+      "retrouverai",
+      "retrouveras",
+      "retrouvera",
+      "retrouverons",
+      "retrouverez",
+      "retrouveront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a34"
+    },
+    "infinitif": "revenir",
+    "futurSimple": [
+      "reviendrai",
+      "reviendras",
+      "reviendra",
+      "reviendrons",
+      "reviendrez",
+      "reviendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a3e"
+    },
+    "infinitif": "répondre",
+    "futurSimple": [
+      "répondrai",
+      "répondras",
+      "répondra",
+      "répondrons",
+      "répondrez",
+      "répondront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a44"
+    },
+    "infinitif": "réveiller",
+    "futurSimple": [
+      "réveillerai",
+      "réveilleras",
+      "réveillera",
+      "réveillerons",
+      "réveillerez",
+      "réveilleront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a47"
+    },
+    "infinitif": "rire",
+    "futurSimple": [
+      "rirai",
+      "riras",
+      "rira",
+      "rirons",
+      "rirez",
+      "riront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a4a"
+    },
+    "infinitif": "rouler",
+    "futurSimple": [
+      "roulerai",
+      "rouleras",
+      "roulera",
+      "roulerons",
+      "roulerez",
+      "rouleront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a57"
+    },
+    "infinitif": "s'acheter",
+    "futurSimple": [
+      "m'achèterai",
+      "t'achèteras",
+      "s'achètera",
+      "nous achèterons",
+      "vous achèterez",
+      "s'achèteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a6a"
+    },
+    "infinitif": "s'appeler",
+    "futurSimple": [
+      "m'appellerai",
+      "t'appelleras",
+      "s'appellera",
+      "nous appellerons",
+      "vous appellerez",
+      "s'appelleront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a70"
+    },
+    "infinitif": "s'arrêter",
+    "futurSimple": [
+      "m'arrêterai",
+      "t'arrêteras",
+      "s'arrêtera",
+      "nous arrêterons",
+      "vous arrêterez",
+      "s'arrêteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a72"
+    },
+    "infinitif": "s'asseoir",
+    "futurSimple": [
+      "m'assiérai, assoirai, asseyerai",
+      "t'assiéras, assoiras, asseyeras",
+      "s'assiéra, assoira, asseyera",
+      "nous assiérons, assoirons, asseyerons",
+      "vous assiérez, assoirez, asseyerez",
+      "s'assiéront, assoiront, asseyeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a89"
+    },
+    "infinitif": "s'entraîner",
+    "futurSimple": [
+      "m'entraînerai",
+      "t'entraîneras",
+      "s'entraînera",
+      "nous entraînerons",
+      "vous entraînerez",
+      "s'entraîneront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8aa8"
+    },
+    "infinitif": "s'habiller",
+    "futurSimple": [
+      "m'habillerai",
+      "t'habilleras",
+      "s'habillera",
+      "nous habillerons",
+      "vous habillerez",
+      "s'habilleront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8aac"
+    },
+    "infinitif": "s'inquiéter",
+    "futurSimple": [
+      "m'inquiéterai",
+      "t'inquiéteras",
+      "s'inquiétera",
+      "nous inquiéterons",
+      "vous inquiéterez",
+      "s'inquiéteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8ac2"
+    },
+    "infinitif": "sauver",
+    "futurSimple": [
+      "sauverai",
+      "sauveras",
+      "sauvera",
+      "sauverons",
+      "sauverez",
+      "sauveront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8ac3"
+    },
+    "infinitif": "savoir",
+    "futurSimple": [
+      "saurai",
+      "sauras",
+      "saura",
+      "saurons",
+      "saurez",
+      "sauront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8b3f"
+    },
+    "infinitif": "se plaindre",
+    "futurSimple": [
+      "me plaindrai",
+      "te plaindras",
+      "se plaindra",
+      "nous plaindrons",
+      "vous plaindrez",
+      "se plaindront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bb5"
+    },
+    "infinitif": "se sentir",
+    "futurSimple": [
+      "me sentirai",
+      "te sentiras",
+      "se sentira",
+      "nous sentirons",
+      "vous sentirez",
+      "se sentiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bf6"
+    },
+    "infinitif": "sentir",
+    "futurSimple": [
+      "sentirai",
+      "sentiras",
+      "sentira",
+      "sentirons",
+      "sentirez",
+      "sentiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bf9"
+    },
+    "infinitif": "servir",
+    "futurSimple": [
+      "servirai",
+      "serviras",
+      "servira",
+      "servirons",
+      "servirez",
+      "serviront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c00"
+    },
+    "infinitif": "sortir",
+    "futurSimple": [
+      "sortirai",
+      "sortiras",
+      "sortira",
+      "sortirons",
+      "sortirez",
+      "sortiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c0c"
+    },
+    "infinitif": "souvenir",
+    "futurSimple": [
+      "",
+      "",
+      "souviendra",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c1f"
+    },
+    "infinitif": "survivre",
+    "futurSimple": [
+      "survivrai",
+      "survivras",
+      "survivra",
+      "survivrons",
+      "survivrez",
+      "survivront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c23"
+    },
+    "infinitif": "tenir",
+    "futurSimple": [
+      "tiendrai",
+      "tiendras",
+      "tiendra",
+      "tiendrons",
+      "tiendrez",
+      "tiendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c25"
+    },
+    "infinitif": "terminer",
+    "futurSimple": [
+      "terminerai",
+      "termineras",
+      "terminera",
+      "terminerons",
+      "terminerez",
+      "termineront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c27"
+    },
+    "infinitif": "tomber",
+    "futurSimple": [
+      "tomberai",
+      "tomberas",
+      "tombera",
+      "tomberons",
+      "tomberez",
+      "tomberont"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c29"
+    },
+    "infinitif": "toucher",
+    "futurSimple": [
+      "toucherai",
+      "toucheras",
+      "touchera",
+      "toucherons",
+      "toucherez",
+      "toucheront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c2c"
+    },
+    "infinitif": "traduire",
+    "futurSimple": [
+      "traduirai",
+      "traduiras",
+      "traduira",
+      "traduirons",
+      "traduirez",
+      "traduiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c38"
+    },
+    "infinitif": "tromper",
+    "futurSimple": [
+      "tromperai",
+      "tromperas",
+      "trompera",
+      "tromperons",
+      "tromperez",
+      "tromperont"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c3b"
+    },
+    "infinitif": "trouver",
+    "futurSimple": [
+      "trouverai",
+      "trouveras",
+      "trouvera",
+      "trouverons",
+      "trouverez",
+      "trouveront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c41"
+    },
+    "infinitif": "vendre",
+    "futurSimple": [
+      "vendrai",
+      "vendras",
+      "vendra",
+      "vendrons",
+      "vendrez",
+      "vendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c42"
+    },
+    "infinitif": "venir",
+    "futurSimple": [
+      "viendrai",
+      "viendras",
+      "viendra",
+      "viendrons",
+      "viendrez",
+      "viendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c49"
+    },
+    "infinitif": "vivre",
+    "futurSimple": [
+      "vivrai",
+      "vivras",
+      "vivra",
+      "vivrons",
+      "vivrez",
+      "vivront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4b"
+    },
+    "infinitif": "voir",
+    "futurSimple": [
+      "verrai",
+      "verras",
+      "verra",
+      "verrons",
+      "verrez",
+      "verront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4c"
+    },
+    "infinitif": "voler",
+    "futurSimple": [
+      "volerai",
+      "voleras",
+      "volera",
+      "volerons",
+      "volerez",
+      "voleront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4f"
+    },
+    "infinitif": "vouloir",
+    "futurSimple": [
+      "voudrai",
+      "voudras",
+      "voudra",
+      "voudrons",
+      "voudrez",
+      "voudront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c52"
+    },
+    "infinitif": "voyager",
+    "futurSimple": [
+      "voyagerai",
+      "voyageras",
+      "voyagera",
+      "voyagerons",
+      "voyagerez",
+      "voyageront"
+    ]
+  }
+]

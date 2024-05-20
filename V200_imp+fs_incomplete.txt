@@ -1,0 +1,3258 @@
+[
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f889c"
+    },
+    "infinitif": "accepter",
+    "imparfait": [
+      "acceptais",
+      "acceptais",
+      "acceptait",
+      "acceptions",
+      "acceptiez",
+      "acceptaient"
+    ],
+    "futurSimple": [
+      "accepterai",
+      "accepteras",
+      "acceptera",
+      "accepterons",
+      "accepterez",
+      "accepteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88a4"
+    },
+    "infinitif": "acheter",
+    "imparfait": [
+      "achetais",
+      "achetais",
+      "achetait",
+      "achetions",
+      "achetiez",
+      "achetaient"
+    ],
+    "futurSimple": [
+      "achèterai",
+      "achèteras",
+      "achètera",
+      "achèterons",
+      "achèterez",
+      "achèteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ad"
+    },
+    "infinitif": "aimer",
+    "imparfait": [
+      "aimais",
+      "aimais",
+      "aimait",
+      "aimions",
+      "aimiez",
+      "aimaient"
+    ],
+    "futurSimple": [
+      "aimerai",
+      "aimeras",
+      "aimera",
+      "aimerons",
+      "aimerez",
+      "aimeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88af"
+    },
+    "infinitif": "aller",
+    "imparfait": [
+      "allais",
+      "allais",
+      "allait",
+      "allions",
+      "alliez",
+      "allaient"
+    ],
+    "futurSimple": [
+      "irai",
+      "iras",
+      "ira",
+      "irons",
+      "irez",
+      "iront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b0"
+    },
+    "infinitif": "allumer",
+    "imparfait": [
+      "allumais",
+      "allumais",
+      "allumait",
+      "allumions",
+      "allumiez",
+      "allumaient"
+    ],
+    "futurSimple": [
+      "allumerai",
+      "allumeras",
+      "allumera",
+      "allumerons",
+      "allumerez",
+      "allumeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b1"
+    },
+    "infinitif": "amener",
+    "imparfait": [
+      "amenais",
+      "amenais",
+      "amenait",
+      "amenions",
+      "ameniez",
+      "amenaient"
+    ],
+    "futurSimple": [
+      "amènerai",
+      "amèneras",
+      "amènera",
+      "amènerons",
+      "amènerez",
+      "amèneront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b6"
+    },
+    "infinitif": "apparaître",
+    "imparfait": [
+      "apparaissais",
+      "apparaissais",
+      "apparaissait",
+      "apparaissions",
+      "apparaissiez",
+      "apparaissaient"
+    ],
+    "futurSimple": [
+      "apparaîtrai",
+      "apparaîtras",
+      "apparaîtra",
+      "apparaîtrons",
+      "apparaîtrez",
+      "apparaîtront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b8"
+    },
+    "infinitif": "appeler",
+    "imparfait": [
+      "appelais",
+      "appelais",
+      "appelait",
+      "appelions",
+      "appeliez",
+      "appelaient"
+    ],
+    "futurSimple": [
+      "appellerai",
+      "appelleras",
+      "appellera",
+      "appellerons",
+      "appellerez",
+      "appelleront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b9"
+    },
+    "infinitif": "apporter",
+    "imparfait": [
+      "apportais",
+      "apportais",
+      "apportait",
+      "apportions",
+      "apportiez",
+      "apportaient"
+    ],
+    "futurSimple": [
+      "apporterai",
+      "apporteras",
+      "apportera",
+      "apporterons",
+      "apporterez",
+      "apporteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ba"
+    },
+    "infinitif": "apprendre",
+    "imparfait": [
+      "apprenais",
+      "apprenais",
+      "apprenait",
+      "apprenions",
+      "appreniez",
+      "apprenaient"
+    ],
+    "futurSimple": [
+      "apprendrai",
+      "apprendras",
+      "apprendra",
+      "apprendrons",
+      "apprendrez",
+      "apprendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88bf"
+    },
+    "infinitif": "arrêter",
+    "imparfait": [
+      "arrêtais",
+      "arrêtais",
+      "arrêtait",
+      "arrêtions",
+      "arrêtiez",
+      "arrêtaient"
+    ],
+    "futurSimple": [
+      "arrêterai",
+      "arrêteras",
+      "arrêtera",
+      "arrêterons",
+      "arrêterez",
+      "arrêteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c0"
+    },
+    "infinitif": "arriver",
+    "imparfait": [
+      "arrivais",
+      "arrivais",
+      "arrivait",
+      "arrivions",
+      "arriviez",
+      "arrivaient"
+    ],
+    "futurSimple": [
+      "arriverai",
+      "arriveras",
+      "arrivera",
+      "arriverons",
+      "arriverez",
+      "arriveront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c3"
+    },
+    "infinitif": "assister",
+    "imparfait": [
+      "assistais",
+      "assistais",
+      "assistait",
+      "assistions",
+      "assistiez",
+      "assistaient"
+    ],
+    "futurSimple": [
+      "assisterai",
+      "assisteras",
+      "assistera",
+      "assisterons",
+      "assisterez",
+      "assisteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c8"
+    },
+    "infinitif": "attendre",
+    "imparfait": [
+      "attendais",
+      "attendais",
+      "attendait",
+      "attendions",
+      "attendiez",
+      "attendaient"
+    ],
+    "futurSimple": [
+      "attendrai",
+      "attendras",
+      "attendra",
+      "attendrons",
+      "attendrez",
+      "attendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88cb"
+    },
+    "infinitif": "avoir",
+    "imparfait": [
+      "avais",
+      "avais",
+      "avait",
+      "avions",
+      "aviez",
+      "avaient"
+    ],
+    "futurSimple": [
+      "aurai",
+      "auras",
+      "aura",
+      "aurons",
+      "aurez",
+      "auront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88cf"
+    },
+    "infinitif": "boire",
+    "imparfait": [
+      "buvais",
+      "buvais",
+      "buvait",
+      "buvions",
+      "buviez",
+      "buvaient"
+    ],
+    "futurSimple": [
+      "boirai",
+      "boiras",
+      "boira",
+      "boirons",
+      "boirez",
+      "boiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88d4"
+    },
+    "infinitif": "cacher",
+    "imparfait": [
+      "cachais",
+      "cachais",
+      "cachait",
+      "cachions",
+      "cachiez",
+      "cachaient"
+    ],
+    "futurSimple": [
+      "cacherai",
+      "cacheras",
+      "cachera",
+      "cacherons",
+      "cacherez",
+      "cacheront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88d7"
+    },
+    "infinitif": "casser",
+    "imparfait": [
+      "cassais",
+      "cassais",
+      "cassait",
+      "cassions",
+      "cassiez",
+      "cassaient"
+    ],
+    "futurSimple": [
+      "casserai",
+      "casseras",
+      "cassera",
+      "casserons",
+      "casserez",
+      "casseront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88db"
+    },
+    "infinitif": "changer",
+    "imparfait": [
+      "changeais",
+      "changeais",
+      "changeait",
+      "changions",
+      "changiez",
+      "changeaient"
+    ],
+    "futurSimple": [
+      "changerai",
+      "changeras",
+      "changera",
+      "changerons",
+      "changerez",
+      "changeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88dc"
+    },
+    "infinitif": "chanter",
+    "imparfait": [
+      "chantais",
+      "chantais",
+      "chantait",
+      "chantions",
+      "chantiez",
+      "chantaient"
+    ],
+    "futurSimple": [
+      "chanterai",
+      "chanteras",
+      "chantera",
+      "chanterons",
+      "chanterez",
+      "chanteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88df"
+    },
+    "infinitif": "chercher",
+    "imparfait": [
+      "cherchais",
+      "cherchais",
+      "cherchait",
+      "cherchions",
+      "cherchiez",
+      "cherchaient"
+    ],
+    "futurSimple": [
+      "chercherai",
+      "chercheras",
+      "cherchera",
+      "chercherons",
+      "chercherez",
+      "chercheront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e1"
+    },
+    "infinitif": "choisir",
+    "imparfait": [
+      "choisissais",
+      "choisissais",
+      "choisissait",
+      "choisissions",
+      "choisissiez",
+      "choisissaient"
+    ],
+    "futurSimple": [
+      "choisirai",
+      "choisiras",
+      "choisira",
+      "choisirons",
+      "choisirez",
+      "choisiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e4"
+    },
+    "infinitif": "commencer",
+    "imparfait": [
+      "commençais",
+      "commençais",
+      "commençait",
+      "commencions",
+      "commenciez",
+      "commençaient"
+    ],
+    "futurSimple": [
+      "commencerai",
+      "commenceras",
+      "commencera",
+      "commencerons",
+      "commencerez",
+      "commenceront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e7"
+    },
+    "infinitif": "comprendre",
+    "imparfait": [
+      "comprenais",
+      "comprenais",
+      "comprenait",
+      "comprenions",
+      "compreniez",
+      "comprenaient"
+    ],
+    "futurSimple": [
+      "comprendrai",
+      "comprendras",
+      "comprendra",
+      "comprendrons",
+      "comprendrez",
+      "comprendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88eb"
+    },
+    "infinitif": "conduire",
+    "imparfait": [
+      "conduisais",
+      "conduisais",
+      "conduisait",
+      "conduisions",
+      "conduisiez",
+      "conduisaient"
+    ],
+    "futurSimple": [
+      "conduirai",
+      "conduiras",
+      "conduira",
+      "conduirons",
+      "conduirez",
+      "conduiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ef"
+    },
+    "infinitif": "connaître",
+    "imparfait": [
+      "connaissais",
+      "connaissais",
+      "connaissait",
+      "connaissions",
+      "connaissiez",
+      "connaissaient"
+    ],
+    "futurSimple": [
+      "connaîtrai",
+      "connaîtras",
+      "connaîtra",
+      "connaîtrons",
+      "connaîtrez",
+      "connaîtront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88f2"
+    },
+    "infinitif": "construire",
+    "imparfait": [
+      "construisais",
+      "construisais",
+      "construisait",
+      "construisions",
+      "construisiez",
+      "construisaient"
+    ],
+    "futurSimple": [
+      "construirai",
+      "construiras",
+      "construira",
+      "construirons",
+      "construirez",
+      "construiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88f6"
+    },
+    "infinitif": "continuer",
+    "imparfait": [
+      "continuais",
+      "continuais",
+      "continuait",
+      "continuions",
+      "continuiez",
+      "continuaient"
+    ],
+    "futurSimple": [
+      "continuerai",
+      "continueras",
+      "continuera",
+      "continuerons",
+      "continuerez",
+      "continueront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88fe"
+    },
+    "infinitif": "courir",
+    "imparfait": [
+      "courais",
+      "courais",
+      "courait",
+      "courions",
+      "couriez",
+      "couraient"
+    ],
+    "futurSimple": [
+      "courrai",
+      "courras",
+      "courra",
+      "courrons",
+      "courrez",
+      "courront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8905"
+    },
+    "infinitif": "croire",
+    "imparfait": [
+      "croyais",
+      "croyais",
+      "croyait",
+      "croyions",
+      "croyiez",
+      "croyaient"
+    ],
+    "futurSimple": [
+      "croirai",
+      "croiras",
+      "croira",
+      "croirons",
+      "croirez",
+      "croiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8909"
+    },
+    "infinitif": "demander",
+    "imparfait": [
+      "demandais",
+      "demandais",
+      "demandait",
+      "demandions",
+      "demandiez",
+      "demandaient"
+    ],
+    "futurSimple": [
+      "demanderai",
+      "demanderas",
+      "demandera",
+      "demanderons",
+      "demanderez",
+      "demanderont"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f890e"
+    },
+    "infinitif": "devenir",
+    "imparfait": [
+      "devenais",
+      "devenais",
+      "devenait",
+      "devenions",
+      "deveniez",
+      "devenaient"
+    ],
+    "futurSimple": [
+      "deviendrai",
+      "deviendras",
+      "deviendra",
+      "deviendrons",
+      "deviendrez",
+      "deviendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8910"
+    },
+    "infinitif": "devoir",
+    "imparfait": [
+      "devais",
+      "devais",
+      "devait",
+      "devions",
+      "deviez",
+      "devaient"
+    ],
+    "futurSimple": [
+      "devrai",
+      "devras",
+      "devra",
+      "devrons",
+      "devrez",
+      "devront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8914"
+    },
+    "infinitif": "décider",
+    "imparfait": [
+      "décidais",
+      "décidais",
+      "décidait",
+      "décidions",
+      "décidiez",
+      "décidaient"
+    ],
+    "futurSimple": [
+      "déciderai",
+      "décideras",
+      "décidera",
+      "déciderons",
+      "déciderez",
+      "décideront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8918"
+    },
+    "infinitif": "décrire",
+    "imparfait": [
+      "décrivais",
+      "décrivais",
+      "décrivait",
+      "décrivions",
+      "décriviez",
+      "décrivaient"
+    ],
+    "futurSimple": [
+      "décrirai",
+      "décriras",
+      "décrira",
+      "décrirons",
+      "décrirez",
+      "décriront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8925"
+    },
+    "infinitif": "dire",
+    "imparfait": [
+      "disais",
+      "disais",
+      "disait",
+      "disions",
+      "disiez",
+      "disaient"
+    ],
+    "futurSimple": [
+      "dirai",
+      "diras",
+      "dira",
+      "dirons",
+      "direz",
+      "diront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8927"
+    },
+    "infinitif": "discuter",
+    "imparfait": [
+      "discutais",
+      "discutais",
+      "discutait",
+      "discutions",
+      "discutiez",
+      "discutaient"
+    ],
+    "futurSimple": [
+      "discuterai",
+      "discuteras",
+      "discutera",
+      "discuterons",
+      "discuterez",
+      "discuteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8928"
+    },
+    "infinitif": "disparaître",
+    "imparfait": [
+      "disparaissais",
+      "disparaissais",
+      "disparaissait",
+      "disparaissions",
+      "disparaissiez",
+      "disparaissaient"
+    ],
+    "futurSimple": [
+      "disparaîtrai",
+      "disparaîtras",
+      "disparaîtra",
+      "disparaîtrons",
+      "disparaîtrez",
+      "disparaîtront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f892d"
+    },
+    "infinitif": "donner",
+    "imparfait": [
+      "donnais",
+      "donnais",
+      "donnait",
+      "donnions",
+      "donniez",
+      "donnaient"
+    ],
+    "futurSimple": [
+      "donnerai",
+      "donneras",
+      "donnera",
+      "donnerons",
+      "donnerez",
+      "donneront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f892e"
+    },
+    "infinitif": "dormir",
+    "imparfait": [
+      "dormais",
+      "dormais",
+      "dormait",
+      "dormions",
+      "dormiez",
+      "dormaient"
+    ],
+    "futurSimple": [
+      "dormirai",
+      "dormiras",
+      "dormira",
+      "dormirons",
+      "dormirez",
+      "dormiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8931"
+    },
+    "infinitif": "durer",
+    "imparfait": [
+      "durais",
+      "durais",
+      "durait",
+      "durions",
+      "duriez",
+      "duraient"
+    ],
+    "futurSimple": [
+      "durerai",
+      "dureras",
+      "durera",
+      "durerons",
+      "durerez",
+      "dureront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8932"
+    },
+    "infinitif": "effacer",
+    "imparfait": [
+      "effaçais",
+      "effaçais",
+      "effaçait",
+      "effacions",
+      "effaciez",
+      "effaçaient"
+    ],
+    "futurSimple": [
+      "effacerai",
+      "effaceras",
+      "effacera",
+      "effacerons",
+      "effacerez",
+      "effaceront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8934"
+    },
+    "infinitif": "embrasser",
+    "imparfait": [
+      "embrassais",
+      "embrassais",
+      "embrassait",
+      "embrassions",
+      "embrassiez",
+      "embrassaient"
+    ],
+    "futurSimple": [
+      "embrasserai",
+      "embrasseras",
+      "embrassera",
+      "embrasserons",
+      "embrasserez",
+      "embrasseront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8935"
+    },
+    "infinitif": "emmener",
+    "imparfait": [
+      "emmenais",
+      "emmenais",
+      "emmenait",
+      "emmenions",
+      "emmeniez",
+      "emmenaient"
+    ],
+    "futurSimple": [
+      "emmènerai",
+      "emmèneras",
+      "emmènera",
+      "emmènerons",
+      "emmènerez",
+      "emmèneront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8938"
+    },
+    "infinitif": "emporter",
+    "imparfait": [
+      "emportais",
+      "emportais",
+      "emportait",
+      "emportions",
+      "emportiez",
+      "emportaient"
+    ],
+    "futurSimple": [
+      "emporterai",
+      "emporteras",
+      "emportera",
+      "emporterons",
+      "emporterez",
+      "emporteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f893f"
+    },
+    "infinitif": "entendre",
+    "imparfait": [
+      "entendais",
+      "entendais",
+      "entendait",
+      "entendions",
+      "entendiez",
+      "entendaient"
+    ],
+    "futurSimple": [
+      "entendrai",
+      "entendras",
+      "entendra",
+      "entendrons",
+      "entendrez",
+      "entendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8942"
+    },
+    "infinitif": "entrer",
+    "imparfait": [
+      "entrais",
+      "entrais",
+      "entrait",
+      "entrions",
+      "entriez",
+      "entraient"
+    ],
+    "futurSimple": [
+      "entrerai",
+      "entreras",
+      "entrera",
+      "entrerons",
+      "entrerez",
+      "entreront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8945"
+    },
+    "infinitif": "envoyer",
+    "imparfait": [
+      "envoyais",
+      "envoyais",
+      "envoyait",
+      "envoyions",
+      "envoyiez",
+      "envoyaient"
+    ],
+    "futurSimple": [
+      "enverrai",
+      "enverras",
+      "enverra",
+      "enverrons",
+      "enverrez",
+      "enverront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8947"
+    },
+    "infinitif": "essayer",
+    "imparfait": [
+      "essayais",
+      "essayais",
+      "essayait",
+      "essayions",
+      "essayiez",
+      "essayaient"
+    ],
+    "futurSimple": [
+      "essaierai, essayerai",
+      "essaieras, essayeras",
+      "essaiera, essayera",
+      "essaierons, essayerons",
+      "essaierez, essayerez",
+      "essaieront, essayeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f894d"
+    },
+    "infinitif": "expliquer",
+    "imparfait": [
+      "expliquais",
+      "expliquais",
+      "expliquait",
+      "expliquions",
+      "expliquiez",
+      "expliquaient"
+    ],
+    "futurSimple": [
+      "expliquerai",
+      "expliqueras",
+      "expliquera",
+      "expliquerons",
+      "expliquerez",
+      "expliqueront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8957"
+    },
+    "infinitif": "écrire",
+    "imparfait": [
+      "écrivais",
+      "écrivais",
+      "écrivait",
+      "écrivions",
+      "écriviez",
+      "écrivaient"
+    ],
+    "futurSimple": [
+      "écrirai",
+      "écriras",
+      "écrira",
+      "écrirons",
+      "écrirez",
+      "écriront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f895f"
+    },
+    "infinitif": "éteindre",
+    "imparfait": [
+      "éteignais",
+      "éteignais",
+      "éteignait",
+      "éteignions",
+      "éteigniez",
+      "éteignaient"
+    ],
+    "futurSimple": [
+      "éteindrai",
+      "éteindras",
+      "éteindra",
+      "éteindrons",
+      "éteindrez",
+      "éteindront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8964"
+    },
+    "infinitif": "éviter",
+    "imparfait": [
+      "évitais",
+      "évitais",
+      "évitait",
+      "évitions",
+      "évitiez",
+      "évitaient"
+    ],
+    "futurSimple": [
+      "éviterai",
+      "éviteras",
+      "évitera",
+      "éviterons",
+      "éviterez",
+      "éviteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8965"
+    },
+    "infinitif": "être",
+    "imparfait": [
+      "étais",
+      "étais",
+      "était",
+      "étions",
+      "étiez",
+      "étaient"
+    ],
+    "futurSimple": [
+      "serai",
+      "seras",
+      "sera",
+      "serons",
+      "serez",
+      "seront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8967"
+    },
+    "infinitif": "faire",
+    "imparfait": [
+      "faisais",
+      "faisais",
+      "faisait",
+      "faisions",
+      "faisiez",
+      "faisaient"
+    ],
+    "futurSimple": [
+      "ferai",
+      "feras",
+      "fera",
+      "ferons",
+      "ferez",
+      "feront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8968"
+    },
+    "infinitif": "falloir",
+    "imparfait": [
+      "",
+      "",
+      "fallait",
+      "",
+      "",
+      ""
+    ],
+    "futurSimple": [
+      "",
+      "",
+      "faudra",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f896a"
+    },
+    "infinitif": "fermer",
+    "imparfait": [
+      "fermais",
+      "fermais",
+      "fermait",
+      "fermions",
+      "fermiez",
+      "fermaient"
+    ],
+    "futurSimple": [
+      "fermerai",
+      "fermeras",
+      "fermera",
+      "fermerons",
+      "fermerez",
+      "fermeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f896c"
+    },
+    "infinitif": "finir",
+    "imparfait": [
+      "finissais",
+      "finissais",
+      "finissait",
+      "finissions",
+      "finissiez",
+      "finissaient"
+    ],
+    "futurSimple": [
+      "finirai",
+      "finiras",
+      "finira",
+      "finirons",
+      "finirez",
+      "finiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8974"
+    },
+    "infinitif": "frapper",
+    "imparfait": [
+      "frappais",
+      "frappais",
+      "frappait",
+      "frappions",
+      "frappiez",
+      "frappaient"
+    ],
+    "futurSimple": [
+      "frapperai",
+      "frapperas",
+      "frappera",
+      "frapperons",
+      "frapperez",
+      "frapperont"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8978"
+    },
+    "infinitif": "gagner",
+    "imparfait": [
+      "gagnais",
+      "gagnais",
+      "gagnait",
+      "gagnions",
+      "gagniez",
+      "gagnaient"
+    ],
+    "futurSimple": [
+      "gagnerai",
+      "gagneras",
+      "gagnera",
+      "gagnerons",
+      "gagnerez",
+      "gagneront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8979"
+    },
+    "infinitif": "garder",
+    "imparfait": [
+      "gardais",
+      "gardais",
+      "gardait",
+      "gardions",
+      "gardiez",
+      "gardaient"
+    ],
+    "futurSimple": [
+      "garderai",
+      "garderas",
+      "gardera",
+      "garderons",
+      "garderez",
+      "garderont"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8980"
+    },
+    "infinitif": "hésiter",
+    "imparfait": [
+      "hésitais",
+      "hésitais",
+      "hésitait",
+      "hésitions",
+      "hésitiez",
+      "hésitaient"
+    ],
+    "futurSimple": [
+      "hésiterai",
+      "hésiteras",
+      "hésitera",
+      "hésiterons",
+      "hésiterez",
+      "hésiteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f898d"
+    },
+    "infinitif": "inviter",
+    "imparfait": [
+      "invitais",
+      "invitais",
+      "invitait",
+      "invitions",
+      "invitiez",
+      "invitaient"
+    ],
+    "futurSimple": [
+      "inviterai",
+      "inviteras",
+      "invitera",
+      "inviterons",
+      "inviterez",
+      "inviteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8990"
+    },
+    "infinitif": "jouer",
+    "imparfait": [
+      "jouais",
+      "jouais",
+      "jouait",
+      "jouions",
+      "jouiez",
+      "jouaient"
+    ],
+    "futurSimple": [
+      "jouerai",
+      "joueras",
+      "jouera",
+      "jouerons",
+      "jouerez",
+      "joueront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8992"
+    },
+    "infinitif": "lever",
+    "imparfait": [
+      "levais",
+      "levais",
+      "levait",
+      "levions",
+      "leviez",
+      "levaient"
+    ],
+    "futurSimple": [
+      "lèverai",
+      "lèveras",
+      "lèvera",
+      "lèverons",
+      "lèverez",
+      "lèveront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8994"
+    },
+    "infinitif": "lire",
+    "imparfait": [
+      "lisais",
+      "lisais",
+      "lisait",
+      "lisions",
+      "lisiez",
+      "lisaient"
+    ],
+    "futurSimple": [
+      "lirai",
+      "liras",
+      "lira",
+      "lirons",
+      "lirez",
+      "liront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8999"
+    },
+    "infinitif": "manger",
+    "imparfait": [
+      "mangeais",
+      "mangeais",
+      "mangeait",
+      "mangions",
+      "mangiez",
+      "mangeaient"
+    ],
+    "futurSimple": [
+      "mangerai",
+      "mangeras",
+      "mangera",
+      "mangerons",
+      "mangerez",
+      "mangeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f899a"
+    },
+    "infinitif": "manquer",
+    "imparfait": [
+      "manquais",
+      "manquais",
+      "manquait",
+      "manquions",
+      "manquiez",
+      "manquaient"
+    ],
+    "futurSimple": [
+      "manquerai",
+      "manqueras",
+      "manquera",
+      "manquerons",
+      "manquerez",
+      "manqueront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f899b"
+    },
+    "infinitif": "marcher",
+    "imparfait": [
+      "marchais",
+      "marchais",
+      "marchait",
+      "marchions",
+      "marchiez",
+      "marchaient"
+    ],
+    "futurSimple": [
+      "marcherai",
+      "marcheras",
+      "marchera",
+      "marcherons",
+      "marcherez",
+      "marcheront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a1"
+    },
+    "infinitif": "mentir",
+    "imparfait": [
+      "mentais",
+      "mentais",
+      "mentait",
+      "mentions",
+      "mentiez",
+      "mentaient"
+    ],
+    "futurSimple": [
+      "mentirai",
+      "mentiras",
+      "mentira",
+      "mentirons",
+      "mentirez",
+      "mentiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a3"
+    },
+    "infinitif": "mettre",
+    "imparfait": [
+      "mettais",
+      "mettais",
+      "mettait",
+      "mettions",
+      "mettiez",
+      "mettaient"
+    ],
+    "futurSimple": [
+      "mettrai",
+      "mettras",
+      "mettra",
+      "mettrons",
+      "mettrez",
+      "mettront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a6"
+    },
+    "infinitif": "monter",
+    "imparfait": [
+      "montais",
+      "montais",
+      "montait",
+      "montions",
+      "montiez",
+      "montaient"
+    ],
+    "futurSimple": [
+      "monterai",
+      "monteras",
+      "montera",
+      "monterons",
+      "monterez",
+      "monteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a7"
+    },
+    "infinitif": "montrer",
+    "imparfait": [
+      "montrais",
+      "montrais",
+      "montrait",
+      "montrions",
+      "montriez",
+      "montraient"
+    ],
+    "futurSimple": [
+      "montrerai",
+      "montreras",
+      "montrera",
+      "montrerons",
+      "montrerez",
+      "montreront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a9"
+    },
+    "infinitif": "mourir",
+    "imparfait": [
+      "mourais",
+      "mourais",
+      "mourait",
+      "mourions",
+      "mouriez",
+      "mouraient"
+    ],
+    "futurSimple": [
+      "mourrai",
+      "mourras",
+      "mourra",
+      "mourrons",
+      "mourrez",
+      "mourront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ab"
+    },
+    "infinitif": "naître",
+    "imparfait": [
+      "naissais",
+      "naissais",
+      "naissait",
+      "naissions",
+      "naissiez",
+      "naissaient"
+    ],
+    "futurSimple": [
+      "naîtrai",
+      "naîtras",
+      "naîtra",
+      "naîtrons",
+      "naîtrez",
+      "naîtront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b4"
+    },
+    "infinitif": "offrir",
+    "imparfait": [
+      "offrais",
+      "offrais",
+      "offrait",
+      "offrions",
+      "offriez",
+      "offraient"
+    ],
+    "futurSimple": [
+      "offrirai",
+      "offriras",
+      "offrira",
+      "offrirons",
+      "offrirez",
+      "offriront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b5"
+    },
+    "infinitif": "oser",
+    "imparfait": [
+      "osais",
+      "osais",
+      "osait",
+      "osions",
+      "osiez",
+      "osaient"
+    ],
+    "futurSimple": [
+      "oserai",
+      "oseras",
+      "osera",
+      "oserons",
+      "oserez",
+      "oseront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b6"
+    },
+    "infinitif": "oublier",
+    "imparfait": [
+      "oubliais",
+      "oubliais",
+      "oubliait",
+      "oubliions",
+      "oubliiez",
+      "oubliaient"
+    ],
+    "futurSimple": [
+      "oublierai",
+      "oublieras",
+      "oubliera",
+      "oublierons",
+      "oublierez",
+      "oublieront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b7"
+    },
+    "infinitif": "ouvrir",
+    "imparfait": [
+      "ouvrais",
+      "ouvrais",
+      "ouvrait",
+      "ouvrions",
+      "ouvriez",
+      "ouvraient"
+    ],
+    "futurSimple": [
+      "ouvrirai",
+      "ouvriras",
+      "ouvrira",
+      "ouvrirons",
+      "ouvrirez",
+      "ouvriront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bb"
+    },
+    "infinitif": "parler",
+    "imparfait": [
+      "parlais",
+      "parlais",
+      "parlait",
+      "parlions",
+      "parliez",
+      "parlaient"
+    ],
+    "futurSimple": [
+      "parlerai",
+      "parleras",
+      "parlera",
+      "parlerons",
+      "parlerez",
+      "parleront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bc"
+    },
+    "infinitif": "partager",
+    "imparfait": [
+      "partageais",
+      "partageais",
+      "partageait",
+      "partagions",
+      "partagiez",
+      "partageaient"
+    ],
+    "futurSimple": [
+      "partagerai",
+      "partageras",
+      "partagera",
+      "partagerons",
+      "partagerez",
+      "partageront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bd"
+    },
+    "infinitif": "partir",
+    "imparfait": [
+      "partais",
+      "partais",
+      "partait",
+      "partions",
+      "partiez",
+      "partaient"
+    ],
+    "futurSimple": [
+      "partirai",
+      "partiras",
+      "partira",
+      "partirons",
+      "partirez",
+      "partiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bf"
+    },
+    "infinitif": "passer",
+    "imparfait": [
+      "passais",
+      "passais",
+      "passait",
+      "passions",
+      "passiez",
+      "passaient"
+    ],
+    "futurSimple": [
+      "passerai",
+      "passeras",
+      "passera",
+      "passerons",
+      "passerez",
+      "passeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c0"
+    },
+    "infinitif": "payer",
+    "imparfait": [
+      "payais",
+      "payais",
+      "payait",
+      "payions",
+      "payiez",
+      "payaient"
+    ],
+    "futurSimple": [
+      "paierai, payerai",
+      "paieras, payeras",
+      "paiera, payera",
+      "paierons, payerons",
+      "paierez, payerez",
+      "paieront, payeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c3"
+    },
+    "infinitif": "penser",
+    "imparfait": [
+      "pensais",
+      "pensais",
+      "pensait",
+      "pensions",
+      "pensiez",
+      "pensaient"
+    ],
+    "futurSimple": [
+      "penserai",
+      "penseras",
+      "pensera",
+      "penserons",
+      "penserez",
+      "penseront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c5"
+    },
+    "infinitif": "perdre",
+    "imparfait": [
+      "perdais",
+      "perdais",
+      "perdait",
+      "perdions",
+      "perdiez",
+      "perdaient"
+    ],
+    "futurSimple": [
+      "perdrai",
+      "perdras",
+      "perdra",
+      "perdrons",
+      "perdrez",
+      "perdront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c6"
+    },
+    "infinitif": "permettre",
+    "imparfait": [
+      "permettais",
+      "permettais",
+      "permettait",
+      "permettions",
+      "permettiez",
+      "permettaient"
+    ],
+    "futurSimple": [
+      "permettrai",
+      "permettras",
+      "permettra",
+      "permettrons",
+      "permettrez",
+      "permettront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cb"
+    },
+    "infinitif": "plaire",
+    "imparfait": [
+      "plaisais",
+      "plaisais",
+      "plaisait",
+      "plaisions",
+      "plaisiez",
+      "plaisaient"
+    ],
+    "futurSimple": [
+      "plairai",
+      "plairas",
+      "plaira",
+      "plairons",
+      "plairez",
+      "plairont"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cc"
+    },
+    "infinitif": "pleurer",
+    "imparfait": [
+      "pleurais",
+      "pleurais",
+      "pleurait",
+      "pleurions",
+      "pleuriez",
+      "pleuraient"
+    ],
+    "futurSimple": [
+      "pleurerai",
+      "pleureras",
+      "pleurera",
+      "pleurerons",
+      "pleurerez",
+      "pleureront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cd"
+    },
+    "infinitif": "pleuvoir",
+    "imparfait": [
+      "",
+      "",
+      "pleuvait",
+      "",
+      "",
+      "pleuvaient"
+    ],
+    "futurSimple": [
+      "",
+      "",
+      "pleuvra",
+      "",
+      "",
+      "pleuvront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d0"
+    },
+    "infinitif": "porter",
+    "imparfait": [
+      "portais",
+      "portais",
+      "portait",
+      "portions",
+      "portiez",
+      "portaient"
+    ],
+    "futurSimple": [
+      "porterai",
+      "porteras",
+      "portera",
+      "porterons",
+      "porterez",
+      "porteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d6"
+    },
+    "infinitif": "pouvoir",
+    "imparfait": [
+      "pouvais",
+      "pouvais",
+      "pouvait",
+      "pouvions",
+      "pouviez",
+      "pouvaient"
+    ],
+    "futurSimple": [
+      "pourrai",
+      "pourras",
+      "pourra",
+      "pourrons",
+      "pourrez",
+      "pourront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d7"
+    },
+    "infinitif": "prendre",
+    "imparfait": [
+      "prenais",
+      "prenais",
+      "prenait",
+      "prenions",
+      "preniez",
+      "prenaient"
+    ],
+    "futurSimple": [
+      "prendrai",
+      "prendras",
+      "prendra",
+      "prendrons",
+      "prendrez",
+      "prendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89dd"
+    },
+    "infinitif": "préparer",
+    "imparfait": [
+      "préparais",
+      "préparais",
+      "préparait",
+      "préparions",
+      "prépariez",
+      "préparaient"
+    ],
+    "futurSimple": [
+      "préparerai",
+      "prépareras",
+      "préparera",
+      "préparerons",
+      "préparerez",
+      "prépareront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89e3"
+    },
+    "infinitif": "prêter",
+    "imparfait": [
+      "prêtais",
+      "prêtais",
+      "prêtait",
+      "prêtions",
+      "prêtiez",
+      "prêtaient"
+    ],
+    "futurSimple": [
+      "prêterai",
+      "prêteras",
+      "prêtera",
+      "prêterons",
+      "prêterez",
+      "prêteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89e6"
+    },
+    "infinitif": "profiter",
+    "imparfait": [
+      "profitais",
+      "profitais",
+      "profitait",
+      "profitions",
+      "profitiez",
+      "profitaient"
+    ],
+    "futurSimple": [
+      "profiterai",
+      "profiteras",
+      "profitera",
+      "profiterons",
+      "profiterez",
+      "profiteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89eb"
+    },
+    "infinitif": "proposer",
+    "imparfait": [
+      "proposais",
+      "proposais",
+      "proposait",
+      "proposions",
+      "proposiez",
+      "proposaient"
+    ],
+    "futurSimple": [
+      "proposerai",
+      "proposeras",
+      "proposera",
+      "proposerons",
+      "proposerez",
+      "proposeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ee"
+    },
+    "infinitif": "quitter",
+    "imparfait": [
+      "quittais",
+      "quittais",
+      "quittait",
+      "quittions",
+      "quittiez",
+      "quittaient"
+    ],
+    "futurSimple": [
+      "quitterai",
+      "quitteras",
+      "quittera",
+      "quitterons",
+      "quitterez",
+      "quitteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ef"
+    },
+    "infinitif": "raconter",
+    "imparfait": [
+      "racontais",
+      "racontais",
+      "racontait",
+      "racontions",
+      "racontiez",
+      "racontaient"
+    ],
+    "futurSimple": [
+      "raconterai",
+      "raconteras",
+      "racontera",
+      "raconterons",
+      "raconterez",
+      "raconteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89f2"
+    },
+    "infinitif": "rappeler",
+    "imparfait": [
+      "rappelais",
+      "rappelais",
+      "rappelait",
+      "rappelions",
+      "rappeliez",
+      "rappelaient"
+    ],
+    "futurSimple": [
+      "rappellerai",
+      "rappelleras",
+      "rappellera",
+      "rappellerons",
+      "rappellerez",
+      "rappelleront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89f8"
+    },
+    "infinitif": "recevoir",
+    "imparfait": [
+      "recevais",
+      "recevais",
+      "recevait",
+      "recevions",
+      "receviez",
+      "recevaient"
+    ],
+    "futurSimple": [
+      "recevrai",
+      "recevras",
+      "recevra",
+      "recevrons",
+      "recevrez",
+      "recevront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89fa"
+    },
+    "infinitif": "recommencer",
+    "imparfait": [
+      "recommençais",
+      "recommençais",
+      "recommençait",
+      "recommencions",
+      "recommenciez",
+      "recommençaient"
+    ],
+    "futurSimple": [
+      "recommencerai",
+      "recommenceras",
+      "recommencera",
+      "recommencerons",
+      "recommencerez",
+      "recommenceront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89fc"
+    },
+    "infinitif": "reconnaître",
+    "imparfait": [
+      "reconnaissais",
+      "reconnaissais",
+      "reconnaissait",
+      "reconnaissions",
+      "reconnaissiez",
+      "reconnaissaient"
+    ],
+    "futurSimple": [
+      "reconnaîtrai",
+      "reconnaîtras",
+      "reconnaîtra",
+      "reconnaîtrons",
+      "reconnaîtrez",
+      "reconnaîtront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a07"
+    },
+    "infinitif": "refuser",
+    "imparfait": [
+      "refusais",
+      "refusais",
+      "refusait",
+      "refusions",
+      "refusiez",
+      "refusaient"
+    ],
+    "futurSimple": [
+      "refuserai",
+      "refuseras",
+      "refusera",
+      "refuserons",
+      "refuserez",
+      "refuseront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a08"
+    },
+    "infinitif": "regarder",
+    "imparfait": [
+      "regardais",
+      "regardais",
+      "regardait",
+      "regardions",
+      "regardiez",
+      "regardaient"
+    ],
+    "futurSimple": [
+      "regarderai",
+      "regarderas",
+      "regardera",
+      "regarderons",
+      "regarderez",
+      "regarderont"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a0f"
+    },
+    "infinitif": "remarquer",
+    "imparfait": [
+      "remarquais",
+      "remarquais",
+      "remarquait",
+      "remarquions",
+      "remarquiez",
+      "remarquaient"
+    ],
+    "futurSimple": [
+      "remarquerai",
+      "remarqueras",
+      "remarquera",
+      "remarquerons",
+      "remarquerez",
+      "remarqueront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a10"
+    },
+    "infinitif": "remercier",
+    "imparfait": [
+      "remerciais",
+      "remerciais",
+      "remerciait",
+      "remerciions",
+      "remerciiez",
+      "remerciaient"
+    ],
+    "futurSimple": [
+      "remercierai",
+      "remercieras",
+      "remerciera",
+      "remercierons",
+      "remercierez",
+      "remercieront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a14"
+    },
+    "infinitif": "remplacer",
+    "imparfait": [
+      "remplaçais",
+      "remplaçais",
+      "remplaçait",
+      "remplacions",
+      "remplaciez",
+      "remplaçaient"
+    ],
+    "futurSimple": [
+      "remplacerai",
+      "remplaceras",
+      "remplacera",
+      "remplacerons",
+      "remplacerez",
+      "remplaceront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a17"
+    },
+    "infinitif": "rencontrer",
+    "imparfait": [
+      "rencontrais",
+      "rencontrais",
+      "rencontrait",
+      "rencontrions",
+      "rencontriez",
+      "rencontraient"
+    ],
+    "futurSimple": [
+      "rencontrerai",
+      "rencontreras",
+      "rencontrera",
+      "rencontrerons",
+      "rencontrerez",
+      "rencontreront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a1b"
+    },
+    "infinitif": "rentrer",
+    "imparfait": [
+      "rentrais",
+      "rentrais",
+      "rentrait",
+      "rentrions",
+      "rentriez",
+      "rentraient"
+    ],
+    "futurSimple": [
+      "rentrerai",
+      "rentreras",
+      "rentrera",
+      "rentrerons",
+      "rentrerez",
+      "rentreront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a2b"
+    },
+    "infinitif": "rester",
+    "imparfait": [
+      "restais",
+      "restais",
+      "restait",
+      "restions",
+      "restiez",
+      "restaient"
+    ],
+    "futurSimple": [
+      "resterai",
+      "resteras",
+      "restera",
+      "resterons",
+      "resterez",
+      "resteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a30"
+    },
+    "infinitif": "retourner",
+    "imparfait": [
+      "retournais",
+      "retournais",
+      "retournait",
+      "retournions",
+      "retourniez",
+      "retournaient"
+    ],
+    "futurSimple": [
+      "retournerai",
+      "retourneras",
+      "retournera",
+      "retournerons",
+      "retournerez",
+      "retourneront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a32"
+    },
+    "infinitif": "retrouver",
+    "imparfait": [
+      "retrouvais",
+      "retrouvais",
+      "retrouvait",
+      "retrouvions",
+      "retrouviez",
+      "retrouvaient"
+    ],
+    "futurSimple": [
+      "retrouverai",
+      "retrouveras",
+      "retrouvera",
+      "retrouverons",
+      "retrouverez",
+      "retrouveront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a34"
+    },
+    "infinitif": "revenir",
+    "imparfait": [
+      "revenais",
+      "revenais",
+      "revenait",
+      "revenions",
+      "reveniez",
+      "revenaient"
+    ],
+    "futurSimple": [
+      "reviendrai",
+      "reviendras",
+      "reviendra",
+      "reviendrons",
+      "reviendrez",
+      "reviendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a3e"
+    },
+    "infinitif": "répondre",
+    "imparfait": [
+      "répondais",
+      "répondais",
+      "répondait",
+      "répondions",
+      "répondiez",
+      "répondaient"
+    ],
+    "futurSimple": [
+      "répondrai",
+      "répondras",
+      "répondra",
+      "répondrons",
+      "répondrez",
+      "répondront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a44"
+    },
+    "infinitif": "réveiller",
+    "imparfait": [
+      "réveillais",
+      "réveillais",
+      "réveillait",
+      "réveillions",
+      "réveilliez",
+      "réveillaient"
+    ],
+    "futurSimple": [
+      "réveillerai",
+      "réveilleras",
+      "réveillera",
+      "réveillerons",
+      "réveillerez",
+      "réveilleront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a47"
+    },
+    "infinitif": "rire",
+    "imparfait": [
+      "riais",
+      "riais",
+      "riait",
+      "riions",
+      "riiez",
+      "riaient"
+    ],
+    "futurSimple": [
+      "rirai",
+      "riras",
+      "rira",
+      "rirons",
+      "rirez",
+      "riront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a4a"
+    },
+    "infinitif": "rouler",
+    "imparfait": [
+      "roulais",
+      "roulais",
+      "roulait",
+      "roulions",
+      "rouliez",
+      "roulaient"
+    ],
+    "futurSimple": [
+      "roulerai",
+      "rouleras",
+      "roulera",
+      "roulerons",
+      "roulerez",
+      "rouleront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a57"
+    },
+    "infinitif": "s'acheter",
+    "imparfait": [
+      "m'achetais",
+      "t'achetais",
+      "s'achetait",
+      "nous achetions",
+      "vous achetiez",
+      "s'achetaient"
+    ],
+    "futurSimple": [
+      "m'achèterai",
+      "t'achèteras",
+      "s'achètera",
+      "nous achèterons",
+      "vous achèterez",
+      "s'achèteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a6a"
+    },
+    "infinitif": "s'appeler",
+    "imparfait": [
+      "m'appelais",
+      "t'appelais",
+      "s'appelait",
+      "nous appelions",
+      "vous appeliez",
+      "s'appelaient"
+    ],
+    "futurSimple": [
+      "m'appellerai",
+      "t'appelleras",
+      "s'appellera",
+      "nous appellerons",
+      "vous appellerez",
+      "s'appelleront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a70"
+    },
+    "infinitif": "s'arrêter",
+    "imparfait": [
+      "m'arrêtais",
+      "t'arrêtais",
+      "s'arrêtait",
+      "nous arrêtions",
+      "vous arrêtiez",
+      "s'arrêtaient"
+    ],
+    "futurSimple": [
+      "m'arrêterai",
+      "t'arrêteras",
+      "s'arrêtera",
+      "nous arrêterons",
+      "vous arrêterez",
+      "s'arrêteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a72"
+    },
+    "infinitif": "s'asseoir",
+    "imparfait": [
+      "m'asseyais, assoyais",
+      "t'asseyais, assoyais",
+      "s'asseyait, assoyait",
+      "nous asseyions, assoyions",
+      "vous asseyiez, assoyiez",
+      "s'asseyaient, assoyaient"
+    ],
+    "futurSimple": [
+      "m'assiérai, assoirai, asseyerai",
+      "t'assiéras, assoiras, asseyeras",
+      "s'assiéra, assoira, asseyera",
+      "nous assiérons, assoirons, asseyerons",
+      "vous assiérez, assoirez, asseyerez",
+      "s'assiéront, assoiront, asseyeront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a89"
+    },
+    "infinitif": "s'entraîner",
+    "imparfait": [
+      "m'entraînais",
+      "t'entraînais",
+      "s'entraînait",
+      "nous entraînions",
+      "vous entraîniez",
+      "s'entraînaient"
+    ],
+    "futurSimple": [
+      "m'entraînerai",
+      "t'entraîneras",
+      "s'entraînera",
+      "nous entraînerons",
+      "vous entraînerez",
+      "s'entraîneront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8aa8"
+    },
+    "infinitif": "s'habiller",
+    "imparfait": [
+      "m'habillais",
+      "t'habillais",
+      "s'habillait",
+      "nous habillions",
+      "vous habilliez",
+      "s'habillaient"
+    ],
+    "futurSimple": [
+      "m'habillerai",
+      "t'habilleras",
+      "s'habillera",
+      "nous habillerons",
+      "vous habillerez",
+      "s'habilleront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8aac"
+    },
+    "infinitif": "s'inquiéter",
+    "imparfait": [
+      "m'inquiétais",
+      "t'inquiétais",
+      "s'inquiétait",
+      "nous inquiétions",
+      "vous inquiétiez",
+      "s'inquiétaient"
+    ],
+    "futurSimple": [
+      "m'inquiéterai",
+      "t'inquiéteras",
+      "s'inquiétera",
+      "nous inquiéterons",
+      "vous inquiéterez",
+      "s'inquiéteront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8ac2"
+    },
+    "infinitif": "sauver",
+    "imparfait": [
+      "sauvais",
+      "sauvais",
+      "sauvait",
+      "sauvions",
+      "sauviez",
+      "sauvaient"
+    ],
+    "futurSimple": [
+      "sauverai",
+      "sauveras",
+      "sauvera",
+      "sauverons",
+      "sauverez",
+      "sauveront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8ac3"
+    },
+    "infinitif": "savoir",
+    "imparfait": [
+      "savais",
+      "savais",
+      "savait",
+      "savions",
+      "saviez",
+      "savaient"
+    ],
+    "futurSimple": [
+      "saurai",
+      "sauras",
+      "saura",
+      "saurons",
+      "saurez",
+      "sauront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8b3f"
+    },
+    "infinitif": "se plaindre",
+    "imparfait": [
+      "me plaignais",
+      "te plaignais",
+      "se plaignait",
+      "nous plaignions",
+      "vous plaigniez",
+      "se plaignaient"
+    ],
+    "futurSimple": [
+      "me plaindrai",
+      "te plaindras",
+      "se plaindra",
+      "nous plaindrons",
+      "vous plaindrez",
+      "se plaindront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bb5"
+    },
+    "infinitif": "se sentir",
+    "imparfait": [
+      "me sentais",
+      "te sentais",
+      "se sentait",
+      "nous sentions",
+      "vous sentiez",
+      "se sentaient"
+    ],
+    "futurSimple": [
+      "me sentirai",
+      "te sentiras",
+      "se sentira",
+      "nous sentirons",
+      "vous sentirez",
+      "se sentiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bf6"
+    },
+    "infinitif": "sentir",
+    "imparfait": [
+      "sentais",
+      "sentais",
+      "sentait",
+      "sentions",
+      "sentiez",
+      "sentaient"
+    ],
+    "futurSimple": [
+      "sentirai",
+      "sentiras",
+      "sentira",
+      "sentirons",
+      "sentirez",
+      "sentiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bf9"
+    },
+    "infinitif": "servir",
+    "imparfait": [
+      "servais",
+      "servais",
+      "servait",
+      "servions",
+      "serviez",
+      "servaient"
+    ],
+    "futurSimple": [
+      "servirai",
+      "serviras",
+      "servira",
+      "servirons",
+      "servirez",
+      "serviront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c00"
+    },
+    "infinitif": "sortir",
+    "imparfait": [
+      "sortais",
+      "sortais",
+      "sortait",
+      "sortions",
+      "sortiez",
+      "sortaient"
+    ],
+    "futurSimple": [
+      "sortirai",
+      "sortiras",
+      "sortira",
+      "sortirons",
+      "sortirez",
+      "sortiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c0c"
+    },
+    "infinitif": "souvenir",
+    "imparfait": [
+      "",
+      "",
+      "souvenait",
+      "",
+      "",
+      ""
+    ],
+    "futurSimple": [
+      "",
+      "",
+      "souviendra",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c1f"
+    },
+    "infinitif": "survivre",
+    "imparfait": [
+      "survivais",
+      "survivais",
+      "survivait",
+      "survivions",
+      "surviviez",
+      "survivaient"
+    ],
+    "futurSimple": [
+      "survivrai",
+      "survivras",
+      "survivra",
+      "survivrons",
+      "survivrez",
+      "survivront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c23"
+    },
+    "infinitif": "tenir",
+    "imparfait": [
+      "tenais",
+      "tenais",
+      "tenait",
+      "tenions",
+      "teniez",
+      "tenaient"
+    ],
+    "futurSimple": [
+      "tiendrai",
+      "tiendras",
+      "tiendra",
+      "tiendrons",
+      "tiendrez",
+      "tiendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c25"
+    },
+    "infinitif": "terminer",
+    "imparfait": [
+      "terminais",
+      "terminais",
+      "terminait",
+      "terminions",
+      "terminiez",
+      "terminaient"
+    ],
+    "futurSimple": [
+      "terminerai",
+      "termineras",
+      "terminera",
+      "terminerons",
+      "terminerez",
+      "termineront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c27"
+    },
+    "infinitif": "tomber",
+    "imparfait": [
+      "tombais",
+      "tombais",
+      "tombait",
+      "tombions",
+      "tombiez",
+      "tombaient"
+    ],
+    "futurSimple": [
+      "tomberai",
+      "tomberas",
+      "tombera",
+      "tomberons",
+      "tomberez",
+      "tomberont"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c29"
+    },
+    "infinitif": "toucher",
+    "imparfait": [
+      "touchais",
+      "touchais",
+      "touchait",
+      "touchions",
+      "touchiez",
+      "touchaient"
+    ],
+    "futurSimple": [
+      "toucherai",
+      "toucheras",
+      "touchera",
+      "toucherons",
+      "toucherez",
+      "toucheront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c2c"
+    },
+    "infinitif": "traduire",
+    "imparfait": [
+      "traduisais",
+      "traduisais",
+      "traduisait",
+      "traduisions",
+      "traduisiez",
+      "traduisaient"
+    ],
+    "futurSimple": [
+      "traduirai",
+      "traduiras",
+      "traduira",
+      "traduirons",
+      "traduirez",
+      "traduiront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c38"
+    },
+    "infinitif": "tromper",
+    "imparfait": [
+      "trompais",
+      "trompais",
+      "trompait",
+      "trompions",
+      "trompiez",
+      "trompaient"
+    ],
+    "futurSimple": [
+      "tromperai",
+      "tromperas",
+      "trompera",
+      "tromperons",
+      "tromperez",
+      "tromperont"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c3b"
+    },
+    "infinitif": "trouver",
+    "imparfait": [
+      "trouvais",
+      "trouvais",
+      "trouvait",
+      "trouvions",
+      "trouviez",
+      "trouvaient"
+    ],
+    "futurSimple": [
+      "trouverai",
+      "trouveras",
+      "trouvera",
+      "trouverons",
+      "trouverez",
+      "trouveront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c41"
+    },
+    "infinitif": "vendre",
+    "imparfait": [
+      "vendais",
+      "vendais",
+      "vendait",
+      "vendions",
+      "vendiez",
+      "vendaient"
+    ],
+    "futurSimple": [
+      "vendrai",
+      "vendras",
+      "vendra",
+      "vendrons",
+      "vendrez",
+      "vendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c42"
+    },
+    "infinitif": "venir",
+    "imparfait": [
+      "venais",
+      "venais",
+      "venait",
+      "venions",
+      "veniez",
+      "venaient"
+    ],
+    "futurSimple": [
+      "viendrai",
+      "viendras",
+      "viendra",
+      "viendrons",
+      "viendrez",
+      "viendront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c49"
+    },
+    "infinitif": "vivre",
+    "imparfait": [
+      "vivais",
+      "vivais",
+      "vivait",
+      "vivions",
+      "viviez",
+      "vivaient"
+    ],
+    "futurSimple": [
+      "vivrai",
+      "vivras",
+      "vivra",
+      "vivrons",
+      "vivrez",
+      "vivront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4b"
+    },
+    "infinitif": "voir",
+    "imparfait": [
+      "voyais",
+      "voyais",
+      "voyait",
+      "voyions",
+      "voyiez",
+      "voyaient"
+    ],
+    "futurSimple": [
+      "verrai",
+      "verras",
+      "verra",
+      "verrons",
+      "verrez",
+      "verront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4c"
+    },
+    "infinitif": "voler",
+    "imparfait": [
+      "volais",
+      "volais",
+      "volait",
+      "volions",
+      "voliez",
+      "volaient"
+    ],
+    "futurSimple": [
+      "volerai",
+      "voleras",
+      "volera",
+      "volerons",
+      "volerez",
+      "voleront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4f"
+    },
+    "infinitif": "vouloir",
+    "imparfait": [
+      "voulais",
+      "voulais",
+      "voulait",
+      "voulions",
+      "vouliez",
+      "voulaient"
+    ],
+    "futurSimple": [
+      "voudrai",
+      "voudras",
+      "voudra",
+      "voudrons",
+      "voudrez",
+      "voudront"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c52"
+    },
+    "infinitif": "voyager",
+    "imparfait": [
+      "voyageais",
+      "voyageais",
+      "voyageait",
+      "voyagions",
+      "voyagiez",
+      "voyageaient"
+    ],
+    "futurSimple": [
+      "voyagerai",
+      "voyageras",
+      "voyagera",
+      "voyagerons",
+      "voyagerez",
+      "voyageront"
+    ]
+  }
+]

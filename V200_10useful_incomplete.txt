@@ -1,0 +1,7253 @@
+[
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f889c"
+    },
+    "infinitif": "accepter",
+    "participePasse": "accepté",
+    "participePresent": "acceptant",
+    "auxiliaire": "avoir",
+    "present": [
+      "accepte",
+      "acceptes",
+      "accepte",
+      "acceptons",
+      "acceptez",
+      "acceptent"
+    ],
+    "imparfait": [
+      "acceptais",
+      "acceptais",
+      "acceptait",
+      "acceptions",
+      "acceptiez",
+      "acceptaient"
+    ],
+    "futurSimple": [
+      "accepterai",
+      "accepteras",
+      "acceptera",
+      "accepterons",
+      "accepterez",
+      "accepteront"
+    ],
+    "subjonctifPresent": [
+      "accepte",
+      "acceptes",
+      "accepte",
+      "acceptions",
+      "acceptiez",
+      "acceptent"
+    ],
+    "conditionnelPresent": [
+      "accepterais",
+      "accepterais",
+      "accepterait",
+      "accepterions",
+      "accepteriez",
+      "accepteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88a4"
+    },
+    "infinitif": "acheter",
+    "participePasse": "acheté",
+    "participePresent": "achetant",
+    "auxiliaire": "avoir",
+    "present": [
+      "achète",
+      "achètes",
+      "achète",
+      "achetons",
+      "achetez",
+      "achètent"
+    ],
+    "imparfait": [
+      "achetais",
+      "achetais",
+      "achetait",
+      "achetions",
+      "achetiez",
+      "achetaient"
+    ],
+    "futurSimple": [
+      "achèterai",
+      "achèteras",
+      "achètera",
+      "achèterons",
+      "achèterez",
+      "achèteront"
+    ],
+    "subjonctifPresent": [
+      "achète",
+      "achètes",
+      "achète",
+      "achetions",
+      "achetiez",
+      "achètent"
+    ],
+    "conditionnelPresent": [
+      "achèterais",
+      "achèterais",
+      "achèterait",
+      "achèterions",
+      "achèteriez",
+      "achèteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ad"
+    },
+    "infinitif": "aimer",
+    "participePasse": "aimé",
+    "participePresent": "aimant",
+    "auxiliaire": "avoir",
+    "present": [
+      "aime",
+      "aimes",
+      "aime",
+      "aimons",
+      "aimez",
+      "aiment"
+    ],
+    "imparfait": [
+      "aimais",
+      "aimais",
+      "aimait",
+      "aimions",
+      "aimiez",
+      "aimaient"
+    ],
+    "futurSimple": [
+      "aimerai",
+      "aimeras",
+      "aimera",
+      "aimerons",
+      "aimerez",
+      "aimeront"
+    ],
+    "subjonctifPresent": [
+      "aime",
+      "aimes",
+      "aime",
+      "aimions",
+      "aimiez",
+      "aiment"
+    ],
+    "conditionnelPresent": [
+      "aimerais",
+      "aimerais",
+      "aimerait",
+      "aimerions",
+      "aimeriez",
+      "aimeraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88af"
+    },
+    "infinitif": "aller",
+    "participePasse": "allé",
+    "participePresent": "allant",
+    "auxiliaire": "être",
+    "present": [
+      "vais",
+      "vas",
+      "va",
+      "allons",
+      "allez",
+      "vont"
+    ],
+    "imparfait": [
+      "allais",
+      "allais",
+      "allait",
+      "allions",
+      "alliez",
+      "allaient"
+    ],
+    "futurSimple": [
+      "irai",
+      "iras",
+      "ira",
+      "irons",
+      "irez",
+      "iront"
+    ],
+    "subjonctifPresent": [
+      "aille",
+      "ailles",
+      "aille",
+      "allions",
+      "alliez",
+      "aillent"
+    ],
+    "conditionnelPresent": [
+      "irais",
+      "irais",
+      "irait",
+      "irions",
+      "iriez",
+      "iraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b0"
+    },
+    "infinitif": "allumer",
+    "participePasse": "allumé",
+    "participePresent": "allumant",
+    "auxiliaire": "avoir",
+    "present": [
+      "allume",
+      "allumes",
+      "allume",
+      "allumons",
+      "allumez",
+      "allument"
+    ],
+    "imparfait": [
+      "allumais",
+      "allumais",
+      "allumait",
+      "allumions",
+      "allumiez",
+      "allumaient"
+    ],
+    "futurSimple": [
+      "allumerai",
+      "allumeras",
+      "allumera",
+      "allumerons",
+      "allumerez",
+      "allumeront"
+    ],
+    "subjonctifPresent": [
+      "allume",
+      "allumes",
+      "allume",
+      "allumions",
+      "allumiez",
+      "allument"
+    ],
+    "conditionnelPresent": [
+      "allumerais",
+      "allumerais",
+      "allumerait",
+      "allumerions",
+      "allumeriez",
+      "allumeraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b1"
+    },
+    "infinitif": "amener",
+    "participePasse": "amené",
+    "participePresent": "amenant",
+    "auxiliaire": "avoir",
+    "present": [
+      "amène",
+      "amènes",
+      "amène",
+      "amenons",
+      "amenez",
+      "amènent"
+    ],
+    "imparfait": [
+      "amenais",
+      "amenais",
+      "amenait",
+      "amenions",
+      "ameniez",
+      "amenaient"
+    ],
+    "futurSimple": [
+      "amènerai",
+      "amèneras",
+      "amènera",
+      "amènerons",
+      "amènerez",
+      "amèneront"
+    ],
+    "subjonctifPresent": [
+      "amène",
+      "amènes",
+      "amène",
+      "amenions",
+      "ameniez",
+      "amènent"
+    ],
+    "conditionnelPresent": [
+      "amènerais",
+      "amènerais",
+      "amènerait",
+      "amènerions",
+      "amèneriez",
+      "amèneraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b6"
+    },
+    "infinitif": "apparaître",
+    "participePasse": "apparu",
+    "participePresent": "apparaissant",
+    "auxiliaire": "être",
+    "present": [
+      "apparais",
+      "apparais",
+      "apparaît",
+      "apparaissons",
+      "apparaissez",
+      "apparaissent"
+    ],
+    "imparfait": [
+      "apparaissais",
+      "apparaissais",
+      "apparaissait",
+      "apparaissions",
+      "apparaissiez",
+      "apparaissaient"
+    ],
+    "futurSimple": [
+      "apparaîtrai",
+      "apparaîtras",
+      "apparaîtra",
+      "apparaîtrons",
+      "apparaîtrez",
+      "apparaîtront"
+    ],
+    "subjonctifPresent": [
+      "apparaisse",
+      "apparaisses",
+      "apparaisse",
+      "apparaissions",
+      "apparaissiez",
+      "apparaissent"
+    ],
+    "conditionnelPresent": [
+      "apparaîtrais",
+      "apparaîtrais",
+      "apparaîtrait",
+      "apparaîtrions",
+      "apparaîtriez",
+      "apparaîtraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b8"
+    },
+    "infinitif": "appeler",
+    "participePasse": "appelé",
+    "participePresent": "appelant",
+    "auxiliaire": "avoir",
+    "present": [
+      "appelle",
+      "appelles",
+      "appelle",
+      "appelons",
+      "appelez",
+      "appellent"
+    ],
+    "imparfait": [
+      "appelais",
+      "appelais",
+      "appelait",
+      "appelions",
+      "appeliez",
+      "appelaient"
+    ],
+    "futurSimple": [
+      "appellerai",
+      "appelleras",
+      "appellera",
+      "appellerons",
+      "appellerez",
+      "appelleront"
+    ],
+    "subjonctifPresent": [
+      "appelle",
+      "appelles",
+      "appelle",
+      "appelions",
+      "appeliez",
+      "appellent"
+    ],
+    "conditionnelPresent": [
+      "appellerais",
+      "appellerais",
+      "appellerait",
+      "appellerions",
+      "appelleriez",
+      "appelleraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b9"
+    },
+    "infinitif": "apporter",
+    "participePasse": "apporté",
+    "participePresent": "apportant",
+    "auxiliaire": "avoir",
+    "present": [
+      "apporte",
+      "apportes",
+      "apporte",
+      "apportons",
+      "apportez",
+      "apportent"
+    ],
+    "imparfait": [
+      "apportais",
+      "apportais",
+      "apportait",
+      "apportions",
+      "apportiez",
+      "apportaient"
+    ],
+    "futurSimple": [
+      "apporterai",
+      "apporteras",
+      "apportera",
+      "apporterons",
+      "apporterez",
+      "apporteront"
+    ],
+    "subjonctifPresent": [
+      "apporte",
+      "apportes",
+      "apporte",
+      "apportions",
+      "apportiez",
+      "apportent"
+    ],
+    "conditionnelPresent": [
+      "apporterais",
+      "apporterais",
+      "apporterait",
+      "apporterions",
+      "apporteriez",
+      "apporteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ba"
+    },
+    "infinitif": "apprendre",
+    "participePasse": "appris",
+    "participePresent": "apprenant",
+    "auxiliaire": "avoir",
+    "present": [
+      "apprends",
+      "apprends",
+      "apprend",
+      "apprenons",
+      "apprenez",
+      "apprennent"
+    ],
+    "imparfait": [
+      "apprenais",
+      "apprenais",
+      "apprenait",
+      "apprenions",
+      "appreniez",
+      "apprenaient"
+    ],
+    "futurSimple": [
+      "apprendrai",
+      "apprendras",
+      "apprendra",
+      "apprendrons",
+      "apprendrez",
+      "apprendront"
+    ],
+    "subjonctifPresent": [
+      "apprenne",
+      "apprennes",
+      "apprenne",
+      "apprenions",
+      "appreniez",
+      "apprennent"
+    ],
+    "conditionnelPresent": [
+      "apprendrais",
+      "apprendrais",
+      "apprendrait",
+      "apprendrions",
+      "apprendriez",
+      "apprendraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88bf"
+    },
+    "infinitif": "arrêter",
+    "participePasse": "arrêté",
+    "participePresent": "arrêtant",
+    "auxiliaire": "avoir",
+    "present": [
+      "arrête",
+      "arrêtes",
+      "arrête",
+      "arrêtons",
+      "arrêtez",
+      "arrêtent"
+    ],
+    "imparfait": [
+      "arrêtais",
+      "arrêtais",
+      "arrêtait",
+      "arrêtions",
+      "arrêtiez",
+      "arrêtaient"
+    ],
+    "futurSimple": [
+      "arrêterai",
+      "arrêteras",
+      "arrêtera",
+      "arrêterons",
+      "arrêterez",
+      "arrêteront"
+    ],
+    "subjonctifPresent": [
+      "arrête",
+      "arrêtes",
+      "arrête",
+      "arrêtions",
+      "arrêtiez",
+      "arrêtent"
+    ],
+    "conditionnelPresent": [
+      "arrêterais",
+      "arrêterais",
+      "arrêterait",
+      "arrêterions",
+      "arrêteriez",
+      "arrêteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c0"
+    },
+    "infinitif": "arriver",
+    "participePasse": "arrivé",
+    "participePresent": "arrivant",
+    "auxiliaire": "être",
+    "present": [
+      "arrive",
+      "arrives",
+      "arrive",
+      "arrivons",
+      "arrivez",
+      "arrivent"
+    ],
+    "imparfait": [
+      "arrivais",
+      "arrivais",
+      "arrivait",
+      "arrivions",
+      "arriviez",
+      "arrivaient"
+    ],
+    "futurSimple": [
+      "arriverai",
+      "arriveras",
+      "arrivera",
+      "arriverons",
+      "arriverez",
+      "arriveront"
+    ],
+    "subjonctifPresent": [
+      "arrive",
+      "arrives",
+      "arrive",
+      "arrivions",
+      "arriviez",
+      "arrivent"
+    ],
+    "conditionnelPresent": [
+      "arriverais",
+      "arriverais",
+      "arriverait",
+      "arriverions",
+      "arriveriez",
+      "arriveraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c3"
+    },
+    "infinitif": "assister",
+    "participePasse": "assisté",
+    "participePresent": "assistant",
+    "auxiliaire": "avoir",
+    "present": [
+      "assiste",
+      "assistes",
+      "assiste",
+      "assistons",
+      "assistez",
+      "assistent"
+    ],
+    "imparfait": [
+      "assistais",
+      "assistais",
+      "assistait",
+      "assistions",
+      "assistiez",
+      "assistaient"
+    ],
+    "futurSimple": [
+      "assisterai",
+      "assisteras",
+      "assistera",
+      "assisterons",
+      "assisterez",
+      "assisteront"
+    ],
+    "subjonctifPresent": [
+      "assiste",
+      "assistes",
+      "assiste",
+      "assistions",
+      "assistiez",
+      "assistent"
+    ],
+    "conditionnelPresent": [
+      "assisterais",
+      "assisterais",
+      "assisterait",
+      "assisterions",
+      "assisteriez",
+      "assisteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c8"
+    },
+    "infinitif": "attendre",
+    "participePasse": "attendu",
+    "participePresent": "attendant",
+    "auxiliaire": "avoir",
+    "present": [
+      "attends",
+      "attends",
+      "attend",
+      "attendons",
+      "attendez",
+      "attendent"
+    ],
+    "imparfait": [
+      "attendais",
+      "attendais",
+      "attendait",
+      "attendions",
+      "attendiez",
+      "attendaient"
+    ],
+    "futurSimple": [
+      "attendrai",
+      "attendras",
+      "attendra",
+      "attendrons",
+      "attendrez",
+      "attendront"
+    ],
+    "subjonctifPresent": [
+      "attende",
+      "attendes",
+      "attende",
+      "attendions",
+      "attendiez",
+      "attendent"
+    ],
+    "conditionnelPresent": [
+      "attendrais",
+      "attendrais",
+      "attendrait",
+      "attendrions",
+      "attendriez",
+      "attendraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88cb"
+    },
+    "infinitif": "avoir",
+    "participePasse": "eu",
+    "participePresent": "ayant",
+    "auxiliaire": "avoir",
+    "present": [
+      "ai",
+      "as",
+      "a",
+      "avons",
+      "avez",
+      "ont"
+    ],
+    "imparfait": [
+      "avais",
+      "avais",
+      "avait",
+      "avions",
+      "aviez",
+      "avaient"
+    ],
+    "futurSimple": [
+      "aurai",
+      "auras",
+      "aura",
+      "aurons",
+      "aurez",
+      "auront"
+    ],
+    "subjonctifPresent": [
+      "aie",
+      "aies",
+      "ait",
+      "ayons",
+      "ayez",
+      "aient"
+    ],
+    "conditionnelPresent": [
+      "aurais",
+      "aurais",
+      "aurait",
+      "aurions",
+      "auriez",
+      "auraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88cf"
+    },
+    "infinitif": "boire",
+    "participePasse": "bu",
+    "participePresent": "buvant",
+    "auxiliaire": "avoir",
+    "present": [
+      "bois",
+      "bois",
+      "boit",
+      "buvons",
+      "buvez",
+      "boivent"
+    ],
+    "imparfait": [
+      "buvais",
+      "buvais",
+      "buvait",
+      "buvions",
+      "buviez",
+      "buvaient"
+    ],
+    "futurSimple": [
+      "boirai",
+      "boiras",
+      "boira",
+      "boirons",
+      "boirez",
+      "boiront"
+    ],
+    "subjonctifPresent": [
+      "boive",
+      "boives",
+      "boive",
+      "buvions",
+      "buviez",
+      "boivent"
+    ],
+    "conditionnelPresent": [
+      "boirais",
+      "boirais",
+      "boirait",
+      "boirions",
+      "boiriez",
+      "boiraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88d4"
+    },
+    "infinitif": "cacher",
+    "participePasse": "caché",
+    "participePresent": "cachant",
+    "auxiliaire": "avoir",
+    "present": [
+      "cache",
+      "caches",
+      "cache",
+      "cachons",
+      "cachez",
+      "cachent"
+    ],
+    "imparfait": [
+      "cachais",
+      "cachais",
+      "cachait",
+      "cachions",
+      "cachiez",
+      "cachaient"
+    ],
+    "futurSimple": [
+      "cacherai",
+      "cacheras",
+      "cachera",
+      "cacherons",
+      "cacherez",
+      "cacheront"
+    ],
+    "subjonctifPresent": [
+      "cache",
+      "caches",
+      "cache",
+      "cachions",
+      "cachiez",
+      "cachent"
+    ],
+    "conditionnelPresent": [
+      "cacherais",
+      "cacherais",
+      "cacherait",
+      "cacherions",
+      "cacheriez",
+      "cacheraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88d7"
+    },
+    "infinitif": "casser",
+    "participePasse": "cassé",
+    "participePresent": "cassant",
+    "auxiliaire": "avoir",
+    "present": [
+      "casse",
+      "casses",
+      "casse",
+      "cassons",
+      "cassez",
+      "cassent"
+    ],
+    "imparfait": [
+      "cassais",
+      "cassais",
+      "cassait",
+      "cassions",
+      "cassiez",
+      "cassaient"
+    ],
+    "futurSimple": [
+      "casserai",
+      "casseras",
+      "cassera",
+      "casserons",
+      "casserez",
+      "casseront"
+    ],
+    "subjonctifPresent": [
+      "casse",
+      "casses",
+      "casse",
+      "cassions",
+      "cassiez",
+      "cassent"
+    ],
+    "conditionnelPresent": [
+      "casserais",
+      "casserais",
+      "casserait",
+      "casserions",
+      "casseriez",
+      "casseraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88db"
+    },
+    "infinitif": "changer",
+    "participePasse": "changé",
+    "participePresent": "changeant",
+    "auxiliaire": "avoir",
+    "present": [
+      "change",
+      "changes",
+      "change",
+      "changeons",
+      "changez",
+      "changent"
+    ],
+    "imparfait": [
+      "changeais",
+      "changeais",
+      "changeait",
+      "changions",
+      "changiez",
+      "changeaient"
+    ],
+    "futurSimple": [
+      "changerai",
+      "changeras",
+      "changera",
+      "changerons",
+      "changerez",
+      "changeront"
+    ],
+    "subjonctifPresent": [
+      "change",
+      "changes",
+      "change",
+      "changions",
+      "changiez",
+      "changent"
+    ],
+    "conditionnelPresent": [
+      "changerais",
+      "changerais",
+      "changerait",
+      "changerions",
+      "changeriez",
+      "changeraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88dc"
+    },
+    "infinitif": "chanter",
+    "participePasse": "chanté",
+    "participePresent": "chantant",
+    "auxiliaire": "avoir",
+    "present": [
+      "chante",
+      "chantes",
+      "chante",
+      "chantons",
+      "chantez",
+      "chantent"
+    ],
+    "imparfait": [
+      "chantais",
+      "chantais",
+      "chantait",
+      "chantions",
+      "chantiez",
+      "chantaient"
+    ],
+    "futurSimple": [
+      "chanterai",
+      "chanteras",
+      "chantera",
+      "chanterons",
+      "chanterez",
+      "chanteront"
+    ],
+    "subjonctifPresent": [
+      "chante",
+      "chantes",
+      "chante",
+      "chantions",
+      "chantiez",
+      "chantent"
+    ],
+    "conditionnelPresent": [
+      "chanterais",
+      "chanterais",
+      "chanterait",
+      "chanterions",
+      "chanteriez",
+      "chanteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88df"
+    },
+    "infinitif": "chercher",
+    "participePasse": "cherché",
+    "participePresent": "cherchant",
+    "auxiliaire": "avoir",
+    "present": [
+      "cherche",
+      "cherches",
+      "cherche",
+      "cherchons",
+      "cherchez",
+      "cherchent"
+    ],
+    "imparfait": [
+      "cherchais",
+      "cherchais",
+      "cherchait",
+      "cherchions",
+      "cherchiez",
+      "cherchaient"
+    ],
+    "futurSimple": [
+      "chercherai",
+      "chercheras",
+      "cherchera",
+      "chercherons",
+      "chercherez",
+      "chercheront"
+    ],
+    "subjonctifPresent": [
+      "cherche",
+      "cherches",
+      "cherche",
+      "cherchions",
+      "cherchiez",
+      "cherchent"
+    ],
+    "conditionnelPresent": [
+      "chercherais",
+      "chercherais",
+      "chercherait",
+      "chercherions",
+      "chercheriez",
+      "chercheraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e1"
+    },
+    "infinitif": "choisir",
+    "participePasse": "choisi",
+    "participePresent": "choisissant",
+    "auxiliaire": "avoir",
+    "present": [
+      "choisis",
+      "choisis",
+      "choisit",
+      "choisissons",
+      "choisissez",
+      "choisissent"
+    ],
+    "imparfait": [
+      "choisissais",
+      "choisissais",
+      "choisissait",
+      "choisissions",
+      "choisissiez",
+      "choisissaient"
+    ],
+    "futurSimple": [
+      "choisirai",
+      "choisiras",
+      "choisira",
+      "choisirons",
+      "choisirez",
+      "choisiront"
+    ],
+    "subjonctifPresent": [
+      "choisisse",
+      "choisisses",
+      "choisisse",
+      "choisissions",
+      "choisissiez",
+      "choisissent"
+    ],
+    "conditionnelPresent": [
+      "choisirais",
+      "choisirais",
+      "choisirait",
+      "choisirions",
+      "choisiriez",
+      "choisiraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e4"
+    },
+    "infinitif": "commencer",
+    "participePasse": "commencé",
+    "participePresent": "commençant",
+    "auxiliaire": "avoir",
+    "present": [
+      "commence",
+      "commences",
+      "commence",
+      "commençons",
+      "commencez",
+      "commencent"
+    ],
+    "imparfait": [
+      "commençais",
+      "commençais",
+      "commençait",
+      "commencions",
+      "commenciez",
+      "commençaient"
+    ],
+    "futurSimple": [
+      "commencerai",
+      "commenceras",
+      "commencera",
+      "commencerons",
+      "commencerez",
+      "commenceront"
+    ],
+    "subjonctifPresent": [
+      "commence",
+      "commences",
+      "commence",
+      "commencions",
+      "commenciez",
+      "commencent"
+    ],
+    "conditionnelPresent": [
+      "commencerais",
+      "commencerais",
+      "commencerait",
+      "commencerions",
+      "commenceriez",
+      "commenceraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e7"
+    },
+    "infinitif": "comprendre",
+    "participePasse": "compris",
+    "participePresent": "comprenant",
+    "auxiliaire": "avoir",
+    "present": [
+      "comprends",
+      "comprends",
+      "comprend",
+      "comprenons",
+      "comprenez",
+      "comprennent"
+    ],
+    "imparfait": [
+      "comprenais",
+      "comprenais",
+      "comprenait",
+      "comprenions",
+      "compreniez",
+      "comprenaient"
+    ],
+    "futurSimple": [
+      "comprendrai",
+      "comprendras",
+      "comprendra",
+      "comprendrons",
+      "comprendrez",
+      "comprendront"
+    ],
+    "subjonctifPresent": [
+      "comprenne",
+      "comprennes",
+      "comprenne",
+      "comprenions",
+      "compreniez",
+      "comprennent"
+    ],
+    "conditionnelPresent": [
+      "comprendrais",
+      "comprendrais",
+      "comprendrait",
+      "comprendrions",
+      "comprendriez",
+      "comprendraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88eb"
+    },
+    "infinitif": "conduire",
+    "participePasse": "conduit",
+    "participePresent": "conduisant",
+    "auxiliaire": "avoir",
+    "present": [
+      "conduis",
+      "conduis",
+      "conduit",
+      "conduisons",
+      "conduisez",
+      "conduisent"
+    ],
+    "imparfait": [
+      "conduisais",
+      "conduisais",
+      "conduisait",
+      "conduisions",
+      "conduisiez",
+      "conduisaient"
+    ],
+    "futurSimple": [
+      "conduirai",
+      "conduiras",
+      "conduira",
+      "conduirons",
+      "conduirez",
+      "conduiront"
+    ],
+    "subjonctifPresent": [
+      "conduise",
+      "conduises",
+      "conduise",
+      "conduisions",
+      "conduisiez",
+      "conduisent"
+    ],
+    "conditionnelPresent": [
+      "conduirais",
+      "conduirais",
+      "conduirait",
+      "conduirions",
+      "conduiriez",
+      "conduiraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ef"
+    },
+    "infinitif": "connaître",
+    "participePasse": "connu",
+    "participePresent": "connaissant",
+    "auxiliaire": "avoir",
+    "present": [
+      "connais",
+      "connais",
+      "connaît",
+      "connaissons",
+      "connaissez",
+      "connaissent"
+    ],
+    "imparfait": [
+      "connaissais",
+      "connaissais",
+      "connaissait",
+      "connaissions",
+      "connaissiez",
+      "connaissaient"
+    ],
+    "futurSimple": [
+      "connaîtrai",
+      "connaîtras",
+      "connaîtra",
+      "connaîtrons",
+      "connaîtrez",
+      "connaîtront"
+    ],
+    "subjonctifPresent": [
+      "connaisse",
+      "connaisses",
+      "connaisse",
+      "connaissions",
+      "connaissiez",
+      "connaissent"
+    ],
+    "conditionnelPresent": [
+      "connaîtrais",
+      "connaîtrais",
+      "connaîtrait",
+      "connaîtrions",
+      "connaîtriez",
+      "connaîtraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88f2"
+    },
+    "infinitif": "construire",
+    "participePasse": "construit",
+    "participePresent": "construisant",
+    "auxiliaire": "avoir",
+    "present": [
+      "construis",
+      "construis",
+      "construit",
+      "construisons",
+      "construisez",
+      "construisent"
+    ],
+    "imparfait": [
+      "construisais",
+      "construisais",
+      "construisait",
+      "construisions",
+      "construisiez",
+      "construisaient"
+    ],
+    "futurSimple": [
+      "construirai",
+      "construiras",
+      "construira",
+      "construirons",
+      "construirez",
+      "construiront"
+    ],
+    "subjonctifPresent": [
+      "construise",
+      "construises",
+      "construise",
+      "construisions",
+      "construisiez",
+      "construisent"
+    ],
+    "conditionnelPresent": [
+      "construirais",
+      "construirais",
+      "construirait",
+      "construirions",
+      "construiriez",
+      "construiraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88f6"
+    },
+    "infinitif": "continuer",
+    "participePasse": "continué",
+    "participePresent": "continuant",
+    "auxiliaire": "avoir",
+    "present": [
+      "continue",
+      "continues",
+      "continue",
+      "continuons",
+      "continuez",
+      "continuent"
+    ],
+    "imparfait": [
+      "continuais",
+      "continuais",
+      "continuait",
+      "continuions",
+      "continuiez",
+      "continuaient"
+    ],
+    "futurSimple": [
+      "continuerai",
+      "continueras",
+      "continuera",
+      "continuerons",
+      "continuerez",
+      "continueront"
+    ],
+    "subjonctifPresent": [
+      "continue",
+      "continues",
+      "continue",
+      "continuions",
+      "continuiez",
+      "continuent"
+    ],
+    "conditionnelPresent": [
+      "continuerais",
+      "continuerais",
+      "continuerait",
+      "continuerions",
+      "continueriez",
+      "continueraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88fe"
+    },
+    "infinitif": "courir",
+    "participePasse": "couru",
+    "participePresent": "courant",
+    "auxiliaire": "avoir",
+    "present": [
+      "cours",
+      "cours",
+      "court",
+      "courons",
+      "courez",
+      "courent"
+    ],
+    "imparfait": [
+      "courais",
+      "courais",
+      "courait",
+      "courions",
+      "couriez",
+      "couraient"
+    ],
+    "futurSimple": [
+      "courrai",
+      "courras",
+      "courra",
+      "courrons",
+      "courrez",
+      "courront"
+    ],
+    "subjonctifPresent": [
+      "coure",
+      "coures",
+      "coure",
+      "courions",
+      "couriez",
+      "courent"
+    ],
+    "conditionnelPresent": [
+      "courrais",
+      "courrais",
+      "courrait",
+      "courrions",
+      "courriez",
+      "courraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8905"
+    },
+    "infinitif": "croire",
+    "participePasse": "cru",
+    "participePresent": "croyant",
+    "auxiliaire": "avoir",
+    "present": [
+      "crois",
+      "crois",
+      "croit",
+      "croyons",
+      "croyez",
+      "croient"
+    ],
+    "imparfait": [
+      "croyais",
+      "croyais",
+      "croyait",
+      "croyions",
+      "croyiez",
+      "croyaient"
+    ],
+    "futurSimple": [
+      "croirai",
+      "croiras",
+      "croira",
+      "croirons",
+      "croirez",
+      "croiront"
+    ],
+    "subjonctifPresent": [
+      "croie",
+      "croies",
+      "croie",
+      "croyions",
+      "croyiez",
+      "croient"
+    ],
+    "conditionnelPresent": [
+      "croirais",
+      "croirais",
+      "croirait",
+      "croirions",
+      "croiriez",
+      "croiraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8909"
+    },
+    "infinitif": "demander",
+    "participePasse": "demandé",
+    "participePresent": "demandant",
+    "auxiliaire": "avoir",
+    "present": [
+      "demande",
+      "demandes",
+      "demande",
+      "demandons",
+      "demandez",
+      "demandent"
+    ],
+    "imparfait": [
+      "demandais",
+      "demandais",
+      "demandait",
+      "demandions",
+      "demandiez",
+      "demandaient"
+    ],
+    "futurSimple": [
+      "demanderai",
+      "demanderas",
+      "demandera",
+      "demanderons",
+      "demanderez",
+      "demanderont"
+    ],
+    "subjonctifPresent": [
+      "demande",
+      "demandes",
+      "demande",
+      "demandions",
+      "demandiez",
+      "demandent"
+    ],
+    "conditionnelPresent": [
+      "demanderais",
+      "demanderais",
+      "demanderait",
+      "demanderions",
+      "demanderiez",
+      "demanderaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f890e"
+    },
+    "infinitif": "devenir",
+    "participePasse": "devenu",
+    "participePresent": "devenant",
+    "auxiliaire": "être",
+    "present": [
+      "deviens",
+      "deviens",
+      "devient",
+      "devenons",
+      "devenez",
+      "deviennent"
+    ],
+    "imparfait": [
+      "devenais",
+      "devenais",
+      "devenait",
+      "devenions",
+      "deveniez",
+      "devenaient"
+    ],
+    "futurSimple": [
+      "deviendrai",
+      "deviendras",
+      "deviendra",
+      "deviendrons",
+      "deviendrez",
+      "deviendront"
+    ],
+    "subjonctifPresent": [
+      "devienne",
+      "deviennes",
+      "devienne",
+      "devenions",
+      "deveniez",
+      "deviennent"
+    ],
+    "conditionnelPresent": [
+      "deviendrais",
+      "deviendrais",
+      "deviendrait",
+      "deviendrions",
+      "deviendriez",
+      "deviendraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8910"
+    },
+    "infinitif": "devoir",
+    "participePasse": "dû,",
+    "participePresent": "devant",
+    "auxiliaire": "avoir",
+    "present": [
+      "dois",
+      "dois",
+      "doit",
+      "devons",
+      "devez",
+      "doivent"
+    ],
+    "imparfait": [
+      "devais",
+      "devais",
+      "devait",
+      "devions",
+      "deviez",
+      "devaient"
+    ],
+    "futurSimple": [
+      "devrai",
+      "devras",
+      "devra",
+      "devrons",
+      "devrez",
+      "devront"
+    ],
+    "subjonctifPresent": [
+      "doive",
+      "doives",
+      "doive",
+      "devions",
+      "deviez",
+      "doivent"
+    ],
+    "conditionnelPresent": [
+      "devrais",
+      "devrais",
+      "devrait",
+      "devrions",
+      "devriez",
+      "devraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8914"
+    },
+    "infinitif": "décider",
+    "participePasse": "décidé",
+    "participePresent": "décidant",
+    "auxiliaire": "avoir",
+    "present": [
+      "décide",
+      "décides",
+      "décide",
+      "décidons",
+      "décidez",
+      "décident"
+    ],
+    "imparfait": [
+      "décidais",
+      "décidais",
+      "décidait",
+      "décidions",
+      "décidiez",
+      "décidaient"
+    ],
+    "futurSimple": [
+      "déciderai",
+      "décideras",
+      "décidera",
+      "déciderons",
+      "déciderez",
+      "décideront"
+    ],
+    "subjonctifPresent": [
+      "décide",
+      "décides",
+      "décide",
+      "décidions",
+      "décidiez",
+      "décident"
+    ],
+    "conditionnelPresent": [
+      "déciderais",
+      "déciderais",
+      "déciderait",
+      "déciderions",
+      "décideriez",
+      "décideraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8918"
+    },
+    "infinitif": "décrire",
+    "participePasse": "décrit",
+    "participePresent": "décrivant",
+    "auxiliaire": "avoir",
+    "present": [
+      "décris",
+      "décris",
+      "décrit",
+      "décrivons",
+      "décrivez",
+      "décrivent"
+    ],
+    "imparfait": [
+      "décrivais",
+      "décrivais",
+      "décrivait",
+      "décrivions",
+      "décriviez",
+      "décrivaient"
+    ],
+    "futurSimple": [
+      "décrirai",
+      "décriras",
+      "décrira",
+      "décrirons",
+      "décrirez",
+      "décriront"
+    ],
+    "subjonctifPresent": [
+      "décrive",
+      "décrives",
+      "décrive",
+      "décrivions",
+      "décriviez",
+      "décrivent"
+    ],
+    "conditionnelPresent": [
+      "décrirais",
+      "décrirais",
+      "décrirait",
+      "décririons",
+      "décririez",
+      "décriraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8925"
+    },
+    "infinitif": "dire",
+    "participePasse": "dit",
+    "participePresent": "disant",
+    "auxiliaire": "avoir",
+    "present": [
+      "dis",
+      "dis",
+      "dit",
+      "disons",
+      "dites",
+      "disent"
+    ],
+    "imparfait": [
+      "disais",
+      "disais",
+      "disait",
+      "disions",
+      "disiez",
+      "disaient"
+    ],
+    "futurSimple": [
+      "dirai",
+      "diras",
+      "dira",
+      "dirons",
+      "direz",
+      "diront"
+    ],
+    "subjonctifPresent": [
+      "dise",
+      "dises",
+      "dise",
+      "disions",
+      "disiez",
+      "disent"
+    ],
+    "conditionnelPresent": [
+      "dirais",
+      "dirais",
+      "dirait",
+      "dirions",
+      "diriez",
+      "diraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8927"
+    },
+    "infinitif": "discuter",
+    "participePasse": "discuté",
+    "participePresent": "discutant",
+    "auxiliaire": "avoir",
+    "present": [
+      "discute",
+      "discutes",
+      "discute",
+      "discutons",
+      "discutez",
+      "discutent"
+    ],
+    "imparfait": [
+      "discutais",
+      "discutais",
+      "discutait",
+      "discutions",
+      "discutiez",
+      "discutaient"
+    ],
+    "futurSimple": [
+      "discuterai",
+      "discuteras",
+      "discutera",
+      "discuterons",
+      "discuterez",
+      "discuteront"
+    ],
+    "subjonctifPresent": [
+      "discute",
+      "discutes",
+      "discute",
+      "discutions",
+      "discutiez",
+      "discutent"
+    ],
+    "conditionnelPresent": [
+      "discuterais",
+      "discuterais",
+      "discuterait",
+      "discuterions",
+      "discuteriez",
+      "discuteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8928"
+    },
+    "infinitif": "disparaître",
+    "participePasse": "disparu",
+    "participePresent": "disparaissant",
+    "auxiliaire": "avoir",
+    "present": [
+      "disparais",
+      "disparais",
+      "disparaît",
+      "disparaissons",
+      "disparaissez",
+      "disparaissent"
+    ],
+    "imparfait": [
+      "disparaissais",
+      "disparaissais",
+      "disparaissait",
+      "disparaissions",
+      "disparaissiez",
+      "disparaissaient"
+    ],
+    "futurSimple": [
+      "disparaîtrai",
+      "disparaîtras",
+      "disparaîtra",
+      "disparaîtrons",
+      "disparaîtrez",
+      "disparaîtront"
+    ],
+    "subjonctifPresent": [
+      "disparaisse",
+      "disparaisses",
+      "disparaisse",
+      "disparaissions",
+      "disparaissiez",
+      "disparaissent"
+    ],
+    "conditionnelPresent": [
+      "disparaîtrais",
+      "disparaîtrais",
+      "disparaîtrait",
+      "disparaîtrions",
+      "disparaîtriez",
+      "disparaîtraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f892d"
+    },
+    "infinitif": "donner",
+    "participePasse": "donné",
+    "participePresent": "donnant",
+    "auxiliaire": "avoir",
+    "present": [
+      "donne",
+      "donnes",
+      "donne",
+      "donnons",
+      "donnez",
+      "donnent"
+    ],
+    "imparfait": [
+      "donnais",
+      "donnais",
+      "donnait",
+      "donnions",
+      "donniez",
+      "donnaient"
+    ],
+    "futurSimple": [
+      "donnerai",
+      "donneras",
+      "donnera",
+      "donnerons",
+      "donnerez",
+      "donneront"
+    ],
+    "subjonctifPresent": [
+      "donne",
+      "donnes",
+      "donne",
+      "donnions",
+      "donniez",
+      "donnent"
+    ],
+    "conditionnelPresent": [
+      "donnerais",
+      "donnerais",
+      "donnerait",
+      "donnerions",
+      "donneriez",
+      "donneraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f892e"
+    },
+    "infinitif": "dormir",
+    "participePasse": "dormi",
+    "participePresent": "dormant",
+    "auxiliaire": "avoir",
+    "present": [
+      "dors",
+      "dors",
+      "dort",
+      "dormons",
+      "dormez",
+      "dorment"
+    ],
+    "imparfait": [
+      "dormais",
+      "dormais",
+      "dormait",
+      "dormions",
+      "dormiez",
+      "dormaient"
+    ],
+    "futurSimple": [
+      "dormirai",
+      "dormiras",
+      "dormira",
+      "dormirons",
+      "dormirez",
+      "dormiront"
+    ],
+    "subjonctifPresent": [
+      "dorme",
+      "dormes",
+      "dorme",
+      "dormions",
+      "dormiez",
+      "dorment"
+    ],
+    "conditionnelPresent": [
+      "dormirais",
+      "dormirais",
+      "dormirait",
+      "dormirions",
+      "dormiriez",
+      "dormiraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8931"
+    },
+    "infinitif": "durer",
+    "participePasse": "duré",
+    "participePresent": "durant",
+    "auxiliaire": "avoir",
+    "present": [
+      "dure",
+      "dures",
+      "dure",
+      "durons",
+      "durez",
+      "durent"
+    ],
+    "imparfait": [
+      "durais",
+      "durais",
+      "durait",
+      "durions",
+      "duriez",
+      "duraient"
+    ],
+    "futurSimple": [
+      "durerai",
+      "dureras",
+      "durera",
+      "durerons",
+      "durerez",
+      "dureront"
+    ],
+    "subjonctifPresent": [
+      "dure",
+      "dures",
+      "dure",
+      "durions",
+      "duriez",
+      "durent"
+    ],
+    "conditionnelPresent": [
+      "durerais",
+      "durerais",
+      "durerait",
+      "durerions",
+      "dureriez",
+      "dureraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8932"
+    },
+    "infinitif": "effacer",
+    "participePasse": "effacé",
+    "participePresent": "effaçant",
+    "auxiliaire": "avoir",
+    "present": [
+      "efface",
+      "effaces",
+      "efface",
+      "effaçons",
+      "effacez",
+      "effacent"
+    ],
+    "imparfait": [
+      "effaçais",
+      "effaçais",
+      "effaçait",
+      "effacions",
+      "effaciez",
+      "effaçaient"
+    ],
+    "futurSimple": [
+      "effacerai",
+      "effaceras",
+      "effacera",
+      "effacerons",
+      "effacerez",
+      "effaceront"
+    ],
+    "subjonctifPresent": [
+      "efface",
+      "effaces",
+      "efface",
+      "effacions",
+      "effaciez",
+      "effacent"
+    ],
+    "conditionnelPresent": [
+      "effacerais",
+      "effacerais",
+      "effacerait",
+      "effacerions",
+      "effaceriez",
+      "effaceraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8934"
+    },
+    "infinitif": "embrasser",
+    "participePasse": "embrassé",
+    "participePresent": "embrassant",
+    "auxiliaire": "avoir",
+    "present": [
+      "embrasse",
+      "embrasses",
+      "embrasse",
+      "embrassons",
+      "embrassez",
+      "embrassent"
+    ],
+    "imparfait": [
+      "embrassais",
+      "embrassais",
+      "embrassait",
+      "embrassions",
+      "embrassiez",
+      "embrassaient"
+    ],
+    "futurSimple": [
+      "embrasserai",
+      "embrasseras",
+      "embrassera",
+      "embrasserons",
+      "embrasserez",
+      "embrasseront"
+    ],
+    "subjonctifPresent": [
+      "embrasse",
+      "embrasses",
+      "embrasse",
+      "embrassions",
+      "embrassiez",
+      "embrassent"
+    ],
+    "conditionnelPresent": [
+      "embrasserais",
+      "embrasserais",
+      "embrasserait",
+      "embrasserions",
+      "embrasseriez",
+      "embrasseraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8935"
+    },
+    "infinitif": "emmener",
+    "participePasse": "emmené",
+    "participePresent": "emmenant",
+    "auxiliaire": "avoir",
+    "present": [
+      "emmène",
+      "emmènes",
+      "emmène",
+      "emmenons",
+      "emmenez",
+      "emmènent"
+    ],
+    "imparfait": [
+      "emmenais",
+      "emmenais",
+      "emmenait",
+      "emmenions",
+      "emmeniez",
+      "emmenaient"
+    ],
+    "futurSimple": [
+      "emmènerai",
+      "emmèneras",
+      "emmènera",
+      "emmènerons",
+      "emmènerez",
+      "emmèneront"
+    ],
+    "subjonctifPresent": [
+      "emmène",
+      "emmènes",
+      "emmène",
+      "emmenions",
+      "emmeniez",
+      "emmènent"
+    ],
+    "conditionnelPresent": [
+      "emmènerais",
+      "emmènerais",
+      "emmènerait",
+      "emmènerions",
+      "emmèneriez",
+      "emmèneraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8938"
+    },
+    "infinitif": "emporter",
+    "participePasse": "emporté",
+    "participePresent": "emportant",
+    "auxiliaire": "avoir",
+    "present": [
+      "emporte",
+      "emportes",
+      "emporte",
+      "emportons",
+      "emportez",
+      "emportent"
+    ],
+    "imparfait": [
+      "emportais",
+      "emportais",
+      "emportait",
+      "emportions",
+      "emportiez",
+      "emportaient"
+    ],
+    "futurSimple": [
+      "emporterai",
+      "emporteras",
+      "emportera",
+      "emporterons",
+      "emporterez",
+      "emporteront"
+    ],
+    "subjonctifPresent": [
+      "emporte",
+      "emportes",
+      "emporte",
+      "emportions",
+      "emportiez",
+      "emportent"
+    ],
+    "conditionnelPresent": [
+      "emporterais",
+      "emporterais",
+      "emporterait",
+      "emporterions",
+      "emporteriez",
+      "emporteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f893f"
+    },
+    "infinitif": "entendre",
+    "participePasse": "entendu",
+    "participePresent": "entendant",
+    "auxiliaire": "avoir",
+    "present": [
+      "entends",
+      "entends",
+      "entend",
+      "entendons",
+      "entendez",
+      "entendent"
+    ],
+    "imparfait": [
+      "entendais",
+      "entendais",
+      "entendait",
+      "entendions",
+      "entendiez",
+      "entendaient"
+    ],
+    "futurSimple": [
+      "entendrai",
+      "entendras",
+      "entendra",
+      "entendrons",
+      "entendrez",
+      "entendront"
+    ],
+    "subjonctifPresent": [
+      "entende",
+      "entendes",
+      "entende",
+      "entendions",
+      "entendiez",
+      "entendent"
+    ],
+    "conditionnelPresent": [
+      "entendrais",
+      "entendrais",
+      "entendrait",
+      "entendrions",
+      "entendriez",
+      "entendraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8942"
+    },
+    "infinitif": "entrer",
+    "participePasse": "entré",
+    "participePresent": "entrant",
+    "auxiliaire": "être",
+    "present": [
+      "entre",
+      "entres",
+      "entre",
+      "entrons",
+      "entrez",
+      "entrent"
+    ],
+    "imparfait": [
+      "entrais",
+      "entrais",
+      "entrait",
+      "entrions",
+      "entriez",
+      "entraient"
+    ],
+    "futurSimple": [
+      "entrerai",
+      "entreras",
+      "entrera",
+      "entrerons",
+      "entrerez",
+      "entreront"
+    ],
+    "subjonctifPresent": [
+      "entre",
+      "entres",
+      "entre",
+      "entrions",
+      "entriez",
+      "entrent"
+    ],
+    "conditionnelPresent": [
+      "entrerais",
+      "entrerais",
+      "entrerait",
+      "entrerions",
+      "entreriez",
+      "entreraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8945"
+    },
+    "infinitif": "envoyer",
+    "participePasse": "envoyé",
+    "participePresent": "envoyant",
+    "auxiliaire": "avoir",
+    "present": [
+      "envoie",
+      "envoies",
+      "envoie",
+      "envoyons",
+      "envoyez",
+      "envoient"
+    ],
+    "imparfait": [
+      "envoyais",
+      "envoyais",
+      "envoyait",
+      "envoyions",
+      "envoyiez",
+      "envoyaient"
+    ],
+    "futurSimple": [
+      "enverrai",
+      "enverras",
+      "enverra",
+      "enverrons",
+      "enverrez",
+      "enverront"
+    ],
+    "subjonctifPresent": [
+      "envoie",
+      "envoies",
+      "envoie",
+      "envoyions",
+      "envoyiez",
+      "envoient"
+    ],
+    "conditionnelPresent": [
+      "enverrais",
+      "enverrais",
+      "enverrait",
+      "enverrions",
+      "enverriez",
+      "enverraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8947"
+    },
+    "infinitif": "essayer",
+    "participePasse": "essayé",
+    "participePresent": "essayant",
+    "auxiliaire": "avoir",
+    "present": [
+      "essaie, essaye",
+      "essaies, essayes",
+      "essaie, essaye",
+      "essayons",
+      "essayez",
+      "essaient, essayent"
+    ],
+    "imparfait": [
+      "essayais",
+      "essayais",
+      "essayait",
+      "essayions",
+      "essayiez",
+      "essayaient"
+    ],
+    "futurSimple": [
+      "essaierai, essayerai",
+      "essaieras, essayeras",
+      "essaiera, essayera",
+      "essaierons, essayerons",
+      "essaierez, essayerez",
+      "essaieront, essayeront"
+    ],
+    "subjonctifPresent": [
+      "essaie, essaye",
+      "essaies, essayes",
+      "essaie, essaye",
+      "essayions",
+      "essayiez",
+      "essaient, essayent"
+    ],
+    "conditionnelPresent": [
+      "essaierais, essayerais",
+      "essaierais, essayerais",
+      "essaierait, essayerait",
+      "essaierions, essayerions",
+      "essaieriez, essayeriez",
+      "essaieraient, essayeraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f894d"
+    },
+    "infinitif": "expliquer",
+    "participePasse": "expliqué",
+    "participePresent": "expliquant",
+    "auxiliaire": "avoir",
+    "present": [
+      "explique",
+      "expliques",
+      "explique",
+      "expliquons",
+      "expliquez",
+      "expliquent"
+    ],
+    "imparfait": [
+      "expliquais",
+      "expliquais",
+      "expliquait",
+      "expliquions",
+      "expliquiez",
+      "expliquaient"
+    ],
+    "futurSimple": [
+      "expliquerai",
+      "expliqueras",
+      "expliquera",
+      "expliquerons",
+      "expliquerez",
+      "expliqueront"
+    ],
+    "subjonctifPresent": [
+      "explique",
+      "expliques",
+      "explique",
+      "expliquions",
+      "expliquiez",
+      "expliquent"
+    ],
+    "conditionnelPresent": [
+      "expliquerais",
+      "expliquerais",
+      "expliquerait",
+      "expliquerions",
+      "expliqueriez",
+      "expliqueraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8957"
+    },
+    "infinitif": "écrire",
+    "participePasse": "écrit",
+    "participePresent": "écrivant",
+    "auxiliaire": "avoir",
+    "present": [
+      "écris",
+      "écris",
+      "écrit",
+      "écrivons",
+      "écrivez",
+      "écrivent"
+    ],
+    "imparfait": [
+      "écrivais",
+      "écrivais",
+      "écrivait",
+      "écrivions",
+      "écriviez",
+      "écrivaient"
+    ],
+    "futurSimple": [
+      "écrirai",
+      "écriras",
+      "écrira",
+      "écrirons",
+      "écrirez",
+      "écriront"
+    ],
+    "subjonctifPresent": [
+      "écrive",
+      "écrives",
+      "écrive",
+      "écrivions",
+      "écriviez",
+      "écrivent"
+    ],
+    "conditionnelPresent": [
+      "écrirais",
+      "écrirais",
+      "écrirait",
+      "écririons",
+      "écririez",
+      "écriraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f895f"
+    },
+    "infinitif": "éteindre",
+    "participePasse": "éteint",
+    "participePresent": "éteignant",
+    "auxiliaire": "avoir",
+    "present": [
+      "éteins",
+      "éteins",
+      "éteint",
+      "éteignons",
+      "éteignez",
+      "éteignent"
+    ],
+    "imparfait": [
+      "éteignais",
+      "éteignais",
+      "éteignait",
+      "éteignions",
+      "éteigniez",
+      "éteignaient"
+    ],
+    "futurSimple": [
+      "éteindrai",
+      "éteindras",
+      "éteindra",
+      "éteindrons",
+      "éteindrez",
+      "éteindront"
+    ],
+    "subjonctifPresent": [
+      "éteigne",
+      "éteignes",
+      "éteigne",
+      "éteignions",
+      "éteigniez",
+      "éteignent"
+    ],
+    "conditionnelPresent": [
+      "éteindrais",
+      "éteindrais",
+      "éteindrait",
+      "éteindrions",
+      "éteindriez",
+      "éteindraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8964"
+    },
+    "infinitif": "éviter",
+    "participePasse": "évité",
+    "participePresent": "évitant",
+    "auxiliaire": "avoir",
+    "present": [
+      "évite",
+      "évites",
+      "évite",
+      "évitons",
+      "évitez",
+      "évitent"
+    ],
+    "imparfait": [
+      "évitais",
+      "évitais",
+      "évitait",
+      "évitions",
+      "évitiez",
+      "évitaient"
+    ],
+    "futurSimple": [
+      "éviterai",
+      "éviteras",
+      "évitera",
+      "éviterons",
+      "éviterez",
+      "éviteront"
+    ],
+    "subjonctifPresent": [
+      "évite",
+      "évites",
+      "évite",
+      "évitions",
+      "évitiez",
+      "évitent"
+    ],
+    "conditionnelPresent": [
+      "éviterais",
+      "éviterais",
+      "éviterait",
+      "éviterions",
+      "éviteriez",
+      "éviteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8965"
+    },
+    "infinitif": "être",
+    "participePasse": "été",
+    "participePresent": "étant",
+    "auxiliaire": "avoir",
+    "present": [
+      "suis",
+      "es",
+      "est",
+      "sommes",
+      "êtes",
+      "sont"
+    ],
+    "imparfait": [
+      "étais",
+      "étais",
+      "était",
+      "étions",
+      "étiez",
+      "étaient"
+    ],
+    "futurSimple": [
+      "serai",
+      "seras",
+      "sera",
+      "serons",
+      "serez",
+      "seront"
+    ],
+    "subjonctifPresent": [
+      "sois",
+      "sois",
+      "soit",
+      "soyons",
+      "soyez",
+      "soient"
+    ],
+    "conditionnelPresent": [
+      "serais",
+      "serais",
+      "serait",
+      "serions",
+      "seriez",
+      "seraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8967"
+    },
+    "infinitif": "faire",
+    "participePasse": "fait",
+    "participePresent": "faisant",
+    "auxiliaire": "avoir",
+    "present": [
+      "fais",
+      "fais",
+      "fait",
+      "faisons",
+      "faites",
+      "font"
+    ],
+    "imparfait": [
+      "faisais",
+      "faisais",
+      "faisait",
+      "faisions",
+      "faisiez",
+      "faisaient"
+    ],
+    "futurSimple": [
+      "ferai",
+      "feras",
+      "fera",
+      "ferons",
+      "ferez",
+      "feront"
+    ],
+    "subjonctifPresent": [
+      "fasse",
+      "fasses",
+      "fasse",
+      "fassions",
+      "fassiez",
+      "fassent"
+    ],
+    "conditionnelPresent": [
+      "ferais",
+      "ferais",
+      "ferait",
+      "ferions",
+      "feriez",
+      "feraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8968"
+    },
+    "infinitif": "falloir",
+    "participePasse": "fallu",
+    "auxiliaire": "avoir",
+    "present": [
+      "",
+      "",
+      "faut",
+      "",
+      "",
+      ""
+    ],
+    "imparfait": [
+      "",
+      "",
+      "fallait",
+      "",
+      "",
+      ""
+    ],
+    "futurSimple": [
+      "",
+      "",
+      "faudra",
+      "",
+      "",
+      ""
+    ],
+    "subjonctifPresent": [
+      "",
+      "",
+      "faille",
+      "",
+      "",
+      ""
+    ],
+    "conditionnelPresent": [
+      "",
+      "",
+      "faudrait",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f896a"
+    },
+    "infinitif": "fermer",
+    "participePasse": "fermé",
+    "participePresent": "fermant",
+    "auxiliaire": "avoir",
+    "present": [
+      "ferme",
+      "fermes",
+      "ferme",
+      "fermons",
+      "fermez",
+      "ferment"
+    ],
+    "imparfait": [
+      "fermais",
+      "fermais",
+      "fermait",
+      "fermions",
+      "fermiez",
+      "fermaient"
+    ],
+    "futurSimple": [
+      "fermerai",
+      "fermeras",
+      "fermera",
+      "fermerons",
+      "fermerez",
+      "fermeront"
+    ],
+    "subjonctifPresent": [
+      "ferme",
+      "fermes",
+      "ferme",
+      "fermions",
+      "fermiez",
+      "ferment"
+    ],
+    "conditionnelPresent": [
+      "fermerais",
+      "fermerais",
+      "fermerait",
+      "fermerions",
+      "fermeriez",
+      "fermeraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f896c"
+    },
+    "infinitif": "finir",
+    "participePasse": "fini",
+    "participePresent": "finissant",
+    "auxiliaire": "avoir",
+    "present": [
+      "finis",
+      "finis",
+      "finit",
+      "finissons",
+      "finissez",
+      "finissent"
+    ],
+    "imparfait": [
+      "finissais",
+      "finissais",
+      "finissait",
+      "finissions",
+      "finissiez",
+      "finissaient"
+    ],
+    "futurSimple": [
+      "finirai",
+      "finiras",
+      "finira",
+      "finirons",
+      "finirez",
+      "finiront"
+    ],
+    "subjonctifPresent": [
+      "finisse",
+      "finisses",
+      "finisse",
+      "finissions",
+      "finissiez",
+      "finissent"
+    ],
+    "conditionnelPresent": [
+      "finirais",
+      "finirais",
+      "finirait",
+      "finirions",
+      "finiriez",
+      "finiraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8974"
+    },
+    "infinitif": "frapper",
+    "participePasse": "frappé",
+    "participePresent": "frappant",
+    "auxiliaire": "avoir",
+    "present": [
+      "frappe",
+      "frappes",
+      "frappe",
+      "frappons",
+      "frappez",
+      "frappent"
+    ],
+    "imparfait": [
+      "frappais",
+      "frappais",
+      "frappait",
+      "frappions",
+      "frappiez",
+      "frappaient"
+    ],
+    "futurSimple": [
+      "frapperai",
+      "frapperas",
+      "frappera",
+      "frapperons",
+      "frapperez",
+      "frapperont"
+    ],
+    "subjonctifPresent": [
+      "frappe",
+      "frappes",
+      "frappe",
+      "frappions",
+      "frappiez",
+      "frappent"
+    ],
+    "conditionnelPresent": [
+      "frapperais",
+      "frapperais",
+      "frapperait",
+      "frapperions",
+      "frapperiez",
+      "frapperaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8978"
+    },
+    "infinitif": "gagner",
+    "participePasse": "gagné",
+    "participePresent": "gagnant",
+    "auxiliaire": "avoir",
+    "present": [
+      "gagne",
+      "gagnes",
+      "gagne",
+      "gagnons",
+      "gagnez",
+      "gagnent"
+    ],
+    "imparfait": [
+      "gagnais",
+      "gagnais",
+      "gagnait",
+      "gagnions",
+      "gagniez",
+      "gagnaient"
+    ],
+    "futurSimple": [
+      "gagnerai",
+      "gagneras",
+      "gagnera",
+      "gagnerons",
+      "gagnerez",
+      "gagneront"
+    ],
+    "subjonctifPresent": [
+      "gagne",
+      "gagnes",
+      "gagne",
+      "gagnions",
+      "gagniez",
+      "gagnent"
+    ],
+    "conditionnelPresent": [
+      "gagnerais",
+      "gagnerais",
+      "gagnerait",
+      "gagnerions",
+      "gagneriez",
+      "gagneraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8979"
+    },
+    "infinitif": "garder",
+    "participePasse": "gardé",
+    "participePresent": "gardant",
+    "auxiliaire": "avoir",
+    "present": [
+      "garde",
+      "gardes",
+      "garde",
+      "gardons",
+      "gardez",
+      "gardent"
+    ],
+    "imparfait": [
+      "gardais",
+      "gardais",
+      "gardait",
+      "gardions",
+      "gardiez",
+      "gardaient"
+    ],
+    "futurSimple": [
+      "garderai",
+      "garderas",
+      "gardera",
+      "garderons",
+      "garderez",
+      "garderont"
+    ],
+    "subjonctifPresent": [
+      "garde",
+      "gardes",
+      "garde",
+      "gardions",
+      "gardiez",
+      "gardent"
+    ],
+    "conditionnelPresent": [
+      "garderais",
+      "garderais",
+      "garderait",
+      "garderions",
+      "garderiez",
+      "garderaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8980"
+    },
+    "infinitif": "hésiter",
+    "participePasse": "hésité",
+    "participePresent": "hésitant",
+    "auxiliaire": "avoir",
+    "present": [
+      "hésite",
+      "hésites",
+      "hésite",
+      "hésitons",
+      "hésitez",
+      "hésitent"
+    ],
+    "imparfait": [
+      "hésitais",
+      "hésitais",
+      "hésitait",
+      "hésitions",
+      "hésitiez",
+      "hésitaient"
+    ],
+    "futurSimple": [
+      "hésiterai",
+      "hésiteras",
+      "hésitera",
+      "hésiterons",
+      "hésiterez",
+      "hésiteront"
+    ],
+    "subjonctifPresent": [
+      "hésite",
+      "hésites",
+      "hésite",
+      "hésitions",
+      "hésitiez",
+      "hésitent"
+    ],
+    "conditionnelPresent": [
+      "hésiterais",
+      "hésiterais",
+      "hésiterait",
+      "hésiterions",
+      "hésiteriez",
+      "hésiteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f898d"
+    },
+    "infinitif": "inviter",
+    "participePasse": "invité",
+    "participePresent": "invitant",
+    "auxiliaire": "avoir",
+    "present": [
+      "invite",
+      "invites",
+      "invite",
+      "invitons",
+      "invitez",
+      "invitent"
+    ],
+    "imparfait": [
+      "invitais",
+      "invitais",
+      "invitait",
+      "invitions",
+      "invitiez",
+      "invitaient"
+    ],
+    "futurSimple": [
+      "inviterai",
+      "inviteras",
+      "invitera",
+      "inviterons",
+      "inviterez",
+      "inviteront"
+    ],
+    "subjonctifPresent": [
+      "invite",
+      "invites",
+      "invite",
+      "invitions",
+      "invitiez",
+      "invitent"
+    ],
+    "conditionnelPresent": [
+      "inviterais",
+      "inviterais",
+      "inviterait",
+      "inviterions",
+      "inviteriez",
+      "inviteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8990"
+    },
+    "infinitif": "jouer",
+    "participePasse": "joué",
+    "participePresent": "jouant",
+    "auxiliaire": "avoir",
+    "present": [
+      "joue",
+      "joues",
+      "joue",
+      "jouons",
+      "jouez",
+      "jouent"
+    ],
+    "imparfait": [
+      "jouais",
+      "jouais",
+      "jouait",
+      "jouions",
+      "jouiez",
+      "jouaient"
+    ],
+    "futurSimple": [
+      "jouerai",
+      "joueras",
+      "jouera",
+      "jouerons",
+      "jouerez",
+      "joueront"
+    ],
+    "subjonctifPresent": [
+      "joue",
+      "joues",
+      "joue",
+      "jouions",
+      "jouiez",
+      "jouent"
+    ],
+    "conditionnelPresent": [
+      "jouerais",
+      "jouerais",
+      "jouerait",
+      "jouerions",
+      "joueriez",
+      "joueraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8992"
+    },
+    "infinitif": "lever",
+    "participePasse": "levé",
+    "participePresent": "levant",
+    "auxiliaire": "avoir",
+    "present": [
+      "lève",
+      "lèves",
+      "lève",
+      "levons",
+      "levez",
+      "lèvent"
+    ],
+    "imparfait": [
+      "levais",
+      "levais",
+      "levait",
+      "levions",
+      "leviez",
+      "levaient"
+    ],
+    "futurSimple": [
+      "lèverai",
+      "lèveras",
+      "lèvera",
+      "lèverons",
+      "lèverez",
+      "lèveront"
+    ],
+    "subjonctifPresent": [
+      "lève",
+      "lèves",
+      "lève",
+      "levions",
+      "leviez",
+      "lèvent"
+    ],
+    "conditionnelPresent": [
+      "lèverais",
+      "lèverais",
+      "lèverait",
+      "lèverions",
+      "lèveriez",
+      "lèveraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8994"
+    },
+    "infinitif": "lire",
+    "participePasse": "lu",
+    "participePresent": "lisant",
+    "auxiliaire": "avoir",
+    "present": [
+      "lis",
+      "lis",
+      "lit",
+      "lisons",
+      "lisez",
+      "lisent"
+    ],
+    "imparfait": [
+      "lisais",
+      "lisais",
+      "lisait",
+      "lisions",
+      "lisiez",
+      "lisaient"
+    ],
+    "futurSimple": [
+      "lirai",
+      "liras",
+      "lira",
+      "lirons",
+      "lirez",
+      "liront"
+    ],
+    "subjonctifPresent": [
+      "lise",
+      "lises",
+      "lise",
+      "lisions",
+      "lisiez",
+      "lisent"
+    ],
+    "conditionnelPresent": [
+      "lirais",
+      "lirais",
+      "lirait",
+      "lirions",
+      "liriez",
+      "liraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8999"
+    },
+    "infinitif": "manger",
+    "participePasse": "mangé",
+    "participePresent": "mangeant",
+    "auxiliaire": "avoir",
+    "present": [
+      "mange",
+      "manges",
+      "mange",
+      "mangeons",
+      "mangez",
+      "mangent"
+    ],
+    "imparfait": [
+      "mangeais",
+      "mangeais",
+      "mangeait",
+      "mangions",
+      "mangiez",
+      "mangeaient"
+    ],
+    "futurSimple": [
+      "mangerai",
+      "mangeras",
+      "mangera",
+      "mangerons",
+      "mangerez",
+      "mangeront"
+    ],
+    "subjonctifPresent": [
+      "mange",
+      "manges",
+      "mange",
+      "mangions",
+      "mangiez",
+      "mangent"
+    ],
+    "conditionnelPresent": [
+      "mangerais",
+      "mangerais",
+      "mangerait",
+      "mangerions",
+      "mangeriez",
+      "mangeraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f899a"
+    },
+    "infinitif": "manquer",
+    "participePasse": "manqué",
+    "participePresent": "manquant",
+    "auxiliaire": "avoir",
+    "present": [
+      "manque",
+      "manques",
+      "manque",
+      "manquons",
+      "manquez",
+      "manquent"
+    ],
+    "imparfait": [
+      "manquais",
+      "manquais",
+      "manquait",
+      "manquions",
+      "manquiez",
+      "manquaient"
+    ],
+    "futurSimple": [
+      "manquerai",
+      "manqueras",
+      "manquera",
+      "manquerons",
+      "manquerez",
+      "manqueront"
+    ],
+    "subjonctifPresent": [
+      "manque",
+      "manques",
+      "manque",
+      "manquions",
+      "manquiez",
+      "manquent"
+    ],
+    "conditionnelPresent": [
+      "manquerais",
+      "manquerais",
+      "manquerait",
+      "manquerions",
+      "manqueriez",
+      "manqueraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f899b"
+    },
+    "infinitif": "marcher",
+    "participePasse": "marché",
+    "participePresent": "marchant",
+    "auxiliaire": "avoir",
+    "present": [
+      "marche",
+      "marches",
+      "marche",
+      "marchons",
+      "marchez",
+      "marchent"
+    ],
+    "imparfait": [
+      "marchais",
+      "marchais",
+      "marchait",
+      "marchions",
+      "marchiez",
+      "marchaient"
+    ],
+    "futurSimple": [
+      "marcherai",
+      "marcheras",
+      "marchera",
+      "marcherons",
+      "marcherez",
+      "marcheront"
+    ],
+    "subjonctifPresent": [
+      "marche",
+      "marches",
+      "marche",
+      "marchions",
+      "marchiez",
+      "marchent"
+    ],
+    "conditionnelPresent": [
+      "marcherais",
+      "marcherais",
+      "marcherait",
+      "marcherions",
+      "marcheriez",
+      "marcheraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a1"
+    },
+    "infinitif": "mentir",
+    "participePasse": "menti",
+    "participePresent": "mentant",
+    "auxiliaire": "avoir",
+    "present": [
+      "mens",
+      "mens",
+      "ment",
+      "mentons",
+      "mentez",
+      "mentent"
+    ],
+    "imparfait": [
+      "mentais",
+      "mentais",
+      "mentait",
+      "mentions",
+      "mentiez",
+      "mentaient"
+    ],
+    "futurSimple": [
+      "mentirai",
+      "mentiras",
+      "mentira",
+      "mentirons",
+      "mentirez",
+      "mentiront"
+    ],
+    "subjonctifPresent": [
+      "mente",
+      "mentes",
+      "mente",
+      "mentions",
+      "mentiez",
+      "mentent"
+    ],
+    "conditionnelPresent": [
+      "mentirais",
+      "mentirais",
+      "mentirait",
+      "mentirions",
+      "mentiriez",
+      "mentiraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a3"
+    },
+    "infinitif": "mettre",
+    "participePasse": "mis",
+    "participePresent": "mettant",
+    "auxiliaire": "avoir",
+    "present": [
+      "mets",
+      "mets",
+      "met",
+      "mettons",
+      "mettez",
+      "mettent"
+    ],
+    "imparfait": [
+      "mettais",
+      "mettais",
+      "mettait",
+      "mettions",
+      "mettiez",
+      "mettaient"
+    ],
+    "futurSimple": [
+      "mettrai",
+      "mettras",
+      "mettra",
+      "mettrons",
+      "mettrez",
+      "mettront"
+    ],
+    "subjonctifPresent": [
+      "mette",
+      "mettes",
+      "mette",
+      "mettions",
+      "mettiez",
+      "mettent"
+    ],
+    "conditionnelPresent": [
+      "mettrais",
+      "mettrais",
+      "mettrait",
+      "mettrions",
+      "mettriez",
+      "mettraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a6"
+    },
+    "infinitif": "monter",
+    "participePasse": "monté",
+    "participePresent": "montant",
+    "auxiliaire": "être",
+    "present": [
+      "monte",
+      "montes",
+      "monte",
+      "montons",
+      "montez",
+      "montent"
+    ],
+    "imparfait": [
+      "montais",
+      "montais",
+      "montait",
+      "montions",
+      "montiez",
+      "montaient"
+    ],
+    "futurSimple": [
+      "monterai",
+      "monteras",
+      "montera",
+      "monterons",
+      "monterez",
+      "monteront"
+    ],
+    "subjonctifPresent": [
+      "monte",
+      "montes",
+      "monte",
+      "montions",
+      "montiez",
+      "montent"
+    ],
+    "conditionnelPresent": [
+      "monterais",
+      "monterais",
+      "monterait",
+      "monterions",
+      "monteriez",
+      "monteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a7"
+    },
+    "infinitif": "montrer",
+    "participePasse": "montré",
+    "participePresent": "montrant",
+    "auxiliaire": "avoir",
+    "present": [
+      "montre",
+      "montres",
+      "montre",
+      "montrons",
+      "montrez",
+      "montrent"
+    ],
+    "imparfait": [
+      "montrais",
+      "montrais",
+      "montrait",
+      "montrions",
+      "montriez",
+      "montraient"
+    ],
+    "futurSimple": [
+      "montrerai",
+      "montreras",
+      "montrera",
+      "montrerons",
+      "montrerez",
+      "montreront"
+    ],
+    "subjonctifPresent": [
+      "montre",
+      "montres",
+      "montre",
+      "montrions",
+      "montriez",
+      "montrent"
+    ],
+    "conditionnelPresent": [
+      "montrerais",
+      "montrerais",
+      "montrerait",
+      "montrerions",
+      "montreriez",
+      "montreraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a9"
+    },
+    "infinitif": "mourir",
+    "participePasse": "mort",
+    "participePresent": "mourant",
+    "auxiliaire": "être",
+    "present": [
+      "meurs",
+      "meurs",
+      "meurt",
+      "mourons",
+      "mourez",
+      "meurent"
+    ],
+    "imparfait": [
+      "mourais",
+      "mourais",
+      "mourait",
+      "mourions",
+      "mouriez",
+      "mouraient"
+    ],
+    "futurSimple": [
+      "mourrai",
+      "mourras",
+      "mourra",
+      "mourrons",
+      "mourrez",
+      "mourront"
+    ],
+    "subjonctifPresent": [
+      "meure",
+      "meures",
+      "meure",
+      "mourions",
+      "mouriez",
+      "meurent"
+    ],
+    "conditionnelPresent": [
+      "mourrais",
+      "mourrais",
+      "mourrait",
+      "mourrions",
+      "mourriez",
+      "mourraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ab"
+    },
+    "infinitif": "naître",
+    "participePasse": "né",
+    "participePresent": "naissant",
+    "auxiliaire": "être",
+    "present": [
+      "nais",
+      "nais",
+      "naît",
+      "naissons",
+      "naissez",
+      "naissent"
+    ],
+    "imparfait": [
+      "naissais",
+      "naissais",
+      "naissait",
+      "naissions",
+      "naissiez",
+      "naissaient"
+    ],
+    "futurSimple": [
+      "naîtrai",
+      "naîtras",
+      "naîtra",
+      "naîtrons",
+      "naîtrez",
+      "naîtront"
+    ],
+    "subjonctifPresent": [
+      "naisse",
+      "naisses",
+      "naisse",
+      "naissions",
+      "naissiez",
+      "naissent"
+    ],
+    "conditionnelPresent": [
+      "naîtrais",
+      "naîtrais",
+      "naîtrait",
+      "naîtrions",
+      "naîtriez",
+      "naîtraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b4"
+    },
+    "infinitif": "offrir",
+    "participePasse": "offert",
+    "participePresent": "offrant",
+    "auxiliaire": "avoir",
+    "present": [
+      "offre",
+      "offres",
+      "offre",
+      "offrons",
+      "offrez",
+      "offrent"
+    ],
+    "imparfait": [
+      "offrais",
+      "offrais",
+      "offrait",
+      "offrions",
+      "offriez",
+      "offraient"
+    ],
+    "futurSimple": [
+      "offrirai",
+      "offriras",
+      "offrira",
+      "offrirons",
+      "offrirez",
+      "offriront"
+    ],
+    "subjonctifPresent": [
+      "offre",
+      "offres",
+      "offre",
+      "offrions",
+      "offriez",
+      "offrent"
+    ],
+    "conditionnelPresent": [
+      "offrirais",
+      "offrirais",
+      "offrirait",
+      "offririons",
+      "offririez",
+      "offriraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b5"
+    },
+    "infinitif": "oser",
+    "participePasse": "osé",
+    "participePresent": "osant",
+    "auxiliaire": "avoir",
+    "present": [
+      "ose",
+      "oses",
+      "ose",
+      "osons",
+      "osez",
+      "osent"
+    ],
+    "imparfait": [
+      "osais",
+      "osais",
+      "osait",
+      "osions",
+      "osiez",
+      "osaient"
+    ],
+    "futurSimple": [
+      "oserai",
+      "oseras",
+      "osera",
+      "oserons",
+      "oserez",
+      "oseront"
+    ],
+    "subjonctifPresent": [
+      "ose",
+      "oses",
+      "ose",
+      "osions",
+      "osiez",
+      "osent"
+    ],
+    "conditionnelPresent": [
+      "oserais",
+      "oserais",
+      "oserait",
+      "oserions",
+      "oseriez",
+      "oseraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b6"
+    },
+    "infinitif": "oublier",
+    "participePasse": "oublié",
+    "participePresent": "oubliant",
+    "auxiliaire": "avoir",
+    "present": [
+      "oublie",
+      "oublies",
+      "oublie",
+      "oublions",
+      "oubliez",
+      "oublient"
+    ],
+    "imparfait": [
+      "oubliais",
+      "oubliais",
+      "oubliait",
+      "oubliions",
+      "oubliiez",
+      "oubliaient"
+    ],
+    "futurSimple": [
+      "oublierai",
+      "oublieras",
+      "oubliera",
+      "oublierons",
+      "oublierez",
+      "oublieront"
+    ],
+    "subjonctifPresent": [
+      "oublie",
+      "oublies",
+      "oublie",
+      "oubliions",
+      "oubliiez",
+      "oublient"
+    ],
+    "conditionnelPresent": [
+      "oublierais",
+      "oublierais",
+      "oublierait",
+      "oublierions",
+      "oublieriez",
+      "oublieraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b7"
+    },
+    "infinitif": "ouvrir",
+    "participePasse": "ouvert",
+    "participePresent": "ouvrant",
+    "auxiliaire": "avoir",
+    "present": [
+      "ouvre",
+      "ouvres",
+      "ouvre",
+      "ouvrons",
+      "ouvrez",
+      "ouvrent"
+    ],
+    "imparfait": [
+      "ouvrais",
+      "ouvrais",
+      "ouvrait",
+      "ouvrions",
+      "ouvriez",
+      "ouvraient"
+    ],
+    "futurSimple": [
+      "ouvrirai",
+      "ouvriras",
+      "ouvrira",
+      "ouvrirons",
+      "ouvrirez",
+      "ouvriront"
+    ],
+    "subjonctifPresent": [
+      "ouvre",
+      "ouvres",
+      "ouvre",
+      "ouvrions",
+      "ouvriez",
+      "ouvrent"
+    ],
+    "conditionnelPresent": [
+      "ouvrirais",
+      "ouvrirais",
+      "ouvrirait",
+      "ouvririons",
+      "ouvririez",
+      "ouvriraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bb"
+    },
+    "infinitif": "parler",
+    "participePasse": "parlé",
+    "participePresent": "parlant",
+    "auxiliaire": "avoir",
+    "present": [
+      "parle",
+      "parles",
+      "parle",
+      "parlons",
+      "parlez",
+      "parlent"
+    ],
+    "imparfait": [
+      "parlais",
+      "parlais",
+      "parlait",
+      "parlions",
+      "parliez",
+      "parlaient"
+    ],
+    "futurSimple": [
+      "parlerai",
+      "parleras",
+      "parlera",
+      "parlerons",
+      "parlerez",
+      "parleront"
+    ],
+    "subjonctifPresent": [
+      "parle",
+      "parles",
+      "parle",
+      "parlions",
+      "parliez",
+      "parlent"
+    ],
+    "conditionnelPresent": [
+      "parlerais",
+      "parlerais",
+      "parlerait",
+      "parlerions",
+      "parleriez",
+      "parleraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bc"
+    },
+    "infinitif": "partager",
+    "participePasse": "partagé",
+    "participePresent": "partageant",
+    "auxiliaire": "avoir",
+    "present": [
+      "partage",
+      "partages",
+      "partage",
+      "partageons",
+      "partagez",
+      "partagent"
+    ],
+    "imparfait": [
+      "partageais",
+      "partageais",
+      "partageait",
+      "partagions",
+      "partagiez",
+      "partageaient"
+    ],
+    "futurSimple": [
+      "partagerai",
+      "partageras",
+      "partagera",
+      "partagerons",
+      "partagerez",
+      "partageront"
+    ],
+    "subjonctifPresent": [
+      "partage",
+      "partages",
+      "partage",
+      "partagions",
+      "partagiez",
+      "partagent"
+    ],
+    "conditionnelPresent": [
+      "partagerais",
+      "partagerais",
+      "partagerait",
+      "partagerions",
+      "partageriez",
+      "partageraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bd"
+    },
+    "infinitif": "partir",
+    "participePasse": "parti",
+    "participePresent": "partant",
+    "auxiliaire": "être",
+    "present": [
+      "pars",
+      "pars",
+      "part",
+      "partons",
+      "partez",
+      "partent"
+    ],
+    "imparfait": [
+      "partais",
+      "partais",
+      "partait",
+      "partions",
+      "partiez",
+      "partaient"
+    ],
+    "futurSimple": [
+      "partirai",
+      "partiras",
+      "partira",
+      "partirons",
+      "partirez",
+      "partiront"
+    ],
+    "subjonctifPresent": [
+      "parte",
+      "partes",
+      "parte",
+      "partions",
+      "partiez",
+      "partent"
+    ],
+    "conditionnelPresent": [
+      "partirais",
+      "partirais",
+      "partirait",
+      "partirions",
+      "partiriez",
+      "partiraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bf"
+    },
+    "infinitif": "passer",
+    "participePasse": "passé",
+    "participePresent": "passant",
+    "auxiliaire": "être",
+    "present": [
+      "passe",
+      "passes",
+      "passe",
+      "passons",
+      "passez",
+      "passent"
+    ],
+    "imparfait": [
+      "passais",
+      "passais",
+      "passait",
+      "passions",
+      "passiez",
+      "passaient"
+    ],
+    "futurSimple": [
+      "passerai",
+      "passeras",
+      "passera",
+      "passerons",
+      "passerez",
+      "passeront"
+    ],
+    "subjonctifPresent": [
+      "passe",
+      "passes",
+      "passe",
+      "passions",
+      "passiez",
+      "passent"
+    ],
+    "conditionnelPresent": [
+      "passerais",
+      "passerais",
+      "passerait",
+      "passerions",
+      "passeriez",
+      "passeraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c0"
+    },
+    "infinitif": "payer",
+    "participePasse": "payé",
+    "participePresent": "payant",
+    "auxiliaire": "avoir",
+    "present": [
+      "paie, paye",
+      "paies, payes",
+      "paie, paye",
+      "payons",
+      "payez",
+      "paient, payent"
+    ],
+    "imparfait": [
+      "payais",
+      "payais",
+      "payait",
+      "payions",
+      "payiez",
+      "payaient"
+    ],
+    "futurSimple": [
+      "paierai, payerai",
+      "paieras, payeras",
+      "paiera, payera",
+      "paierons, payerons",
+      "paierez, payerez",
+      "paieront, payeront"
+    ],
+    "subjonctifPresent": [
+      "paie, paye",
+      "paies, payes",
+      "paie, paye",
+      "payions",
+      "payiez",
+      "paient, payent"
+    ],
+    "conditionnelPresent": [
+      "paierais, payerais",
+      "paierais, payerais",
+      "paierait, payerait",
+      "paierions, payerions",
+      "paieriez, payeriez",
+      "paieraient, payeraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c3"
+    },
+    "infinitif": "penser",
+    "participePasse": "pensé",
+    "participePresent": "pensant",
+    "auxiliaire": "avoir",
+    "present": [
+      "pense",
+      "penses",
+      "pense",
+      "pensons",
+      "pensez",
+      "pensent"
+    ],
+    "imparfait": [
+      "pensais",
+      "pensais",
+      "pensait",
+      "pensions",
+      "pensiez",
+      "pensaient"
+    ],
+    "futurSimple": [
+      "penserai",
+      "penseras",
+      "pensera",
+      "penserons",
+      "penserez",
+      "penseront"
+    ],
+    "subjonctifPresent": [
+      "pense",
+      "penses",
+      "pense",
+      "pensions",
+      "pensiez",
+      "pensent"
+    ],
+    "conditionnelPresent": [
+      "penserais",
+      "penserais",
+      "penserait",
+      "penserions",
+      "penseriez",
+      "penseraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c5"
+    },
+    "infinitif": "perdre",
+    "participePasse": "perdu",
+    "participePresent": "perdant",
+    "auxiliaire": "avoir",
+    "present": [
+      "perds",
+      "perds",
+      "perd",
+      "perdons",
+      "perdez",
+      "perdent"
+    ],
+    "imparfait": [
+      "perdais",
+      "perdais",
+      "perdait",
+      "perdions",
+      "perdiez",
+      "perdaient"
+    ],
+    "futurSimple": [
+      "perdrai",
+      "perdras",
+      "perdra",
+      "perdrons",
+      "perdrez",
+      "perdront"
+    ],
+    "subjonctifPresent": [
+      "perde",
+      "perdes",
+      "perde",
+      "perdions",
+      "perdiez",
+      "perdent"
+    ],
+    "conditionnelPresent": [
+      "perdrais",
+      "perdrais",
+      "perdrait",
+      "perdrions",
+      "perdriez",
+      "perdraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c6"
+    },
+    "infinitif": "permettre",
+    "participePasse": "permis",
+    "participePresent": "permettant",
+    "auxiliaire": "avoir",
+    "present": [
+      "permets",
+      "permets",
+      "permet",
+      "permettons",
+      "permettez",
+      "permettent"
+    ],
+    "imparfait": [
+      "permettais",
+      "permettais",
+      "permettait",
+      "permettions",
+      "permettiez",
+      "permettaient"
+    ],
+    "futurSimple": [
+      "permettrai",
+      "permettras",
+      "permettra",
+      "permettrons",
+      "permettrez",
+      "permettront"
+    ],
+    "subjonctifPresent": [
+      "permette",
+      "permettes",
+      "permette",
+      "permettions",
+      "permettiez",
+      "permettent"
+    ],
+    "conditionnelPresent": [
+      "permettrais",
+      "permettrais",
+      "permettrait",
+      "permettrions",
+      "permettriez",
+      "permettraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cb"
+    },
+    "infinitif": "plaire",
+    "participePasse": "plu",
+    "participePresent": "plaisant",
+    "auxiliaire": "avoir",
+    "present": [
+      "plais",
+      "plais",
+      "plaît",
+      "plaisons",
+      "plaisez",
+      "plaisent"
+    ],
+    "imparfait": [
+      "plaisais",
+      "plaisais",
+      "plaisait",
+      "plaisions",
+      "plaisiez",
+      "plaisaient"
+    ],
+    "futurSimple": [
+      "plairai",
+      "plairas",
+      "plaira",
+      "plairons",
+      "plairez",
+      "plairont"
+    ],
+    "subjonctifPresent": [
+      "plaise",
+      "plaises",
+      "plaise",
+      "plaisions",
+      "plaisiez",
+      "plaisent"
+    ],
+    "conditionnelPresent": [
+      "plairais",
+      "plairais",
+      "plairait",
+      "plairions",
+      "plairiez",
+      "plairaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cc"
+    },
+    "infinitif": "pleurer",
+    "participePasse": "pleuré",
+    "participePresent": "pleurant",
+    "auxiliaire": "avoir",
+    "present": [
+      "pleure",
+      "pleures",
+      "pleure",
+      "pleurons",
+      "pleurez",
+      "pleurent"
+    ],
+    "imparfait": [
+      "pleurais",
+      "pleurais",
+      "pleurait",
+      "pleurions",
+      "pleuriez",
+      "pleuraient"
+    ],
+    "futurSimple": [
+      "pleurerai",
+      "pleureras",
+      "pleurera",
+      "pleurerons",
+      "pleurerez",
+      "pleureront"
+    ],
+    "subjonctifPresent": [
+      "pleure",
+      "pleures",
+      "pleure",
+      "pleurions",
+      "pleuriez",
+      "pleurent"
+    ],
+    "conditionnelPresent": [
+      "pleurerais",
+      "pleurerais",
+      "pleurerait",
+      "pleurerions",
+      "pleureriez",
+      "pleureraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cd"
+    },
+    "infinitif": "pleuvoir",
+    "participePasse": "plu",
+    "participePresent": "pleuvant",
+    "auxiliaire": "avoir",
+    "present": [
+      "",
+      "",
+      "pleut",
+      "",
+      "",
+      "pleuvent"
+    ],
+    "imparfait": [
+      "",
+      "",
+      "pleuvait",
+      "",
+      "",
+      "pleuvaient"
+    ],
+    "futurSimple": [
+      "",
+      "",
+      "pleuvra",
+      "",
+      "",
+      "pleuvront"
+    ],
+    "subjonctifPresent": [
+      "",
+      "",
+      "pleuve",
+      "",
+      "",
+      "pleuvent"
+    ],
+    "conditionnelPresent": [
+      "",
+      "",
+      "pleuvrait",
+      "",
+      "",
+      "pleuvraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d0"
+    },
+    "infinitif": "porter",
+    "participePasse": "porté",
+    "participePresent": "portant",
+    "auxiliaire": "avoir",
+    "present": [
+      "porte",
+      "portes",
+      "porte",
+      "portons",
+      "portez",
+      "portent"
+    ],
+    "imparfait": [
+      "portais",
+      "portais",
+      "portait",
+      "portions",
+      "portiez",
+      "portaient"
+    ],
+    "futurSimple": [
+      "porterai",
+      "porteras",
+      "portera",
+      "porterons",
+      "porterez",
+      "porteront"
+    ],
+    "subjonctifPresent": [
+      "porte",
+      "portes",
+      "porte",
+      "portions",
+      "portiez",
+      "portent"
+    ],
+    "conditionnelPresent": [
+      "porterais",
+      "porterais",
+      "porterait",
+      "porterions",
+      "porteriez",
+      "porteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d6"
+    },
+    "infinitif": "pouvoir",
+    "participePasse": "pu",
+    "participePresent": "pouvant",
+    "auxiliaire": "avoir",
+    "present": [
+      "peux, puis",
+      "peux",
+      "peut",
+      "pouvons",
+      "pouvez",
+      "peuvent"
+    ],
+    "imparfait": [
+      "pouvais",
+      "pouvais",
+      "pouvait",
+      "pouvions",
+      "pouviez",
+      "pouvaient"
+    ],
+    "futurSimple": [
+      "pourrai",
+      "pourras",
+      "pourra",
+      "pourrons",
+      "pourrez",
+      "pourront"
+    ],
+    "subjonctifPresent": [
+      "puisse",
+      "puisses",
+      "puisse",
+      "puissions",
+      "puissiez",
+      "puissent"
+    ],
+    "conditionnelPresent": [
+      "pourrais",
+      "pourrais",
+      "pourrait",
+      "pourrions",
+      "pourriez",
+      "pourraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d7"
+    },
+    "infinitif": "prendre",
+    "participePasse": "pris",
+    "participePresent": "prenant",
+    "auxiliaire": "avoir",
+    "present": [
+      "prends",
+      "prends",
+      "prend",
+      "prenons",
+      "prenez",
+      "prennent"
+    ],
+    "imparfait": [
+      "prenais",
+      "prenais",
+      "prenait",
+      "prenions",
+      "preniez",
+      "prenaient"
+    ],
+    "futurSimple": [
+      "prendrai",
+      "prendras",
+      "prendra",
+      "prendrons",
+      "prendrez",
+      "prendront"
+    ],
+    "subjonctifPresent": [
+      "prenne",
+      "prennes",
+      "prenne",
+      "prenions",
+      "preniez",
+      "prennent"
+    ],
+    "conditionnelPresent": [
+      "prendrais",
+      "prendrais",
+      "prendrait",
+      "prendrions",
+      "prendriez",
+      "prendraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89dd"
+    },
+    "infinitif": "préparer",
+    "participePasse": "préparé",
+    "participePresent": "préparant",
+    "auxiliaire": "avoir",
+    "present": [
+      "prépare",
+      "prépares",
+      "prépare",
+      "préparons",
+      "préparez",
+      "préparent"
+    ],
+    "imparfait": [
+      "préparais",
+      "préparais",
+      "préparait",
+      "préparions",
+      "prépariez",
+      "préparaient"
+    ],
+    "futurSimple": [
+      "préparerai",
+      "prépareras",
+      "préparera",
+      "préparerons",
+      "préparerez",
+      "prépareront"
+    ],
+    "subjonctifPresent": [
+      "prépare",
+      "prépares",
+      "prépare",
+      "préparions",
+      "prépariez",
+      "préparent"
+    ],
+    "conditionnelPresent": [
+      "préparerais",
+      "préparerais",
+      "préparerait",
+      "préparerions",
+      "prépareriez",
+      "prépareraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89e3"
+    },
+    "infinitif": "prêter",
+    "participePasse": "prêté",
+    "participePresent": "prêtant",
+    "auxiliaire": "avoir",
+    "present": [
+      "prête",
+      "prêtes",
+      "prête",
+      "prêtons",
+      "prêtez",
+      "prêtent"
+    ],
+    "imparfait": [
+      "prêtais",
+      "prêtais",
+      "prêtait",
+      "prêtions",
+      "prêtiez",
+      "prêtaient"
+    ],
+    "futurSimple": [
+      "prêterai",
+      "prêteras",
+      "prêtera",
+      "prêterons",
+      "prêterez",
+      "prêteront"
+    ],
+    "subjonctifPresent": [
+      "prête",
+      "prêtes",
+      "prête",
+      "prêtions",
+      "prêtiez",
+      "prêtent"
+    ],
+    "conditionnelPresent": [
+      "prêterais",
+      "prêterais",
+      "prêterait",
+      "prêterions",
+      "prêteriez",
+      "prêteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89e6"
+    },
+    "infinitif": "profiter",
+    "participePasse": "profité",
+    "participePresent": "profitant",
+    "auxiliaire": "avoir",
+    "present": [
+      "profite",
+      "profites",
+      "profite",
+      "profitons",
+      "profitez",
+      "profitent"
+    ],
+    "imparfait": [
+      "profitais",
+      "profitais",
+      "profitait",
+      "profitions",
+      "profitiez",
+      "profitaient"
+    ],
+    "futurSimple": [
+      "profiterai",
+      "profiteras",
+      "profitera",
+      "profiterons",
+      "profiterez",
+      "profiteront"
+    ],
+    "subjonctifPresent": [
+      "profite",
+      "profites",
+      "profite",
+      "profitions",
+      "profitiez",
+      "profitent"
+    ],
+    "conditionnelPresent": [
+      "profiterais",
+      "profiterais",
+      "profiterait",
+      "profiterions",
+      "profiteriez",
+      "profiteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89eb"
+    },
+    "infinitif": "proposer",
+    "participePasse": "proposé",
+    "participePresent": "proposant",
+    "auxiliaire": "avoir",
+    "present": [
+      "propose",
+      "proposes",
+      "propose",
+      "proposons",
+      "proposez",
+      "proposent"
+    ],
+    "imparfait": [
+      "proposais",
+      "proposais",
+      "proposait",
+      "proposions",
+      "proposiez",
+      "proposaient"
+    ],
+    "futurSimple": [
+      "proposerai",
+      "proposeras",
+      "proposera",
+      "proposerons",
+      "proposerez",
+      "proposeront"
+    ],
+    "subjonctifPresent": [
+      "propose",
+      "proposes",
+      "propose",
+      "proposions",
+      "proposiez",
+      "proposent"
+    ],
+    "conditionnelPresent": [
+      "proposerais",
+      "proposerais",
+      "proposerait",
+      "proposerions",
+      "proposeriez",
+      "proposeraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ee"
+    },
+    "infinitif": "quitter",
+    "participePasse": "quitté",
+    "participePresent": "quittant",
+    "auxiliaire": "avoir",
+    "present": [
+      "quitte",
+      "quittes",
+      "quitte",
+      "quittons",
+      "quittez",
+      "quittent"
+    ],
+    "imparfait": [
+      "quittais",
+      "quittais",
+      "quittait",
+      "quittions",
+      "quittiez",
+      "quittaient"
+    ],
+    "futurSimple": [
+      "quitterai",
+      "quitteras",
+      "quittera",
+      "quitterons",
+      "quitterez",
+      "quitteront"
+    ],
+    "subjonctifPresent": [
+      "quitte",
+      "quittes",
+      "quitte",
+      "quittions",
+      "quittiez",
+      "quittent"
+    ],
+    "conditionnelPresent": [
+      "quitterais",
+      "quitterais",
+      "quitterait",
+      "quitterions",
+      "quitteriez",
+      "quitteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ef"
+    },
+    "infinitif": "raconter",
+    "participePasse": "raconté",
+    "participePresent": "racontant",
+    "auxiliaire": "avoir",
+    "present": [
+      "raconte",
+      "racontes",
+      "raconte",
+      "racontons",
+      "racontez",
+      "racontent"
+    ],
+    "imparfait": [
+      "racontais",
+      "racontais",
+      "racontait",
+      "racontions",
+      "racontiez",
+      "racontaient"
+    ],
+    "futurSimple": [
+      "raconterai",
+      "raconteras",
+      "racontera",
+      "raconterons",
+      "raconterez",
+      "raconteront"
+    ],
+    "subjonctifPresent": [
+      "raconte",
+      "racontes",
+      "raconte",
+      "racontions",
+      "racontiez",
+      "racontent"
+    ],
+    "conditionnelPresent": [
+      "raconterais",
+      "raconterais",
+      "raconterait",
+      "raconterions",
+      "raconteriez",
+      "raconteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89f2"
+    },
+    "infinitif": "rappeler",
+    "participePasse": "rappelé",
+    "participePresent": "rappelant",
+    "auxiliaire": "avoir",
+    "present": [
+      "rappelle",
+      "rappelles",
+      "rappelle",
+      "rappelons",
+      "rappelez",
+      "rappellent"
+    ],
+    "imparfait": [
+      "rappelais",
+      "rappelais",
+      "rappelait",
+      "rappelions",
+      "rappeliez",
+      "rappelaient"
+    ],
+    "futurSimple": [
+      "rappellerai",
+      "rappelleras",
+      "rappellera",
+      "rappellerons",
+      "rappellerez",
+      "rappelleront"
+    ],
+    "subjonctifPresent": [
+      "rappelle",
+      "rappelles",
+      "rappelle",
+      "rappelions",
+      "rappeliez",
+      "rappellent"
+    ],
+    "conditionnelPresent": [
+      "rappellerais",
+      "rappellerais",
+      "rappellerait",
+      "rappellerions",
+      "rappelleriez",
+      "rappelleraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89f8"
+    },
+    "infinitif": "recevoir",
+    "participePasse": "reçu",
+    "participePresent": "recevant",
+    "auxiliaire": "avoir",
+    "present": [
+      "reçois",
+      "reçois",
+      "reçoit",
+      "recevons",
+      "recevez",
+      "reçoivent"
+    ],
+    "imparfait": [
+      "recevais",
+      "recevais",
+      "recevait",
+      "recevions",
+      "receviez",
+      "recevaient"
+    ],
+    "futurSimple": [
+      "recevrai",
+      "recevras",
+      "recevra",
+      "recevrons",
+      "recevrez",
+      "recevront"
+    ],
+    "subjonctifPresent": [
+      "reçoive",
+      "reçoives",
+      "reçoive",
+      "recevions",
+      "receviez",
+      "reçoivent"
+    ],
+    "conditionnelPresent": [
+      "recevrais",
+      "recevrais",
+      "recevrait",
+      "recevrions",
+      "recevriez",
+      "recevraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89fa"
+    },
+    "infinitif": "recommencer",
+    "participePasse": "recommencé",
+    "participePresent": "recommençant",
+    "auxiliaire": "avoir",
+    "present": [
+      "recommence",
+      "recommences",
+      "recommence",
+      "recommençons",
+      "recommencez",
+      "recommencent"
+    ],
+    "imparfait": [
+      "recommençais",
+      "recommençais",
+      "recommençait",
+      "recommencions",
+      "recommenciez",
+      "recommençaient"
+    ],
+    "futurSimple": [
+      "recommencerai",
+      "recommenceras",
+      "recommencera",
+      "recommencerons",
+      "recommencerez",
+      "recommenceront"
+    ],
+    "subjonctifPresent": [
+      "recommence",
+      "recommences",
+      "recommence",
+      "recommencions",
+      "recommenciez",
+      "recommencent"
+    ],
+    "conditionnelPresent": [
+      "recommencerais",
+      "recommencerais",
+      "recommencerait",
+      "recommencerions",
+      "recommenceriez",
+      "recommenceraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89fc"
+    },
+    "infinitif": "reconnaître",
+    "participePasse": "reconnu",
+    "participePresent": "reconnaissant",
+    "auxiliaire": "avoir",
+    "present": [
+      "reconnais",
+      "reconnais",
+      "reconnaît",
+      "reconnaissons",
+      "reconnaissez",
+      "reconnaissent"
+    ],
+    "imparfait": [
+      "reconnaissais",
+      "reconnaissais",
+      "reconnaissait",
+      "reconnaissions",
+      "reconnaissiez",
+      "reconnaissaient"
+    ],
+    "futurSimple": [
+      "reconnaîtrai",
+      "reconnaîtras",
+      "reconnaîtra",
+      "reconnaîtrons",
+      "reconnaîtrez",
+      "reconnaîtront"
+    ],
+    "subjonctifPresent": [
+      "reconnaisse",
+      "reconnaisses",
+      "reconnaisse",
+      "reconnaissions",
+      "reconnaissiez",
+      "reconnaissent"
+    ],
+    "conditionnelPresent": [
+      "reconnaîtrais",
+      "reconnaîtrais",
+      "reconnaîtrait",
+      "reconnaîtrions",
+      "reconnaîtriez",
+      "reconnaîtraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a07"
+    },
+    "infinitif": "refuser",
+    "participePasse": "refusé",
+    "participePresent": "refusant",
+    "auxiliaire": "avoir",
+    "present": [
+      "refuse",
+      "refuses",
+      "refuse",
+      "refusons",
+      "refusez",
+      "refusent"
+    ],
+    "imparfait": [
+      "refusais",
+      "refusais",
+      "refusait",
+      "refusions",
+      "refusiez",
+      "refusaient"
+    ],
+    "futurSimple": [
+      "refuserai",
+      "refuseras",
+      "refusera",
+      "refuserons",
+      "refuserez",
+      "refuseront"
+    ],
+    "subjonctifPresent": [
+      "refuse",
+      "refuses",
+      "refuse",
+      "refusions",
+      "refusiez",
+      "refusent"
+    ],
+    "conditionnelPresent": [
+      "refuserais",
+      "refuserais",
+      "refuserait",
+      "refuserions",
+      "refuseriez",
+      "refuseraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a08"
+    },
+    "infinitif": "regarder",
+    "participePasse": "regardé",
+    "participePresent": "regardant",
+    "auxiliaire": "avoir",
+    "present": [
+      "regarde",
+      "regardes",
+      "regarde",
+      "regardons",
+      "regardez",
+      "regardent"
+    ],
+    "imparfait": [
+      "regardais",
+      "regardais",
+      "regardait",
+      "regardions",
+      "regardiez",
+      "regardaient"
+    ],
+    "futurSimple": [
+      "regarderai",
+      "regarderas",
+      "regardera",
+      "regarderons",
+      "regarderez",
+      "regarderont"
+    ],
+    "subjonctifPresent": [
+      "regarde",
+      "regardes",
+      "regarde",
+      "regardions",
+      "regardiez",
+      "regardent"
+    ],
+    "conditionnelPresent": [
+      "regarderais",
+      "regarderais",
+      "regarderait",
+      "regarderions",
+      "regarderiez",
+      "regarderaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a0f"
+    },
+    "infinitif": "remarquer",
+    "participePasse": "remarqué",
+    "participePresent": "remarquant",
+    "auxiliaire": "avoir",
+    "present": [
+      "remarque",
+      "remarques",
+      "remarque",
+      "remarquons",
+      "remarquez",
+      "remarquent"
+    ],
+    "imparfait": [
+      "remarquais",
+      "remarquais",
+      "remarquait",
+      "remarquions",
+      "remarquiez",
+      "remarquaient"
+    ],
+    "futurSimple": [
+      "remarquerai",
+      "remarqueras",
+      "remarquera",
+      "remarquerons",
+      "remarquerez",
+      "remarqueront"
+    ],
+    "subjonctifPresent": [
+      "remarque",
+      "remarques",
+      "remarque",
+      "remarquions",
+      "remarquiez",
+      "remarquent"
+    ],
+    "conditionnelPresent": [
+      "remarquerais",
+      "remarquerais",
+      "remarquerait",
+      "remarquerions",
+      "remarqueriez",
+      "remarqueraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a10"
+    },
+    "infinitif": "remercier",
+    "participePasse": "remercié",
+    "participePresent": "remerciant",
+    "auxiliaire": "avoir",
+    "present": [
+      "remercie",
+      "remercies",
+      "remercie",
+      "remercions",
+      "remerciez",
+      "remercient"
+    ],
+    "imparfait": [
+      "remerciais",
+      "remerciais",
+      "remerciait",
+      "remerciions",
+      "remerciiez",
+      "remerciaient"
+    ],
+    "futurSimple": [
+      "remercierai",
+      "remercieras",
+      "remerciera",
+      "remercierons",
+      "remercierez",
+      "remercieront"
+    ],
+    "subjonctifPresent": [
+      "remercie",
+      "remercies",
+      "remercie",
+      "remerciions",
+      "remerciiez",
+      "remercient"
+    ],
+    "conditionnelPresent": [
+      "remercierais",
+      "remercierais",
+      "remercierait",
+      "remercierions",
+      "remercieriez",
+      "remercieraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a14"
+    },
+    "infinitif": "remplacer",
+    "participePasse": "remplacé",
+    "participePresent": "remplaçant",
+    "auxiliaire": "avoir",
+    "present": [
+      "remplace",
+      "remplaces",
+      "remplace",
+      "remplaçons",
+      "remplacez",
+      "remplacent"
+    ],
+    "imparfait": [
+      "remplaçais",
+      "remplaçais",
+      "remplaçait",
+      "remplacions",
+      "remplaciez",
+      "remplaçaient"
+    ],
+    "futurSimple": [
+      "remplacerai",
+      "remplaceras",
+      "remplacera",
+      "remplacerons",
+      "remplacerez",
+      "remplaceront"
+    ],
+    "subjonctifPresent": [
+      "remplace",
+      "remplaces",
+      "remplace",
+      "remplacions",
+      "remplaciez",
+      "remplacent"
+    ],
+    "conditionnelPresent": [
+      "remplacerais",
+      "remplacerais",
+      "remplacerait",
+      "remplacerions",
+      "remplaceriez",
+      "remplaceraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a17"
+    },
+    "infinitif": "rencontrer",
+    "participePasse": "rencontré",
+    "participePresent": "rencontrant",
+    "auxiliaire": "avoir",
+    "present": [
+      "rencontre",
+      "rencontres",
+      "rencontre",
+      "rencontrons",
+      "rencontrez",
+      "rencontrent"
+    ],
+    "imparfait": [
+      "rencontrais",
+      "rencontrais",
+      "rencontrait",
+      "rencontrions",
+      "rencontriez",
+      "rencontraient"
+    ],
+    "futurSimple": [
+      "rencontrerai",
+      "rencontreras",
+      "rencontrera",
+      "rencontrerons",
+      "rencontrerez",
+      "rencontreront"
+    ],
+    "subjonctifPresent": [
+      "rencontre",
+      "rencontres",
+      "rencontre",
+      "rencontrions",
+      "rencontriez",
+      "rencontrent"
+    ],
+    "conditionnelPresent": [
+      "rencontrerais",
+      "rencontrerais",
+      "rencontrerait",
+      "rencontrerions",
+      "rencontreriez",
+      "rencontreraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a1b"
+    },
+    "infinitif": "rentrer",
+    "participePasse": "rentré",
+    "participePresent": "rentrant",
+    "auxiliaire": "être",
+    "present": [
+      "rentre",
+      "rentres",
+      "rentre",
+      "rentrons",
+      "rentrez",
+      "rentrent"
+    ],
+    "imparfait": [
+      "rentrais",
+      "rentrais",
+      "rentrait",
+      "rentrions",
+      "rentriez",
+      "rentraient"
+    ],
+    "futurSimple": [
+      "rentrerai",
+      "rentreras",
+      "rentrera",
+      "rentrerons",
+      "rentrerez",
+      "rentreront"
+    ],
+    "subjonctifPresent": [
+      "rentre",
+      "rentres",
+      "rentre",
+      "rentrions",
+      "rentriez",
+      "rentrent"
+    ],
+    "conditionnelPresent": [
+      "rentrerais",
+      "rentrerais",
+      "rentrerait",
+      "rentrerions",
+      "rentreriez",
+      "rentreraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a2b"
+    },
+    "infinitif": "rester",
+    "participePasse": "resté",
+    "participePresent": "restant",
+    "auxiliaire": "être",
+    "present": [
+      "reste",
+      "restes",
+      "reste",
+      "restons",
+      "restez",
+      "restent"
+    ],
+    "imparfait": [
+      "restais",
+      "restais",
+      "restait",
+      "restions",
+      "restiez",
+      "restaient"
+    ],
+    "futurSimple": [
+      "resterai",
+      "resteras",
+      "restera",
+      "resterons",
+      "resterez",
+      "resteront"
+    ],
+    "subjonctifPresent": [
+      "reste",
+      "restes",
+      "reste",
+      "restions",
+      "restiez",
+      "restent"
+    ],
+    "conditionnelPresent": [
+      "resterais",
+      "resterais",
+      "resterait",
+      "resterions",
+      "resteriez",
+      "resteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a30"
+    },
+    "infinitif": "retourner",
+    "participePasse": "retourné",
+    "participePresent": "retournant",
+    "auxiliaire": "être",
+    "present": [
+      "retourne",
+      "retournes",
+      "retourne",
+      "retournons",
+      "retournez",
+      "retournent"
+    ],
+    "imparfait": [
+      "retournais",
+      "retournais",
+      "retournait",
+      "retournions",
+      "retourniez",
+      "retournaient"
+    ],
+    "futurSimple": [
+      "retournerai",
+      "retourneras",
+      "retournera",
+      "retournerons",
+      "retournerez",
+      "retourneront"
+    ],
+    "subjonctifPresent": [
+      "retourne",
+      "retournes",
+      "retourne",
+      "retournions",
+      "retourniez",
+      "retournent"
+    ],
+    "conditionnelPresent": [
+      "retournerais",
+      "retournerais",
+      "retournerait",
+      "retournerions",
+      "retourneriez",
+      "retourneraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a32"
+    },
+    "infinitif": "retrouver",
+    "participePasse": "retrouvé",
+    "participePresent": "retrouvant",
+    "auxiliaire": "avoir",
+    "present": [
+      "retrouve",
+      "retrouves",
+      "retrouve",
+      "retrouvons",
+      "retrouvez",
+      "retrouvent"
+    ],
+    "imparfait": [
+      "retrouvais",
+      "retrouvais",
+      "retrouvait",
+      "retrouvions",
+      "retrouviez",
+      "retrouvaient"
+    ],
+    "futurSimple": [
+      "retrouverai",
+      "retrouveras",
+      "retrouvera",
+      "retrouverons",
+      "retrouverez",
+      "retrouveront"
+    ],
+    "subjonctifPresent": [
+      "retrouve",
+      "retrouves",
+      "retrouve",
+      "retrouvions",
+      "retrouviez",
+      "retrouvent"
+    ],
+    "conditionnelPresent": [
+      "retrouverais",
+      "retrouverais",
+      "retrouverait",
+      "retrouverions",
+      "retrouveriez",
+      "retrouveraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a34"
+    },
+    "infinitif": "revenir",
+    "participePasse": "revenu",
+    "participePresent": "revenant",
+    "auxiliaire": "être",
+    "present": [
+      "reviens",
+      "reviens",
+      "revient",
+      "revenons",
+      "revenez",
+      "reviennent"
+    ],
+    "imparfait": [
+      "revenais",
+      "revenais",
+      "revenait",
+      "revenions",
+      "reveniez",
+      "revenaient"
+    ],
+    "futurSimple": [
+      "reviendrai",
+      "reviendras",
+      "reviendra",
+      "reviendrons",
+      "reviendrez",
+      "reviendront"
+    ],
+    "subjonctifPresent": [
+      "revienne",
+      "reviennes",
+      "revienne",
+      "revenions",
+      "reveniez",
+      "reviennent"
+    ],
+    "conditionnelPresent": [
+      "reviendrais",
+      "reviendrais",
+      "reviendrait",
+      "reviendrions",
+      "reviendriez",
+      "reviendraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a3e"
+    },
+    "infinitif": "répondre",
+    "participePasse": "répondu",
+    "participePresent": "répondant",
+    "auxiliaire": "avoir",
+    "present": [
+      "réponds",
+      "réponds",
+      "répond",
+      "répondons",
+      "répondez",
+      "répondent"
+    ],
+    "imparfait": [
+      "répondais",
+      "répondais",
+      "répondait",
+      "répondions",
+      "répondiez",
+      "répondaient"
+    ],
+    "futurSimple": [
+      "répondrai",
+      "répondras",
+      "répondra",
+      "répondrons",
+      "répondrez",
+      "répondront"
+    ],
+    "subjonctifPresent": [
+      "réponde",
+      "répondes",
+      "réponde",
+      "répondions",
+      "répondiez",
+      "répondent"
+    ],
+    "conditionnelPresent": [
+      "répondrais",
+      "répondrais",
+      "répondrait",
+      "répondrions",
+      "répondriez",
+      "répondraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a44"
+    },
+    "infinitif": "réveiller",
+    "participePasse": "réveillé",
+    "participePresent": "réveillant",
+    "auxiliaire": "avoir",
+    "present": [
+      "réveille",
+      "réveilles",
+      "réveille",
+      "réveillons",
+      "réveillez",
+      "réveillent"
+    ],
+    "imparfait": [
+      "réveillais",
+      "réveillais",
+      "réveillait",
+      "réveillions",
+      "réveilliez",
+      "réveillaient"
+    ],
+    "futurSimple": [
+      "réveillerai",
+      "réveilleras",
+      "réveillera",
+      "réveillerons",
+      "réveillerez",
+      "réveilleront"
+    ],
+    "subjonctifPresent": [
+      "réveille",
+      "réveilles",
+      "réveille",
+      "réveillions",
+      "réveilliez",
+      "réveillent"
+    ],
+    "conditionnelPresent": [
+      "réveillerais",
+      "réveillerais",
+      "réveillerait",
+      "réveillerions",
+      "réveilleriez",
+      "réveilleraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a47"
+    },
+    "infinitif": "rire",
+    "participePasse": "ri",
+    "participePresent": "riant",
+    "auxiliaire": "avoir",
+    "present": [
+      "ris",
+      "ris",
+      "rit",
+      "rions",
+      "riez",
+      "rient"
+    ],
+    "imparfait": [
+      "riais",
+      "riais",
+      "riait",
+      "riions",
+      "riiez",
+      "riaient"
+    ],
+    "futurSimple": [
+      "rirai",
+      "riras",
+      "rira",
+      "rirons",
+      "rirez",
+      "riront"
+    ],
+    "subjonctifPresent": [
+      "rie",
+      "ries",
+      "rie",
+      "riions",
+      "riiez",
+      "rient"
+    ],
+    "conditionnelPresent": [
+      "rirais",
+      "rirais",
+      "rirait",
+      "ririons",
+      "ririez",
+      "riraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a4a"
+    },
+    "infinitif": "rouler",
+    "participePasse": "roulé",
+    "participePresent": "roulant",
+    "auxiliaire": "avoir",
+    "present": [
+      "roule",
+      "roules",
+      "roule",
+      "roulons",
+      "roulez",
+      "roulent"
+    ],
+    "imparfait": [
+      "roulais",
+      "roulais",
+      "roulait",
+      "roulions",
+      "rouliez",
+      "roulaient"
+    ],
+    "futurSimple": [
+      "roulerai",
+      "rouleras",
+      "roulera",
+      "roulerons",
+      "roulerez",
+      "rouleront"
+    ],
+    "subjonctifPresent": [
+      "roule",
+      "roules",
+      "roule",
+      "roulions",
+      "rouliez",
+      "roulent"
+    ],
+    "conditionnelPresent": [
+      "roulerais",
+      "roulerais",
+      "roulerait",
+      "roulerions",
+      "rouleriez",
+      "rouleraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a57"
+    },
+    "infinitif": "s'acheter",
+    "participePasse": "acheté",
+    "participePresent": "s'achetant",
+    "auxiliaire": "être",
+    "present": [
+      "m'achète",
+      "t'achètes",
+      "s'achète",
+      "nous achetons",
+      "vous achetez",
+      "s'achètent"
+    ],
+    "imparfait": [
+      "m'achetais",
+      "t'achetais",
+      "s'achetait",
+      "nous achetions",
+      "vous achetiez",
+      "s'achetaient"
+    ],
+    "futurSimple": [
+      "m'achèterai",
+      "t'achèteras",
+      "s'achètera",
+      "nous achèterons",
+      "vous achèterez",
+      "s'achèteront"
+    ],
+    "subjonctifPresent": [
+      "m'achète",
+      "t'achètes",
+      "s'achète",
+      "nous achetions",
+      "vous achetiez",
+      "s'achètent"
+    ],
+    "conditionnelPresent": [
+      "m'achèterais",
+      "t'achèterais",
+      "s'achèterait",
+      "nous achèterions",
+      "vous achèteriez",
+      "s'achèteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a6a"
+    },
+    "infinitif": "s'appeler",
+    "participePasse": "appelé",
+    "participePresent": "s'appelant",
+    "auxiliaire": "être",
+    "present": [
+      "m'appelle",
+      "t'appelles",
+      "s'appelle",
+      "nous appelons",
+      "vous appelez",
+      "s'appellent"
+    ],
+    "imparfait": [
+      "m'appelais",
+      "t'appelais",
+      "s'appelait",
+      "nous appelions",
+      "vous appeliez",
+      "s'appelaient"
+    ],
+    "futurSimple": [
+      "m'appellerai",
+      "t'appelleras",
+      "s'appellera",
+      "nous appellerons",
+      "vous appellerez",
+      "s'appelleront"
+    ],
+    "subjonctifPresent": [
+      "m'appelle",
+      "t'appelles",
+      "s'appelle",
+      "nous appelions",
+      "vous appeliez",
+      "s'appellent"
+    ],
+    "conditionnelPresent": [
+      "m'appellerais",
+      "t'appellerais",
+      "s'appellerait",
+      "nous appellerions",
+      "vous appelleriez",
+      "s'appelleraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a70"
+    },
+    "infinitif": "s'arrêter",
+    "participePasse": "arrêté",
+    "participePresent": "s'arrêtant",
+    "auxiliaire": "être",
+    "present": [
+      "m'arrête",
+      "t'arrêtes",
+      "s'arrête",
+      "nous arrêtons",
+      "vous arrêtez",
+      "s'arrêtent"
+    ],
+    "imparfait": [
+      "m'arrêtais",
+      "t'arrêtais",
+      "s'arrêtait",
+      "nous arrêtions",
+      "vous arrêtiez",
+      "s'arrêtaient"
+    ],
+    "futurSimple": [
+      "m'arrêterai",
+      "t'arrêteras",
+      "s'arrêtera",
+      "nous arrêterons",
+      "vous arrêterez",
+      "s'arrêteront"
+    ],
+    "subjonctifPresent": [
+      "m'arrête",
+      "t'arrêtes",
+      "s'arrête",
+      "nous arrêtions",
+      "vous arrêtiez",
+      "s'arrêtent"
+    ],
+    "conditionnelPresent": [
+      "m'arrêterais",
+      "t'arrêterais",
+      "s'arrêterait",
+      "nous arrêterions",
+      "vous arrêteriez",
+      "s'arrêteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a72"
+    },
+    "infinitif": "s'asseoir",
+    "participePasse": "s'assoyant",
+    "participePresent": "s'asseyant,",
+    "auxiliaire": "être",
+    "present": [
+      "m'assieds, assois",
+      "t'assieds, assois",
+      "s'assied, assoit",
+      "nous asseyons, assoyons",
+      "vous asseyez, assoyez",
+      "s'asseyent, assoient"
+    ],
+    "imparfait": [
+      "m'asseyais, assoyais",
+      "t'asseyais, assoyais",
+      "s'asseyait, assoyait",
+      "nous asseyions, assoyions",
+      "vous asseyiez, assoyiez",
+      "s'asseyaient, assoyaient"
+    ],
+    "futurSimple": [
+      "m'assiérai, assoirai, asseyerai",
+      "t'assiéras, assoiras, asseyeras",
+      "s'assiéra, assoira, asseyera",
+      "nous assiérons, assoirons, asseyerons",
+      "vous assiérez, assoirez, asseyerez",
+      "s'assiéront, assoiront, asseyeront"
+    ],
+    "subjonctifPresent": [
+      "m'asseye, assoie",
+      "t'asseyes, assoies",
+      "s'asseye, assoie",
+      "nous asseyions, assoyions",
+      "vous asseyiez, assoyiez",
+      "s'asseyent, assoient"
+    ],
+    "conditionnelPresent": [
+      "m'assiérais, assoirais, asseyerais",
+      "t'assiérais, assoirais, asseyerais",
+      "s'assiérait, assoirait, asseyerait",
+      "nous assiérions, assoirions, asseyerions",
+      "vous assiériez, assoiriez, asseyeriez",
+      "s'assiéraient, assoiraient, asseyeraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a89"
+    },
+    "infinitif": "s'entraîner",
+    "participePasse": "entraîné",
+    "participePresent": "s'entraînant",
+    "auxiliaire": "être",
+    "present": [
+      "m'entraîne",
+      "t'entraînes",
+      "s'entraîne",
+      "nous entraînons",
+      "vous entraînez",
+      "s'entraînent"
+    ],
+    "imparfait": [
+      "m'entraînais",
+      "t'entraînais",
+      "s'entraînait",
+      "nous entraînions",
+      "vous entraîniez",
+      "s'entraînaient"
+    ],
+    "futurSimple": [
+      "m'entraînerai",
+      "t'entraîneras",
+      "s'entraînera",
+      "nous entraînerons",
+      "vous entraînerez",
+      "s'entraîneront"
+    ],
+    "subjonctifPresent": [
+      "m'entraîne",
+      "t'entraînes",
+      "s'entraîne",
+      "nous entraînions",
+      "vous entraîniez",
+      "s'entraînent"
+    ],
+    "conditionnelPresent": [
+      "m'entraînerais",
+      "t'entraînerais",
+      "s'entraînerait",
+      "nous entraînerions",
+      "vous entraîneriez",
+      "s'entraîneraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8aa8"
+    },
+    "infinitif": "s'habiller",
+    "participePasse": "habillé",
+    "participePresent": "s'habillant",
+    "auxiliaire": "être",
+    "present": [
+      "m'habille",
+      "t'habilles",
+      "s'habille",
+      "nous habillons",
+      "vous habillez",
+      "s'habillent"
+    ],
+    "imparfait": [
+      "m'habillais",
+      "t'habillais",
+      "s'habillait",
+      "nous habillions",
+      "vous habilliez",
+      "s'habillaient"
+    ],
+    "futurSimple": [
+      "m'habillerai",
+      "t'habilleras",
+      "s'habillera",
+      "nous habillerons",
+      "vous habillerez",
+      "s'habilleront"
+    ],
+    "subjonctifPresent": [
+      "m'habille",
+      "t'habilles",
+      "s'habille",
+      "nous habillions",
+      "vous habilliez",
+      "s'habillent"
+    ],
+    "conditionnelPresent": [
+      "m'habillerais",
+      "t'habillerais",
+      "s'habillerait",
+      "nous habillerions",
+      "vous habilleriez",
+      "s'habilleraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8aac"
+    },
+    "infinitif": "s'inquiéter",
+    "participePasse": "inquiété",
+    "participePresent": "s'inquiétant",
+    "auxiliaire": "être",
+    "present": [
+      "m'inquiète",
+      "t'inquiètes",
+      "s'inquiète",
+      "nous inquiétons",
+      "vous inquiétez",
+      "s'inquiètent"
+    ],
+    "imparfait": [
+      "m'inquiétais",
+      "t'inquiétais",
+      "s'inquiétait",
+      "nous inquiétions",
+      "vous inquiétiez",
+      "s'inquiétaient"
+    ],
+    "futurSimple": [
+      "m'inquiéterai",
+      "t'inquiéteras",
+      "s'inquiétera",
+      "nous inquiéterons",
+      "vous inquiéterez",
+      "s'inquiéteront"
+    ],
+    "subjonctifPresent": [
+      "m'inquiète",
+      "t'inquiètes",
+      "s'inquiète",
+      "nous inquiétions",
+      "vous inquiétiez",
+      "s'inquiètent"
+    ],
+    "conditionnelPresent": [
+      "m'inquiéterais",
+      "t'inquiéterais",
+      "s'inquiéterait",
+      "nous inquiéterions",
+      "vous inquiéteriez",
+      "s'inquiéteraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8ac2"
+    },
+    "infinitif": "sauver",
+    "participePasse": "sauvé",
+    "participePresent": "sauvant",
+    "auxiliaire": "avoir",
+    "present": [
+      "sauve",
+      "sauves",
+      "sauve",
+      "sauvons",
+      "sauvez",
+      "sauvent"
+    ],
+    "imparfait": [
+      "sauvais",
+      "sauvais",
+      "sauvait",
+      "sauvions",
+      "sauviez",
+      "sauvaient"
+    ],
+    "futurSimple": [
+      "sauverai",
+      "sauveras",
+      "sauvera",
+      "sauverons",
+      "sauverez",
+      "sauveront"
+    ],
+    "subjonctifPresent": [
+      "sauve",
+      "sauves",
+      "sauve",
+      "sauvions",
+      "sauviez",
+      "sauvent"
+    ],
+    "conditionnelPresent": [
+      "sauverais",
+      "sauverais",
+      "sauverait",
+      "sauverions",
+      "sauveriez",
+      "sauveraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8ac3"
+    },
+    "infinitif": "savoir",
+    "participePasse": "su",
+    "participePresent": "sachant",
+    "auxiliaire": "avoir",
+    "present": [
+      "sais",
+      "sais",
+      "sait",
+      "savons",
+      "savez",
+      "savent"
+    ],
+    "imparfait": [
+      "savais",
+      "savais",
+      "savait",
+      "savions",
+      "saviez",
+      "savaient"
+    ],
+    "futurSimple": [
+      "saurai",
+      "sauras",
+      "saura",
+      "saurons",
+      "saurez",
+      "sauront"
+    ],
+    "subjonctifPresent": [
+      "sache",
+      "saches",
+      "sache",
+      "sachions",
+      "sachiez",
+      "sachent"
+    ],
+    "conditionnelPresent": [
+      "saurais",
+      "saurais",
+      "saurait",
+      "saurions",
+      "sauriez",
+      "sauraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8b3f"
+    },
+    "infinitif": "se plaindre",
+    "participePasse": "plaint",
+    "participePresent": "se plaignant",
+    "auxiliaire": "être",
+    "present": [
+      "me plains",
+      "te plains",
+      "se plaint",
+      "nous plaignons",
+      "vous plaignez",
+      "se plaignent"
+    ],
+    "imparfait": [
+      "me plaignais",
+      "te plaignais",
+      "se plaignait",
+      "nous plaignions",
+      "vous plaigniez",
+      "se plaignaient"
+    ],
+    "futurSimple": [
+      "me plaindrai",
+      "te plaindras",
+      "se plaindra",
+      "nous plaindrons",
+      "vous plaindrez",
+      "se plaindront"
+    ],
+    "subjonctifPresent": [
+      "me plaigne",
+      "te plaignes",
+      "se plaigne",
+      "nous plaignions",
+      "vous plaigniez",
+      "se plaignent"
+    ],
+    "conditionnelPresent": [
+      "me plaindrais",
+      "te plaindrais",
+      "se plaindrait",
+      "nous plaindrions",
+      "vous plaindriez",
+      "se plaindraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bb5"
+    },
+    "infinitif": "se sentir",
+    "participePasse": "senti",
+    "participePresent": "se sentant",
+    "auxiliaire": "être",
+    "present": [
+      "me sens",
+      "te sens",
+      "se sent",
+      "nous sentons",
+      "vous sentez",
+      "se sentent"
+    ],
+    "imparfait": [
+      "me sentais",
+      "te sentais",
+      "se sentait",
+      "nous sentions",
+      "vous sentiez",
+      "se sentaient"
+    ],
+    "futurSimple": [
+      "me sentirai",
+      "te sentiras",
+      "se sentira",
+      "nous sentirons",
+      "vous sentirez",
+      "se sentiront"
+    ],
+    "subjonctifPresent": [
+      "me sente",
+      "te sentes",
+      "se sente",
+      "nous sentions",
+      "vous sentiez",
+      "se sentent"
+    ],
+    "conditionnelPresent": [
+      "me sentirais",
+      "te sentirais",
+      "se sentirait",
+      "nous sentirions",
+      "vous sentiriez",
+      "se sentiraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bf6"
+    },
+    "infinitif": "sentir",
+    "participePasse": "senti",
+    "participePresent": "sentant",
+    "auxiliaire": "avoir",
+    "present": [
+      "sens",
+      "sens",
+      "sent",
+      "sentons",
+      "sentez",
+      "sentent"
+    ],
+    "imparfait": [
+      "sentais",
+      "sentais",
+      "sentait",
+      "sentions",
+      "sentiez",
+      "sentaient"
+    ],
+    "futurSimple": [
+      "sentirai",
+      "sentiras",
+      "sentira",
+      "sentirons",
+      "sentirez",
+      "sentiront"
+    ],
+    "subjonctifPresent": [
+      "sente",
+      "sentes",
+      "sente",
+      "sentions",
+      "sentiez",
+      "sentent"
+    ],
+    "conditionnelPresent": [
+      "sentirais",
+      "sentirais",
+      "sentirait",
+      "sentirions",
+      "sentiriez",
+      "sentiraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bf9"
+    },
+    "infinitif": "servir",
+    "participePasse": "servi",
+    "participePresent": "servant",
+    "auxiliaire": "avoir",
+    "present": [
+      "sers",
+      "sers",
+      "sert",
+      "servons",
+      "servez",
+      "servent"
+    ],
+    "imparfait": [
+      "servais",
+      "servais",
+      "servait",
+      "servions",
+      "serviez",
+      "servaient"
+    ],
+    "futurSimple": [
+      "servirai",
+      "serviras",
+      "servira",
+      "servirons",
+      "servirez",
+      "serviront"
+    ],
+    "subjonctifPresent": [
+      "serve",
+      "serves",
+      "serve",
+      "servions",
+      "serviez",
+      "servent"
+    ],
+    "conditionnelPresent": [
+      "servirais",
+      "servirais",
+      "servirait",
+      "servirions",
+      "serviriez",
+      "serviraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c00"
+    },
+    "infinitif": "sortir",
+    "participePasse": "sorti",
+    "participePresent": "sortant",
+    "auxiliaire": "être",
+    "present": [
+      "sors",
+      "sors",
+      "sort",
+      "sortons",
+      "sortez",
+      "sortent"
+    ],
+    "imparfait": [
+      "sortais",
+      "sortais",
+      "sortait",
+      "sortions",
+      "sortiez",
+      "sortaient"
+    ],
+    "futurSimple": [
+      "sortirai",
+      "sortiras",
+      "sortira",
+      "sortirons",
+      "sortirez",
+      "sortiront"
+    ],
+    "subjonctifPresent": [
+      "sorte",
+      "sortes",
+      "sorte",
+      "sortions",
+      "sortiez",
+      "sortent"
+    ],
+    "conditionnelPresent": [
+      "sortirais",
+      "sortirais",
+      "sortirait",
+      "sortirions",
+      "sortiriez",
+      "sortiraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c0c"
+    },
+    "infinitif": "souvenir",
+    "participePasse": "souvenu",
+    "participePresent": "souvenant",
+    "auxiliaire": "être",
+    "present": [
+      "",
+      "",
+      "souvient",
+      "",
+      "",
+      ""
+    ],
+    "imparfait": [
+      "",
+      "",
+      "souvenait",
+      "",
+      "",
+      ""
+    ],
+    "futurSimple": [
+      "",
+      "",
+      "souviendra",
+      "",
+      "",
+      ""
+    ],
+    "subjonctifPresent": [
+      "",
+      "",
+      "souvienne",
+      "",
+      "",
+      ""
+    ],
+    "conditionnelPresent": [
+      "",
+      "",
+      "souviendrait",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c1f"
+    },
+    "infinitif": "survivre",
+    "participePasse": "survécu",
+    "participePresent": "survivant",
+    "auxiliaire": "avoir",
+    "present": [
+      "survis",
+      "survis",
+      "survit",
+      "survivons",
+      "survivez",
+      "survivent"
+    ],
+    "imparfait": [
+      "survivais",
+      "survivais",
+      "survivait",
+      "survivions",
+      "surviviez",
+      "survivaient"
+    ],
+    "futurSimple": [
+      "survivrai",
+      "survivras",
+      "survivra",
+      "survivrons",
+      "survivrez",
+      "survivront"
+    ],
+    "subjonctifPresent": [
+      "survive",
+      "survives",
+      "survive",
+      "survivions",
+      "surviviez",
+      "survivent"
+    ],
+    "conditionnelPresent": [
+      "survivrais",
+      "survivrais",
+      "survivrait",
+      "survivrions",
+      "survivriez",
+      "survivraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c23"
+    },
+    "infinitif": "tenir",
+    "participePasse": "tenu",
+    "participePresent": "tenant",
+    "auxiliaire": "avoir",
+    "present": [
+      "tiens",
+      "tiens",
+      "tient",
+      "tenons",
+      "tenez",
+      "tiennent"
+    ],
+    "imparfait": [
+      "tenais",
+      "tenais",
+      "tenait",
+      "tenions",
+      "teniez",
+      "tenaient"
+    ],
+    "futurSimple": [
+      "tiendrai",
+      "tiendras",
+      "tiendra",
+      "tiendrons",
+      "tiendrez",
+      "tiendront"
+    ],
+    "subjonctifPresent": [
+      "tienne",
+      "tiennes",
+      "tienne",
+      "tenions",
+      "teniez",
+      "tiennent"
+    ],
+    "conditionnelPresent": [
+      "tiendrais",
+      "tiendrais",
+      "tiendrait",
+      "tiendrions",
+      "tiendriez",
+      "tiendraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c25"
+    },
+    "infinitif": "terminer",
+    "participePasse": "terminé",
+    "participePresent": "terminant",
+    "auxiliaire": "avoir",
+    "present": [
+      "termine",
+      "termines",
+      "termine",
+      "terminons",
+      "terminez",
+      "terminent"
+    ],
+    "imparfait": [
+      "terminais",
+      "terminais",
+      "terminait",
+      "terminions",
+      "terminiez",
+      "terminaient"
+    ],
+    "futurSimple": [
+      "terminerai",
+      "termineras",
+      "terminera",
+      "terminerons",
+      "terminerez",
+      "termineront"
+    ],
+    "subjonctifPresent": [
+      "termine",
+      "termines",
+      "termine",
+      "terminions",
+      "terminiez",
+      "terminent"
+    ],
+    "conditionnelPresent": [
+      "terminerais",
+      "terminerais",
+      "terminerait",
+      "terminerions",
+      "termineriez",
+      "termineraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c27"
+    },
+    "infinitif": "tomber",
+    "participePasse": "tombé",
+    "participePresent": "tombant",
+    "auxiliaire": "être",
+    "present": [
+      "tombe",
+      "tombes",
+      "tombe",
+      "tombons",
+      "tombez",
+      "tombent"
+    ],
+    "imparfait": [
+      "tombais",
+      "tombais",
+      "tombait",
+      "tombions",
+      "tombiez",
+      "tombaient"
+    ],
+    "futurSimple": [
+      "tomberai",
+      "tomberas",
+      "tombera",
+      "tomberons",
+      "tomberez",
+      "tomberont"
+    ],
+    "subjonctifPresent": [
+      "tombe",
+      "tombes",
+      "tombe",
+      "tombions",
+      "tombiez",
+      "tombent"
+    ],
+    "conditionnelPresent": [
+      "tomberais",
+      "tomberais",
+      "tomberait",
+      "tomberions",
+      "tomberiez",
+      "tomberaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c29"
+    },
+    "infinitif": "toucher",
+    "participePasse": "touché",
+    "participePresent": "touchant",
+    "auxiliaire": "avoir",
+    "present": [
+      "touche",
+      "touches",
+      "touche",
+      "touchons",
+      "touchez",
+      "touchent"
+    ],
+    "imparfait": [
+      "touchais",
+      "touchais",
+      "touchait",
+      "touchions",
+      "touchiez",
+      "touchaient"
+    ],
+    "futurSimple": [
+      "toucherai",
+      "toucheras",
+      "touchera",
+      "toucherons",
+      "toucherez",
+      "toucheront"
+    ],
+    "subjonctifPresent": [
+      "touche",
+      "touches",
+      "touche",
+      "touchions",
+      "touchiez",
+      "touchent"
+    ],
+    "conditionnelPresent": [
+      "toucherais",
+      "toucherais",
+      "toucherait",
+      "toucherions",
+      "toucheriez",
+      "toucheraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c2c"
+    },
+    "infinitif": "traduire",
+    "participePasse": "traduit",
+    "participePresent": "traduisant",
+    "auxiliaire": "avoir",
+    "present": [
+      "traduis",
+      "traduis",
+      "traduit",
+      "traduisons",
+      "traduisez",
+      "traduisent"
+    ],
+    "imparfait": [
+      "traduisais",
+      "traduisais",
+      "traduisait",
+      "traduisions",
+      "traduisiez",
+      "traduisaient"
+    ],
+    "futurSimple": [
+      "traduirai",
+      "traduiras",
+      "traduira",
+      "traduirons",
+      "traduirez",
+      "traduiront"
+    ],
+    "subjonctifPresent": [
+      "traduise",
+      "traduises",
+      "traduise",
+      "traduisions",
+      "traduisiez",
+      "traduisent"
+    ],
+    "conditionnelPresent": [
+      "traduirais",
+      "traduirais",
+      "traduirait",
+      "traduirions",
+      "traduiriez",
+      "traduiraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c38"
+    },
+    "infinitif": "tromper",
+    "participePasse": "trompé",
+    "participePresent": "trompant",
+    "auxiliaire": "avoir",
+    "present": [
+      "trompe",
+      "trompes",
+      "trompe",
+      "trompons",
+      "trompez",
+      "trompent"
+    ],
+    "imparfait": [
+      "trompais",
+      "trompais",
+      "trompait",
+      "trompions",
+      "trompiez",
+      "trompaient"
+    ],
+    "futurSimple": [
+      "tromperai",
+      "tromperas",
+      "trompera",
+      "tromperons",
+      "tromperez",
+      "tromperont"
+    ],
+    "subjonctifPresent": [
+      "trompe",
+      "trompes",
+      "trompe",
+      "trompions",
+      "trompiez",
+      "trompent"
+    ],
+    "conditionnelPresent": [
+      "tromperais",
+      "tromperais",
+      "tromperait",
+      "tromperions",
+      "tromperiez",
+      "tromperaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c3b"
+    },
+    "infinitif": "trouver",
+    "participePasse": "trouvé",
+    "participePresent": "trouvant",
+    "auxiliaire": "avoir",
+    "present": [
+      "trouve",
+      "trouves",
+      "trouve",
+      "trouvons",
+      "trouvez",
+      "trouvent"
+    ],
+    "imparfait": [
+      "trouvais",
+      "trouvais",
+      "trouvait",
+      "trouvions",
+      "trouviez",
+      "trouvaient"
+    ],
+    "futurSimple": [
+      "trouverai",
+      "trouveras",
+      "trouvera",
+      "trouverons",
+      "trouverez",
+      "trouveront"
+    ],
+    "subjonctifPresent": [
+      "trouve",
+      "trouves",
+      "trouve",
+      "trouvions",
+      "trouviez",
+      "trouvent"
+    ],
+    "conditionnelPresent": [
+      "trouverais",
+      "trouverais",
+      "trouverait",
+      "trouverions",
+      "trouveriez",
+      "trouveraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c41"
+    },
+    "infinitif": "vendre",
+    "participePasse": "vendu",
+    "participePresent": "vendant",
+    "auxiliaire": "avoir",
+    "present": [
+      "vends",
+      "vends",
+      "vend",
+      "vendons",
+      "vendez",
+      "vendent"
+    ],
+    "imparfait": [
+      "vendais",
+      "vendais",
+      "vendait",
+      "vendions",
+      "vendiez",
+      "vendaient"
+    ],
+    "futurSimple": [
+      "vendrai",
+      "vendras",
+      "vendra",
+      "vendrons",
+      "vendrez",
+      "vendront"
+    ],
+    "subjonctifPresent": [
+      "vende",
+      "vendes",
+      "vende",
+      "vendions",
+      "vendiez",
+      "vendent"
+    ],
+    "conditionnelPresent": [
+      "vendrais",
+      "vendrais",
+      "vendrait",
+      "vendrions",
+      "vendriez",
+      "vendraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c42"
+    },
+    "infinitif": "venir",
+    "participePasse": "venu",
+    "participePresent": "venant",
+    "auxiliaire": "être",
+    "present": [
+      "viens",
+      "viens",
+      "vient",
+      "venons",
+      "venez",
+      "viennent"
+    ],
+    "imparfait": [
+      "venais",
+      "venais",
+      "venait",
+      "venions",
+      "veniez",
+      "venaient"
+    ],
+    "futurSimple": [
+      "viendrai",
+      "viendras",
+      "viendra",
+      "viendrons",
+      "viendrez",
+      "viendront"
+    ],
+    "subjonctifPresent": [
+      "vienne",
+      "viennes",
+      "vienne",
+      "venions",
+      "veniez",
+      "viennent"
+    ],
+    "conditionnelPresent": [
+      "viendrais",
+      "viendrais",
+      "viendrait",
+      "viendrions",
+      "viendriez",
+      "viendraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c49"
+    },
+    "infinitif": "vivre",
+    "participePasse": "vécu",
+    "participePresent": "vivant",
+    "auxiliaire": "avoir",
+    "present": [
+      "vis",
+      "vis",
+      "vit",
+      "vivons",
+      "vivez",
+      "vivent"
+    ],
+    "imparfait": [
+      "vivais",
+      "vivais",
+      "vivait",
+      "vivions",
+      "viviez",
+      "vivaient"
+    ],
+    "futurSimple": [
+      "vivrai",
+      "vivras",
+      "vivra",
+      "vivrons",
+      "vivrez",
+      "vivront"
+    ],
+    "subjonctifPresent": [
+      "vive",
+      "vives",
+      "vive",
+      "vivions",
+      "viviez",
+      "vivent"
+    ],
+    "conditionnelPresent": [
+      "vivrais",
+      "vivrais",
+      "vivrait",
+      "vivrions",
+      "vivriez",
+      "vivraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4b"
+    },
+    "infinitif": "voir",
+    "participePasse": "vu",
+    "participePresent": "voyant",
+    "auxiliaire": "avoir",
+    "present": [
+      "vois",
+      "vois",
+      "voit",
+      "voyons",
+      "voyez",
+      "voient"
+    ],
+    "imparfait": [
+      "voyais",
+      "voyais",
+      "voyait",
+      "voyions",
+      "voyiez",
+      "voyaient"
+    ],
+    "futurSimple": [
+      "verrai",
+      "verras",
+      "verra",
+      "verrons",
+      "verrez",
+      "verront"
+    ],
+    "subjonctifPresent": [
+      "voie",
+      "voies",
+      "voie",
+      "voyions",
+      "voyiez",
+      "voient"
+    ],
+    "conditionnelPresent": [
+      "verrais",
+      "verrais",
+      "verrait",
+      "verrions",
+      "verriez",
+      "verraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4c"
+    },
+    "infinitif": "voler",
+    "participePasse": "volé",
+    "participePresent": "volant",
+    "auxiliaire": "avoir",
+    "present": [
+      "vole",
+      "voles",
+      "vole",
+      "volons",
+      "volez",
+      "volent"
+    ],
+    "imparfait": [
+      "volais",
+      "volais",
+      "volait",
+      "volions",
+      "voliez",
+      "volaient"
+    ],
+    "futurSimple": [
+      "volerai",
+      "voleras",
+      "volera",
+      "volerons",
+      "volerez",
+      "voleront"
+    ],
+    "subjonctifPresent": [
+      "vole",
+      "voles",
+      "vole",
+      "volions",
+      "voliez",
+      "volent"
+    ],
+    "conditionnelPresent": [
+      "volerais",
+      "volerais",
+      "volerait",
+      "volerions",
+      "voleriez",
+      "voleraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4f"
+    },
+    "infinitif": "vouloir",
+    "participePasse": "voulu",
+    "participePresent": "voulant",
+    "auxiliaire": "avoir",
+    "present": [
+      "veux",
+      "veux",
+      "veut",
+      "voulons",
+      "voulez",
+      "veulent"
+    ],
+    "imparfait": [
+      "voulais",
+      "voulais",
+      "voulait",
+      "voulions",
+      "vouliez",
+      "voulaient"
+    ],
+    "futurSimple": [
+      "voudrai",
+      "voudras",
+      "voudra",
+      "voudrons",
+      "voudrez",
+      "voudront"
+    ],
+    "subjonctifPresent": [
+      "veuille",
+      "veuilles",
+      "veuille",
+      "voulions",
+      "vouliez",
+      "veuillent"
+    ],
+    "conditionnelPresent": [
+      "voudrais",
+      "voudrais",
+      "voudrait",
+      "voudrions",
+      "voudriez",
+      "voudraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c52"
+    },
+    "infinitif": "voyager",
+    "participePasse": "voyagé",
+    "participePresent": "voyageant",
+    "auxiliaire": "avoir",
+    "present": [
+      "voyage",
+      "voyages",
+      "voyage",
+      "voyageons",
+      "voyagez",
+      "voyagent"
+    ],
+    "imparfait": [
+      "voyageais",
+      "voyageais",
+      "voyageait",
+      "voyagions",
+      "voyagiez",
+      "voyageaient"
+    ],
+    "futurSimple": [
+      "voyagerai",
+      "voyageras",
+      "voyagera",
+      "voyagerons",
+      "voyagerez",
+      "voyageront"
+    ],
+    "subjonctifPresent": [
+      "voyage",
+      "voyages",
+      "voyage",
+      "voyagions",
+      "voyagiez",
+      "voyagent"
+    ],
+    "conditionnelPresent": [
+      "voyagerais",
+      "voyagerais",
+      "voyagerait",
+      "voyagerions",
+      "voyageriez",
+      "voyageraient"
+    ]
+  }
+]

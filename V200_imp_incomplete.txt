@@ -1,0 +1,2074 @@
+[
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f889c"
+    },
+    "infinitif": "accepter",
+    "imparfait": [
+      "acceptais",
+      "acceptais",
+      "acceptait",
+      "acceptions",
+      "acceptiez",
+      "acceptaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88a4"
+    },
+    "infinitif": "acheter",
+    "imparfait": [
+      "achetais",
+      "achetais",
+      "achetait",
+      "achetions",
+      "achetiez",
+      "achetaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ad"
+    },
+    "infinitif": "aimer",
+    "imparfait": [
+      "aimais",
+      "aimais",
+      "aimait",
+      "aimions",
+      "aimiez",
+      "aimaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88af"
+    },
+    "infinitif": "aller",
+    "imparfait": [
+      "allais",
+      "allais",
+      "allait",
+      "allions",
+      "alliez",
+      "allaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b0"
+    },
+    "infinitif": "allumer",
+    "imparfait": [
+      "allumais",
+      "allumais",
+      "allumait",
+      "allumions",
+      "allumiez",
+      "allumaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b1"
+    },
+    "infinitif": "amener",
+    "imparfait": [
+      "amenais",
+      "amenais",
+      "amenait",
+      "amenions",
+      "ameniez",
+      "amenaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b6"
+    },
+    "infinitif": "apparaître",
+    "imparfait": [
+      "apparaissais",
+      "apparaissais",
+      "apparaissait",
+      "apparaissions",
+      "apparaissiez",
+      "apparaissaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b8"
+    },
+    "infinitif": "appeler",
+    "imparfait": [
+      "appelais",
+      "appelais",
+      "appelait",
+      "appelions",
+      "appeliez",
+      "appelaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b9"
+    },
+    "infinitif": "apporter",
+    "imparfait": [
+      "apportais",
+      "apportais",
+      "apportait",
+      "apportions",
+      "apportiez",
+      "apportaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ba"
+    },
+    "infinitif": "apprendre",
+    "imparfait": [
+      "apprenais",
+      "apprenais",
+      "apprenait",
+      "apprenions",
+      "appreniez",
+      "apprenaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88bf"
+    },
+    "infinitif": "arrêter",
+    "imparfait": [
+      "arrêtais",
+      "arrêtais",
+      "arrêtait",
+      "arrêtions",
+      "arrêtiez",
+      "arrêtaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c0"
+    },
+    "infinitif": "arriver",
+    "imparfait": [
+      "arrivais",
+      "arrivais",
+      "arrivait",
+      "arrivions",
+      "arriviez",
+      "arrivaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c3"
+    },
+    "infinitif": "assister",
+    "imparfait": [
+      "assistais",
+      "assistais",
+      "assistait",
+      "assistions",
+      "assistiez",
+      "assistaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c8"
+    },
+    "infinitif": "attendre",
+    "imparfait": [
+      "attendais",
+      "attendais",
+      "attendait",
+      "attendions",
+      "attendiez",
+      "attendaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88cb"
+    },
+    "infinitif": "avoir",
+    "imparfait": [
+      "avais",
+      "avais",
+      "avait",
+      "avions",
+      "aviez",
+      "avaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88cf"
+    },
+    "infinitif": "boire",
+    "imparfait": [
+      "buvais",
+      "buvais",
+      "buvait",
+      "buvions",
+      "buviez",
+      "buvaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88d4"
+    },
+    "infinitif": "cacher",
+    "imparfait": [
+      "cachais",
+      "cachais",
+      "cachait",
+      "cachions",
+      "cachiez",
+      "cachaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88d7"
+    },
+    "infinitif": "casser",
+    "imparfait": [
+      "cassais",
+      "cassais",
+      "cassait",
+      "cassions",
+      "cassiez",
+      "cassaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88db"
+    },
+    "infinitif": "changer",
+    "imparfait": [
+      "changeais",
+      "changeais",
+      "changeait",
+      "changions",
+      "changiez",
+      "changeaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88dc"
+    },
+    "infinitif": "chanter",
+    "imparfait": [
+      "chantais",
+      "chantais",
+      "chantait",
+      "chantions",
+      "chantiez",
+      "chantaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88df"
+    },
+    "infinitif": "chercher",
+    "imparfait": [
+      "cherchais",
+      "cherchais",
+      "cherchait",
+      "cherchions",
+      "cherchiez",
+      "cherchaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e1"
+    },
+    "infinitif": "choisir",
+    "imparfait": [
+      "choisissais",
+      "choisissais",
+      "choisissait",
+      "choisissions",
+      "choisissiez",
+      "choisissaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e4"
+    },
+    "infinitif": "commencer",
+    "imparfait": [
+      "commençais",
+      "commençais",
+      "commençait",
+      "commencions",
+      "commenciez",
+      "commençaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e7"
+    },
+    "infinitif": "comprendre",
+    "imparfait": [
+      "comprenais",
+      "comprenais",
+      "comprenait",
+      "comprenions",
+      "compreniez",
+      "comprenaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88eb"
+    },
+    "infinitif": "conduire",
+    "imparfait": [
+      "conduisais",
+      "conduisais",
+      "conduisait",
+      "conduisions",
+      "conduisiez",
+      "conduisaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ef"
+    },
+    "infinitif": "connaître",
+    "imparfait": [
+      "connaissais",
+      "connaissais",
+      "connaissait",
+      "connaissions",
+      "connaissiez",
+      "connaissaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88f2"
+    },
+    "infinitif": "construire",
+    "imparfait": [
+      "construisais",
+      "construisais",
+      "construisait",
+      "construisions",
+      "construisiez",
+      "construisaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88f6"
+    },
+    "infinitif": "continuer",
+    "imparfait": [
+      "continuais",
+      "continuais",
+      "continuait",
+      "continuions",
+      "continuiez",
+      "continuaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88fe"
+    },
+    "infinitif": "courir",
+    "imparfait": [
+      "courais",
+      "courais",
+      "courait",
+      "courions",
+      "couriez",
+      "couraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8905"
+    },
+    "infinitif": "croire",
+    "imparfait": [
+      "croyais",
+      "croyais",
+      "croyait",
+      "croyions",
+      "croyiez",
+      "croyaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8909"
+    },
+    "infinitif": "demander",
+    "imparfait": [
+      "demandais",
+      "demandais",
+      "demandait",
+      "demandions",
+      "demandiez",
+      "demandaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f890e"
+    },
+    "infinitif": "devenir",
+    "imparfait": [
+      "devenais",
+      "devenais",
+      "devenait",
+      "devenions",
+      "deveniez",
+      "devenaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8910"
+    },
+    "infinitif": "devoir",
+    "imparfait": [
+      "devais",
+      "devais",
+      "devait",
+      "devions",
+      "deviez",
+      "devaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8914"
+    },
+    "infinitif": "décider",
+    "imparfait": [
+      "décidais",
+      "décidais",
+      "décidait",
+      "décidions",
+      "décidiez",
+      "décidaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8918"
+    },
+    "infinitif": "décrire",
+    "imparfait": [
+      "décrivais",
+      "décrivais",
+      "décrivait",
+      "décrivions",
+      "décriviez",
+      "décrivaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8925"
+    },
+    "infinitif": "dire",
+    "imparfait": [
+      "disais",
+      "disais",
+      "disait",
+      "disions",
+      "disiez",
+      "disaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8927"
+    },
+    "infinitif": "discuter",
+    "imparfait": [
+      "discutais",
+      "discutais",
+      "discutait",
+      "discutions",
+      "discutiez",
+      "discutaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8928"
+    },
+    "infinitif": "disparaître",
+    "imparfait": [
+      "disparaissais",
+      "disparaissais",
+      "disparaissait",
+      "disparaissions",
+      "disparaissiez",
+      "disparaissaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f892d"
+    },
+    "infinitif": "donner",
+    "imparfait": [
+      "donnais",
+      "donnais",
+      "donnait",
+      "donnions",
+      "donniez",
+      "donnaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f892e"
+    },
+    "infinitif": "dormir",
+    "imparfait": [
+      "dormais",
+      "dormais",
+      "dormait",
+      "dormions",
+      "dormiez",
+      "dormaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8931"
+    },
+    "infinitif": "durer",
+    "imparfait": [
+      "durais",
+      "durais",
+      "durait",
+      "durions",
+      "duriez",
+      "duraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8932"
+    },
+    "infinitif": "effacer",
+    "imparfait": [
+      "effaçais",
+      "effaçais",
+      "effaçait",
+      "effacions",
+      "effaciez",
+      "effaçaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8934"
+    },
+    "infinitif": "embrasser",
+    "imparfait": [
+      "embrassais",
+      "embrassais",
+      "embrassait",
+      "embrassions",
+      "embrassiez",
+      "embrassaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8935"
+    },
+    "infinitif": "emmener",
+    "imparfait": [
+      "emmenais",
+      "emmenais",
+      "emmenait",
+      "emmenions",
+      "emmeniez",
+      "emmenaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8938"
+    },
+    "infinitif": "emporter",
+    "imparfait": [
+      "emportais",
+      "emportais",
+      "emportait",
+      "emportions",
+      "emportiez",
+      "emportaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f893f"
+    },
+    "infinitif": "entendre",
+    "imparfait": [
+      "entendais",
+      "entendais",
+      "entendait",
+      "entendions",
+      "entendiez",
+      "entendaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8942"
+    },
+    "infinitif": "entrer",
+    "imparfait": [
+      "entrais",
+      "entrais",
+      "entrait",
+      "entrions",
+      "entriez",
+      "entraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8945"
+    },
+    "infinitif": "envoyer",
+    "imparfait": [
+      "envoyais",
+      "envoyais",
+      "envoyait",
+      "envoyions",
+      "envoyiez",
+      "envoyaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8947"
+    },
+    "infinitif": "essayer",
+    "imparfait": [
+      "essayais",
+      "essayais",
+      "essayait",
+      "essayions",
+      "essayiez",
+      "essayaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f894d"
+    },
+    "infinitif": "expliquer",
+    "imparfait": [
+      "expliquais",
+      "expliquais",
+      "expliquait",
+      "expliquions",
+      "expliquiez",
+      "expliquaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8957"
+    },
+    "infinitif": "écrire",
+    "imparfait": [
+      "écrivais",
+      "écrivais",
+      "écrivait",
+      "écrivions",
+      "écriviez",
+      "écrivaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f895f"
+    },
+    "infinitif": "éteindre",
+    "imparfait": [
+      "éteignais",
+      "éteignais",
+      "éteignait",
+      "éteignions",
+      "éteigniez",
+      "éteignaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8964"
+    },
+    "infinitif": "éviter",
+    "imparfait": [
+      "évitais",
+      "évitais",
+      "évitait",
+      "évitions",
+      "évitiez",
+      "évitaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8965"
+    },
+    "infinitif": "être",
+    "imparfait": [
+      "étais",
+      "étais",
+      "était",
+      "étions",
+      "étiez",
+      "étaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8967"
+    },
+    "infinitif": "faire",
+    "imparfait": [
+      "faisais",
+      "faisais",
+      "faisait",
+      "faisions",
+      "faisiez",
+      "faisaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8968"
+    },
+    "infinitif": "falloir",
+    "imparfait": [
+      "",
+      "",
+      "fallait",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f896a"
+    },
+    "infinitif": "fermer",
+    "imparfait": [
+      "fermais",
+      "fermais",
+      "fermait",
+      "fermions",
+      "fermiez",
+      "fermaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f896c"
+    },
+    "infinitif": "finir",
+    "imparfait": [
+      "finissais",
+      "finissais",
+      "finissait",
+      "finissions",
+      "finissiez",
+      "finissaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8974"
+    },
+    "infinitif": "frapper",
+    "imparfait": [
+      "frappais",
+      "frappais",
+      "frappait",
+      "frappions",
+      "frappiez",
+      "frappaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8978"
+    },
+    "infinitif": "gagner",
+    "imparfait": [
+      "gagnais",
+      "gagnais",
+      "gagnait",
+      "gagnions",
+      "gagniez",
+      "gagnaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8979"
+    },
+    "infinitif": "garder",
+    "imparfait": [
+      "gardais",
+      "gardais",
+      "gardait",
+      "gardions",
+      "gardiez",
+      "gardaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8980"
+    },
+    "infinitif": "hésiter",
+    "imparfait": [
+      "hésitais",
+      "hésitais",
+      "hésitait",
+      "hésitions",
+      "hésitiez",
+      "hésitaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f898d"
+    },
+    "infinitif": "inviter",
+    "imparfait": [
+      "invitais",
+      "invitais",
+      "invitait",
+      "invitions",
+      "invitiez",
+      "invitaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8990"
+    },
+    "infinitif": "jouer",
+    "imparfait": [
+      "jouais",
+      "jouais",
+      "jouait",
+      "jouions",
+      "jouiez",
+      "jouaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8992"
+    },
+    "infinitif": "lever",
+    "imparfait": [
+      "levais",
+      "levais",
+      "levait",
+      "levions",
+      "leviez",
+      "levaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8994"
+    },
+    "infinitif": "lire",
+    "imparfait": [
+      "lisais",
+      "lisais",
+      "lisait",
+      "lisions",
+      "lisiez",
+      "lisaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8999"
+    },
+    "infinitif": "manger",
+    "imparfait": [
+      "mangeais",
+      "mangeais",
+      "mangeait",
+      "mangions",
+      "mangiez",
+      "mangeaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f899a"
+    },
+    "infinitif": "manquer",
+    "imparfait": [
+      "manquais",
+      "manquais",
+      "manquait",
+      "manquions",
+      "manquiez",
+      "manquaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f899b"
+    },
+    "infinitif": "marcher",
+    "imparfait": [
+      "marchais",
+      "marchais",
+      "marchait",
+      "marchions",
+      "marchiez",
+      "marchaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a1"
+    },
+    "infinitif": "mentir",
+    "imparfait": [
+      "mentais",
+      "mentais",
+      "mentait",
+      "mentions",
+      "mentiez",
+      "mentaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a3"
+    },
+    "infinitif": "mettre",
+    "imparfait": [
+      "mettais",
+      "mettais",
+      "mettait",
+      "mettions",
+      "mettiez",
+      "mettaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a6"
+    },
+    "infinitif": "monter",
+    "imparfait": [
+      "montais",
+      "montais",
+      "montait",
+      "montions",
+      "montiez",
+      "montaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a7"
+    },
+    "infinitif": "montrer",
+    "imparfait": [
+      "montrais",
+      "montrais",
+      "montrait",
+      "montrions",
+      "montriez",
+      "montraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a9"
+    },
+    "infinitif": "mourir",
+    "imparfait": [
+      "mourais",
+      "mourais",
+      "mourait",
+      "mourions",
+      "mouriez",
+      "mouraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ab"
+    },
+    "infinitif": "naître",
+    "imparfait": [
+      "naissais",
+      "naissais",
+      "naissait",
+      "naissions",
+      "naissiez",
+      "naissaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b4"
+    },
+    "infinitif": "offrir",
+    "imparfait": [
+      "offrais",
+      "offrais",
+      "offrait",
+      "offrions",
+      "offriez",
+      "offraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b5"
+    },
+    "infinitif": "oser",
+    "imparfait": [
+      "osais",
+      "osais",
+      "osait",
+      "osions",
+      "osiez",
+      "osaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b6"
+    },
+    "infinitif": "oublier",
+    "imparfait": [
+      "oubliais",
+      "oubliais",
+      "oubliait",
+      "oubliions",
+      "oubliiez",
+      "oubliaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b7"
+    },
+    "infinitif": "ouvrir",
+    "imparfait": [
+      "ouvrais",
+      "ouvrais",
+      "ouvrait",
+      "ouvrions",
+      "ouvriez",
+      "ouvraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bb"
+    },
+    "infinitif": "parler",
+    "imparfait": [
+      "parlais",
+      "parlais",
+      "parlait",
+      "parlions",
+      "parliez",
+      "parlaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bc"
+    },
+    "infinitif": "partager",
+    "imparfait": [
+      "partageais",
+      "partageais",
+      "partageait",
+      "partagions",
+      "partagiez",
+      "partageaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bd"
+    },
+    "infinitif": "partir",
+    "imparfait": [
+      "partais",
+      "partais",
+      "partait",
+      "partions",
+      "partiez",
+      "partaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bf"
+    },
+    "infinitif": "passer",
+    "imparfait": [
+      "passais",
+      "passais",
+      "passait",
+      "passions",
+      "passiez",
+      "passaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c0"
+    },
+    "infinitif": "payer",
+    "imparfait": [
+      "payais",
+      "payais",
+      "payait",
+      "payions",
+      "payiez",
+      "payaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c3"
+    },
+    "infinitif": "penser",
+    "imparfait": [
+      "pensais",
+      "pensais",
+      "pensait",
+      "pensions",
+      "pensiez",
+      "pensaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c5"
+    },
+    "infinitif": "perdre",
+    "imparfait": [
+      "perdais",
+      "perdais",
+      "perdait",
+      "perdions",
+      "perdiez",
+      "perdaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c6"
+    },
+    "infinitif": "permettre",
+    "imparfait": [
+      "permettais",
+      "permettais",
+      "permettait",
+      "permettions",
+      "permettiez",
+      "permettaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cb"
+    },
+    "infinitif": "plaire",
+    "imparfait": [
+      "plaisais",
+      "plaisais",
+      "plaisait",
+      "plaisions",
+      "plaisiez",
+      "plaisaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cc"
+    },
+    "infinitif": "pleurer",
+    "imparfait": [
+      "pleurais",
+      "pleurais",
+      "pleurait",
+      "pleurions",
+      "pleuriez",
+      "pleuraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cd"
+    },
+    "infinitif": "pleuvoir",
+    "imparfait": [
+      "",
+      "",
+      "pleuvait",
+      "",
+      "",
+      "pleuvaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d0"
+    },
+    "infinitif": "porter",
+    "imparfait": [
+      "portais",
+      "portais",
+      "portait",
+      "portions",
+      "portiez",
+      "portaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d6"
+    },
+    "infinitif": "pouvoir",
+    "imparfait": [
+      "pouvais",
+      "pouvais",
+      "pouvait",
+      "pouvions",
+      "pouviez",
+      "pouvaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d7"
+    },
+    "infinitif": "prendre",
+    "imparfait": [
+      "prenais",
+      "prenais",
+      "prenait",
+      "prenions",
+      "preniez",
+      "prenaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89dd"
+    },
+    "infinitif": "préparer",
+    "imparfait": [
+      "préparais",
+      "préparais",
+      "préparait",
+      "préparions",
+      "prépariez",
+      "préparaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89e3"
+    },
+    "infinitif": "prêter",
+    "imparfait": [
+      "prêtais",
+      "prêtais",
+      "prêtait",
+      "prêtions",
+      "prêtiez",
+      "prêtaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89e6"
+    },
+    "infinitif": "profiter",
+    "imparfait": [
+      "profitais",
+      "profitais",
+      "profitait",
+      "profitions",
+      "profitiez",
+      "profitaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89eb"
+    },
+    "infinitif": "proposer",
+    "imparfait": [
+      "proposais",
+      "proposais",
+      "proposait",
+      "proposions",
+      "proposiez",
+      "proposaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ee"
+    },
+    "infinitif": "quitter",
+    "imparfait": [
+      "quittais",
+      "quittais",
+      "quittait",
+      "quittions",
+      "quittiez",
+      "quittaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ef"
+    },
+    "infinitif": "raconter",
+    "imparfait": [
+      "racontais",
+      "racontais",
+      "racontait",
+      "racontions",
+      "racontiez",
+      "racontaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89f2"
+    },
+    "infinitif": "rappeler",
+    "imparfait": [
+      "rappelais",
+      "rappelais",
+      "rappelait",
+      "rappelions",
+      "rappeliez",
+      "rappelaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89f8"
+    },
+    "infinitif": "recevoir",
+    "imparfait": [
+      "recevais",
+      "recevais",
+      "recevait",
+      "recevions",
+      "receviez",
+      "recevaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89fa"
+    },
+    "infinitif": "recommencer",
+    "imparfait": [
+      "recommençais",
+      "recommençais",
+      "recommençait",
+      "recommencions",
+      "recommenciez",
+      "recommençaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89fc"
+    },
+    "infinitif": "reconnaître",
+    "imparfait": [
+      "reconnaissais",
+      "reconnaissais",
+      "reconnaissait",
+      "reconnaissions",
+      "reconnaissiez",
+      "reconnaissaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a07"
+    },
+    "infinitif": "refuser",
+    "imparfait": [
+      "refusais",
+      "refusais",
+      "refusait",
+      "refusions",
+      "refusiez",
+      "refusaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a08"
+    },
+    "infinitif": "regarder",
+    "imparfait": [
+      "regardais",
+      "regardais",
+      "regardait",
+      "regardions",
+      "regardiez",
+      "regardaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a0f"
+    },
+    "infinitif": "remarquer",
+    "imparfait": [
+      "remarquais",
+      "remarquais",
+      "remarquait",
+      "remarquions",
+      "remarquiez",
+      "remarquaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a10"
+    },
+    "infinitif": "remercier",
+    "imparfait": [
+      "remerciais",
+      "remerciais",
+      "remerciait",
+      "remerciions",
+      "remerciiez",
+      "remerciaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a14"
+    },
+    "infinitif": "remplacer",
+    "imparfait": [
+      "remplaçais",
+      "remplaçais",
+      "remplaçait",
+      "remplacions",
+      "remplaciez",
+      "remplaçaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a17"
+    },
+    "infinitif": "rencontrer",
+    "imparfait": [
+      "rencontrais",
+      "rencontrais",
+      "rencontrait",
+      "rencontrions",
+      "rencontriez",
+      "rencontraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a1b"
+    },
+    "infinitif": "rentrer",
+    "imparfait": [
+      "rentrais",
+      "rentrais",
+      "rentrait",
+      "rentrions",
+      "rentriez",
+      "rentraient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a2b"
+    },
+    "infinitif": "rester",
+    "imparfait": [
+      "restais",
+      "restais",
+      "restait",
+      "restions",
+      "restiez",
+      "restaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a30"
+    },
+    "infinitif": "retourner",
+    "imparfait": [
+      "retournais",
+      "retournais",
+      "retournait",
+      "retournions",
+      "retourniez",
+      "retournaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a32"
+    },
+    "infinitif": "retrouver",
+    "imparfait": [
+      "retrouvais",
+      "retrouvais",
+      "retrouvait",
+      "retrouvions",
+      "retrouviez",
+      "retrouvaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a34"
+    },
+    "infinitif": "revenir",
+    "imparfait": [
+      "revenais",
+      "revenais",
+      "revenait",
+      "revenions",
+      "reveniez",
+      "revenaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a3e"
+    },
+    "infinitif": "répondre",
+    "imparfait": [
+      "répondais",
+      "répondais",
+      "répondait",
+      "répondions",
+      "répondiez",
+      "répondaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a44"
+    },
+    "infinitif": "réveiller",
+    "imparfait": [
+      "réveillais",
+      "réveillais",
+      "réveillait",
+      "réveillions",
+      "réveilliez",
+      "réveillaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a47"
+    },
+    "infinitif": "rire",
+    "imparfait": [
+      "riais",
+      "riais",
+      "riait",
+      "riions",
+      "riiez",
+      "riaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a4a"
+    },
+    "infinitif": "rouler",
+    "imparfait": [
+      "roulais",
+      "roulais",
+      "roulait",
+      "roulions",
+      "rouliez",
+      "roulaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a57"
+    },
+    "infinitif": "s'acheter",
+    "imparfait": [
+      "m'achetais",
+      "t'achetais",
+      "s'achetait",
+      "nous achetions",
+      "vous achetiez",
+      "s'achetaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a6a"
+    },
+    "infinitif": "s'appeler",
+    "imparfait": [
+      "m'appelais",
+      "t'appelais",
+      "s'appelait",
+      "nous appelions",
+      "vous appeliez",
+      "s'appelaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a70"
+    },
+    "infinitif": "s'arrêter",
+    "imparfait": [
+      "m'arrêtais",
+      "t'arrêtais",
+      "s'arrêtait",
+      "nous arrêtions",
+      "vous arrêtiez",
+      "s'arrêtaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a72"
+    },
+    "infinitif": "s'asseoir",
+    "imparfait": [
+      "m'asseyais, assoyais",
+      "t'asseyais, assoyais",
+      "s'asseyait, assoyait",
+      "nous asseyions, assoyions",
+      "vous asseyiez, assoyiez",
+      "s'asseyaient, assoyaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a89"
+    },
+    "infinitif": "s'entraîner",
+    "imparfait": [
+      "m'entraînais",
+      "t'entraînais",
+      "s'entraînait",
+      "nous entraînions",
+      "vous entraîniez",
+      "s'entraînaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8aa8"
+    },
+    "infinitif": "s'habiller",
+    "imparfait": [
+      "m'habillais",
+      "t'habillais",
+      "s'habillait",
+      "nous habillions",
+      "vous habilliez",
+      "s'habillaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8aac"
+    },
+    "infinitif": "s'inquiéter",
+    "imparfait": [
+      "m'inquiétais",
+      "t'inquiétais",
+      "s'inquiétait",
+      "nous inquiétions",
+      "vous inquiétiez",
+      "s'inquiétaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8ac2"
+    },
+    "infinitif": "sauver",
+    "imparfait": [
+      "sauvais",
+      "sauvais",
+      "sauvait",
+      "sauvions",
+      "sauviez",
+      "sauvaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8ac3"
+    },
+    "infinitif": "savoir",
+    "imparfait": [
+      "savais",
+      "savais",
+      "savait",
+      "savions",
+      "saviez",
+      "savaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8b3f"
+    },
+    "infinitif": "se plaindre",
+    "imparfait": [
+      "me plaignais",
+      "te plaignais",
+      "se plaignait",
+      "nous plaignions",
+      "vous plaigniez",
+      "se plaignaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bb5"
+    },
+    "infinitif": "se sentir",
+    "imparfait": [
+      "me sentais",
+      "te sentais",
+      "se sentait",
+      "nous sentions",
+      "vous sentiez",
+      "se sentaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bf6"
+    },
+    "infinitif": "sentir",
+    "imparfait": [
+      "sentais",
+      "sentais",
+      "sentait",
+      "sentions",
+      "sentiez",
+      "sentaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bf9"
+    },
+    "infinitif": "servir",
+    "imparfait": [
+      "servais",
+      "servais",
+      "servait",
+      "servions",
+      "serviez",
+      "servaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c00"
+    },
+    "infinitif": "sortir",
+    "imparfait": [
+      "sortais",
+      "sortais",
+      "sortait",
+      "sortions",
+      "sortiez",
+      "sortaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c0c"
+    },
+    "infinitif": "souvenir",
+    "imparfait": [
+      "",
+      "",
+      "souvenait",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c1f"
+    },
+    "infinitif": "survivre",
+    "imparfait": [
+      "survivais",
+      "survivais",
+      "survivait",
+      "survivions",
+      "surviviez",
+      "survivaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c23"
+    },
+    "infinitif": "tenir",
+    "imparfait": [
+      "tenais",
+      "tenais",
+      "tenait",
+      "tenions",
+      "teniez",
+      "tenaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c25"
+    },
+    "infinitif": "terminer",
+    "imparfait": [
+      "terminais",
+      "terminais",
+      "terminait",
+      "terminions",
+      "terminiez",
+      "terminaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c27"
+    },
+    "infinitif": "tomber",
+    "imparfait": [
+      "tombais",
+      "tombais",
+      "tombait",
+      "tombions",
+      "tombiez",
+      "tombaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c29"
+    },
+    "infinitif": "toucher",
+    "imparfait": [
+      "touchais",
+      "touchais",
+      "touchait",
+      "touchions",
+      "touchiez",
+      "touchaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c2c"
+    },
+    "infinitif": "traduire",
+    "imparfait": [
+      "traduisais",
+      "traduisais",
+      "traduisait",
+      "traduisions",
+      "traduisiez",
+      "traduisaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c38"
+    },
+    "infinitif": "tromper",
+    "imparfait": [
+      "trompais",
+      "trompais",
+      "trompait",
+      "trompions",
+      "trompiez",
+      "trompaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c3b"
+    },
+    "infinitif": "trouver",
+    "imparfait": [
+      "trouvais",
+      "trouvais",
+      "trouvait",
+      "trouvions",
+      "trouviez",
+      "trouvaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c41"
+    },
+    "infinitif": "vendre",
+    "imparfait": [
+      "vendais",
+      "vendais",
+      "vendait",
+      "vendions",
+      "vendiez",
+      "vendaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c42"
+    },
+    "infinitif": "venir",
+    "imparfait": [
+      "venais",
+      "venais",
+      "venait",
+      "venions",
+      "veniez",
+      "venaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c49"
+    },
+    "infinitif": "vivre",
+    "imparfait": [
+      "vivais",
+      "vivais",
+      "vivait",
+      "vivions",
+      "viviez",
+      "vivaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4b"
+    },
+    "infinitif": "voir",
+    "imparfait": [
+      "voyais",
+      "voyais",
+      "voyait",
+      "voyions",
+      "voyiez",
+      "voyaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4c"
+    },
+    "infinitif": "voler",
+    "imparfait": [
+      "volais",
+      "volais",
+      "volait",
+      "volions",
+      "voliez",
+      "volaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4f"
+    },
+    "infinitif": "vouloir",
+    "imparfait": [
+      "voulais",
+      "voulais",
+      "voulait",
+      "voulions",
+      "vouliez",
+      "voulaient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c52"
+    },
+    "infinitif": "voyager",
+    "imparfait": [
+      "voyageais",
+      "voyageais",
+      "voyageait",
+      "voyagions",
+      "voyagiez",
+      "voyageaient"
+    ]
+  }
+]

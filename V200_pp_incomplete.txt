@@ -1,0 +1,1038 @@
+[
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f889c"
+    },
+    "infinitif": "accepter",
+    "participePasse": "accepté"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88a4"
+    },
+    "infinitif": "acheter",
+    "participePasse": "acheté"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ad"
+    },
+    "infinitif": "aimer",
+    "participePasse": "aimé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88af"
+    },
+    "infinitif": "aller",
+    "participePasse": "allé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b0"
+    },
+    "infinitif": "allumer",
+    "participePasse": "allumé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b1"
+    },
+    "infinitif": "amener",
+    "participePasse": "amené"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b6"
+    },
+    "infinitif": "apparaître",
+    "participePasse": "apparu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b8"
+    },
+    "infinitif": "appeler",
+    "participePasse": "appelé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b9"
+    },
+    "infinitif": "apporter",
+    "participePasse": "apporté"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ba"
+    },
+    "infinitif": "apprendre",
+    "participePasse": "appris"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88bf"
+    },
+    "infinitif": "arrêter",
+    "participePasse": "arrêté"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c0"
+    },
+    "infinitif": "arriver",
+    "participePasse": "arrivé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c3"
+    },
+    "infinitif": "assister",
+    "participePasse": "assisté"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c8"
+    },
+    "infinitif": "attendre",
+    "participePasse": "attendu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88cb"
+    },
+    "infinitif": "avoir",
+    "participePasse": "eu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88cf"
+    },
+    "infinitif": "boire",
+    "participePasse": "bu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88d4"
+    },
+    "infinitif": "cacher",
+    "participePasse": "caché"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88d7"
+    },
+    "infinitif": "casser",
+    "participePasse": "cassé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88db"
+    },
+    "infinitif": "changer",
+    "participePasse": "changé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88dc"
+    },
+    "infinitif": "chanter",
+    "participePasse": "chanté"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88df"
+    },
+    "infinitif": "chercher",
+    "participePasse": "cherché"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e1"
+    },
+    "infinitif": "choisir",
+    "participePasse": "choisi"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e4"
+    },
+    "infinitif": "commencer",
+    "participePasse": "commencé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e7"
+    },
+    "infinitif": "comprendre",
+    "participePasse": "compris"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88eb"
+    },
+    "infinitif": "conduire",
+    "participePasse": "conduit"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ef"
+    },
+    "infinitif": "connaître",
+    "participePasse": "connu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88f2"
+    },
+    "infinitif": "construire",
+    "participePasse": "construit"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88f6"
+    },
+    "infinitif": "continuer",
+    "participePasse": "continué"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88fe"
+    },
+    "infinitif": "courir",
+    "participePasse": "couru"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8905"
+    },
+    "infinitif": "croire",
+    "participePasse": "cru"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8909"
+    },
+    "infinitif": "demander",
+    "participePasse": "demandé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f890e"
+    },
+    "infinitif": "devenir",
+    "participePasse": "devenu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8910"
+    },
+    "infinitif": "devoir",
+    "participePasse": "dû,"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8914"
+    },
+    "infinitif": "décider",
+    "participePasse": "décidé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8918"
+    },
+    "infinitif": "décrire",
+    "participePasse": "décrit"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8925"
+    },
+    "infinitif": "dire",
+    "participePasse": "dit"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8927"
+    },
+    "infinitif": "discuter",
+    "participePasse": "discuté"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8928"
+    },
+    "infinitif": "disparaître",
+    "participePasse": "disparu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f892d"
+    },
+    "infinitif": "donner",
+    "participePasse": "donné"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f892e"
+    },
+    "infinitif": "dormir",
+    "participePasse": "dormi"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8931"
+    },
+    "infinitif": "durer",
+    "participePasse": "duré"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8932"
+    },
+    "infinitif": "effacer",
+    "participePasse": "effacé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8934"
+    },
+    "infinitif": "embrasser",
+    "participePasse": "embrassé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8935"
+    },
+    "infinitif": "emmener",
+    "participePasse": "emmené"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8938"
+    },
+    "infinitif": "emporter",
+    "participePasse": "emporté"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f893f"
+    },
+    "infinitif": "entendre",
+    "participePasse": "entendu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8942"
+    },
+    "infinitif": "entrer",
+    "participePasse": "entré"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8945"
+    },
+    "infinitif": "envoyer",
+    "participePasse": "envoyé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8947"
+    },
+    "infinitif": "essayer",
+    "participePasse": "essayé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f894d"
+    },
+    "infinitif": "expliquer",
+    "participePasse": "expliqué"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8957"
+    },
+    "infinitif": "écrire",
+    "participePasse": "écrit"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f895f"
+    },
+    "infinitif": "éteindre",
+    "participePasse": "éteint"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8964"
+    },
+    "infinitif": "éviter",
+    "participePasse": "évité"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8965"
+    },
+    "infinitif": "être",
+    "participePasse": "été"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8967"
+    },
+    "infinitif": "faire",
+    "participePasse": "fait"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8968"
+    },
+    "infinitif": "falloir",
+    "participePasse": "fallu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f896a"
+    },
+    "infinitif": "fermer",
+    "participePasse": "fermé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f896c"
+    },
+    "infinitif": "finir",
+    "participePasse": "fini"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8974"
+    },
+    "infinitif": "frapper",
+    "participePasse": "frappé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8978"
+    },
+    "infinitif": "gagner",
+    "participePasse": "gagné"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8979"
+    },
+    "infinitif": "garder",
+    "participePasse": "gardé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8980"
+    },
+    "infinitif": "hésiter",
+    "participePasse": "hésité"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f898d"
+    },
+    "infinitif": "inviter",
+    "participePasse": "invité"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8990"
+    },
+    "infinitif": "jouer",
+    "participePasse": "joué"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8992"
+    },
+    "infinitif": "lever",
+    "participePasse": "levé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8994"
+    },
+    "infinitif": "lire",
+    "participePasse": "lu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8999"
+    },
+    "infinitif": "manger",
+    "participePasse": "mangé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f899a"
+    },
+    "infinitif": "manquer",
+    "participePasse": "manqué"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f899b"
+    },
+    "infinitif": "marcher",
+    "participePasse": "marché"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a1"
+    },
+    "infinitif": "mentir",
+    "participePasse": "menti"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a3"
+    },
+    "infinitif": "mettre",
+    "participePasse": "mis"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a6"
+    },
+    "infinitif": "monter",
+    "participePasse": "monté"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a7"
+    },
+    "infinitif": "montrer",
+    "participePasse": "montré"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a9"
+    },
+    "infinitif": "mourir",
+    "participePasse": "mort"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ab"
+    },
+    "infinitif": "naître",
+    "participePasse": "né"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b4"
+    },
+    "infinitif": "offrir",
+    "participePasse": "offert"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b5"
+    },
+    "infinitif": "oser",
+    "participePasse": "osé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b6"
+    },
+    "infinitif": "oublier",
+    "participePasse": "oublié"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b7"
+    },
+    "infinitif": "ouvrir",
+    "participePasse": "ouvert"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bb"
+    },
+    "infinitif": "parler",
+    "participePasse": "parlé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bc"
+    },
+    "infinitif": "partager",
+    "participePasse": "partagé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bd"
+    },
+    "infinitif": "partir",
+    "participePasse": "parti"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bf"
+    },
+    "infinitif": "passer",
+    "participePasse": "passé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c0"
+    },
+    "infinitif": "payer",
+    "participePasse": "payé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c3"
+    },
+    "infinitif": "penser",
+    "participePasse": "pensé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c5"
+    },
+    "infinitif": "perdre",
+    "participePasse": "perdu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c6"
+    },
+    "infinitif": "permettre",
+    "participePasse": "permis"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cb"
+    },
+    "infinitif": "plaire",
+    "participePasse": "plu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cc"
+    },
+    "infinitif": "pleurer",
+    "participePasse": "pleuré"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cd"
+    },
+    "infinitif": "pleuvoir",
+    "participePasse": "plu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d0"
+    },
+    "infinitif": "porter",
+    "participePasse": "porté"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d6"
+    },
+    "infinitif": "pouvoir",
+    "participePasse": "pu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d7"
+    },
+    "infinitif": "prendre",
+    "participePasse": "pris"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89dd"
+    },
+    "infinitif": "préparer",
+    "participePasse": "préparé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89e3"
+    },
+    "infinitif": "prêter",
+    "participePasse": "prêté"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89e6"
+    },
+    "infinitif": "profiter",
+    "participePasse": "profité"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89eb"
+    },
+    "infinitif": "proposer",
+    "participePasse": "proposé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ee"
+    },
+    "infinitif": "quitter",
+    "participePasse": "quitté"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ef"
+    },
+    "infinitif": "raconter",
+    "participePasse": "raconté"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89f2"
+    },
+    "infinitif": "rappeler",
+    "participePasse": "rappelé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89f8"
+    },
+    "infinitif": "recevoir",
+    "participePasse": "reçu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89fa"
+    },
+    "infinitif": "recommencer",
+    "participePasse": "recommencé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89fc"
+    },
+    "infinitif": "reconnaître",
+    "participePasse": "reconnu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a07"
+    },
+    "infinitif": "refuser",
+    "participePasse": "refusé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a08"
+    },
+    "infinitif": "regarder",
+    "participePasse": "regardé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a0f"
+    },
+    "infinitif": "remarquer",
+    "participePasse": "remarqué"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a10"
+    },
+    "infinitif": "remercier",
+    "participePasse": "remercié"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a14"
+    },
+    "infinitif": "remplacer",
+    "participePasse": "remplacé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a17"
+    },
+    "infinitif": "rencontrer",
+    "participePasse": "rencontré"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a1b"
+    },
+    "infinitif": "rentrer",
+    "participePasse": "rentré"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a2b"
+    },
+    "infinitif": "rester",
+    "participePasse": "resté"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a30"
+    },
+    "infinitif": "retourner",
+    "participePasse": "retourné"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a32"
+    },
+    "infinitif": "retrouver",
+    "participePasse": "retrouvé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a34"
+    },
+    "infinitif": "revenir",
+    "participePasse": "revenu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a3e"
+    },
+    "infinitif": "répondre",
+    "participePasse": "répondu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a44"
+    },
+    "infinitif": "réveiller",
+    "participePasse": "réveillé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a47"
+    },
+    "infinitif": "rire",
+    "participePasse": "ri"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a4a"
+    },
+    "infinitif": "rouler",
+    "participePasse": "roulé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a57"
+    },
+    "infinitif": "s'acheter",
+    "participePasse": "acheté"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a6a"
+    },
+    "infinitif": "s'appeler",
+    "participePasse": "appelé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a70"
+    },
+    "infinitif": "s'arrêter",
+    "participePasse": "arrêté"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a72"
+    },
+    "infinitif": "s'asseoir",
+    "participePasse": "s'assoyant"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a89"
+    },
+    "infinitif": "s'entraîner",
+    "participePasse": "entraîné"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8aa8"
+    },
+    "infinitif": "s'habiller",
+    "participePasse": "habillé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8aac"
+    },
+    "infinitif": "s'inquiéter",
+    "participePasse": "inquiété"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8ac2"
+    },
+    "infinitif": "sauver",
+    "participePasse": "sauvé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8ac3"
+    },
+    "infinitif": "savoir",
+    "participePasse": "su"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8b3f"
+    },
+    "infinitif": "se plaindre",
+    "participePasse": "plaint"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bb5"
+    },
+    "infinitif": "se sentir",
+    "participePasse": "senti"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bf6"
+    },
+    "infinitif": "sentir",
+    "participePasse": "senti"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bf9"
+    },
+    "infinitif": "servir",
+    "participePasse": "servi"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c00"
+    },
+    "infinitif": "sortir",
+    "participePasse": "sorti"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c0c"
+    },
+    "infinitif": "souvenir",
+    "participePasse": "souvenu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c1f"
+    },
+    "infinitif": "survivre",
+    "participePasse": "survécu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c23"
+    },
+    "infinitif": "tenir",
+    "participePasse": "tenu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c25"
+    },
+    "infinitif": "terminer",
+    "participePasse": "terminé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c27"
+    },
+    "infinitif": "tomber",
+    "participePasse": "tombé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c29"
+    },
+    "infinitif": "toucher",
+    "participePasse": "touché"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c2c"
+    },
+    "infinitif": "traduire",
+    "participePasse": "traduit"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c38"
+    },
+    "infinitif": "tromper",
+    "participePasse": "trompé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c3b"
+    },
+    "infinitif": "trouver",
+    "participePasse": "trouvé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c41"
+    },
+    "infinitif": "vendre",
+    "participePasse": "vendu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c42"
+    },
+    "infinitif": "venir",
+    "participePasse": "venu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c49"
+    },
+    "infinitif": "vivre",
+    "participePasse": "vécu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4b"
+    },
+    "infinitif": "voir",
+    "participePasse": "vu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4c"
+    },
+    "infinitif": "voler",
+    "participePasse": "volé"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4f"
+    },
+    "infinitif": "vouloir",
+    "participePasse": "voulu"
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c52"
+    },
+    "infinitif": "voyager",
+    "participePasse": "voyagé"
+  }
+]

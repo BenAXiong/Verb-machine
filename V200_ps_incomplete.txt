@@ -1,0 +1,2074 @@
+[
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f889c"
+    },
+    "infinitif": "accepter",
+    "present": [
+      "accepte",
+      "acceptes",
+      "accepte",
+      "acceptons",
+      "acceptez",
+      "acceptent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88a4"
+    },
+    "infinitif": "acheter",
+    "present": [
+      "achète",
+      "achètes",
+      "achète",
+      "achetons",
+      "achetez",
+      "achètent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ad"
+    },
+    "infinitif": "aimer",
+    "present": [
+      "aime",
+      "aimes",
+      "aime",
+      "aimons",
+      "aimez",
+      "aiment"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88af"
+    },
+    "infinitif": "aller",
+    "present": [
+      "vais",
+      "vas",
+      "va",
+      "allons",
+      "allez",
+      "vont"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b0"
+    },
+    "infinitif": "allumer",
+    "present": [
+      "allume",
+      "allumes",
+      "allume",
+      "allumons",
+      "allumez",
+      "allument"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b1"
+    },
+    "infinitif": "amener",
+    "present": [
+      "amène",
+      "amènes",
+      "amène",
+      "amenons",
+      "amenez",
+      "amènent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b6"
+    },
+    "infinitif": "apparaître",
+    "present": [
+      "apparais",
+      "apparais",
+      "apparaît",
+      "apparaissons",
+      "apparaissez",
+      "apparaissent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b8"
+    },
+    "infinitif": "appeler",
+    "present": [
+      "appelle",
+      "appelles",
+      "appelle",
+      "appelons",
+      "appelez",
+      "appellent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88b9"
+    },
+    "infinitif": "apporter",
+    "present": [
+      "apporte",
+      "apportes",
+      "apporte",
+      "apportons",
+      "apportez",
+      "apportent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ba"
+    },
+    "infinitif": "apprendre",
+    "present": [
+      "apprends",
+      "apprends",
+      "apprend",
+      "apprenons",
+      "apprenez",
+      "apprennent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88bf"
+    },
+    "infinitif": "arrêter",
+    "present": [
+      "arrête",
+      "arrêtes",
+      "arrête",
+      "arrêtons",
+      "arrêtez",
+      "arrêtent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c0"
+    },
+    "infinitif": "arriver",
+    "present": [
+      "arrive",
+      "arrives",
+      "arrive",
+      "arrivons",
+      "arrivez",
+      "arrivent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c3"
+    },
+    "infinitif": "assister",
+    "present": [
+      "assiste",
+      "assistes",
+      "assiste",
+      "assistons",
+      "assistez",
+      "assistent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88c8"
+    },
+    "infinitif": "attendre",
+    "present": [
+      "attends",
+      "attends",
+      "attend",
+      "attendons",
+      "attendez",
+      "attendent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88cb"
+    },
+    "infinitif": "avoir",
+    "present": [
+      "ai",
+      "as",
+      "a",
+      "avons",
+      "avez",
+      "ont"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88cf"
+    },
+    "infinitif": "boire",
+    "present": [
+      "bois",
+      "bois",
+      "boit",
+      "buvons",
+      "buvez",
+      "boivent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88d4"
+    },
+    "infinitif": "cacher",
+    "present": [
+      "cache",
+      "caches",
+      "cache",
+      "cachons",
+      "cachez",
+      "cachent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88d7"
+    },
+    "infinitif": "casser",
+    "present": [
+      "casse",
+      "casses",
+      "casse",
+      "cassons",
+      "cassez",
+      "cassent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88db"
+    },
+    "infinitif": "changer",
+    "present": [
+      "change",
+      "changes",
+      "change",
+      "changeons",
+      "changez",
+      "changent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88dc"
+    },
+    "infinitif": "chanter",
+    "present": [
+      "chante",
+      "chantes",
+      "chante",
+      "chantons",
+      "chantez",
+      "chantent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88df"
+    },
+    "infinitif": "chercher",
+    "present": [
+      "cherche",
+      "cherches",
+      "cherche",
+      "cherchons",
+      "cherchez",
+      "cherchent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e1"
+    },
+    "infinitif": "choisir",
+    "present": [
+      "choisis",
+      "choisis",
+      "choisit",
+      "choisissons",
+      "choisissez",
+      "choisissent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e4"
+    },
+    "infinitif": "commencer",
+    "present": [
+      "commence",
+      "commences",
+      "commence",
+      "commençons",
+      "commencez",
+      "commencent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88e7"
+    },
+    "infinitif": "comprendre",
+    "present": [
+      "comprends",
+      "comprends",
+      "comprend",
+      "comprenons",
+      "comprenez",
+      "comprennent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88eb"
+    },
+    "infinitif": "conduire",
+    "present": [
+      "conduis",
+      "conduis",
+      "conduit",
+      "conduisons",
+      "conduisez",
+      "conduisent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88ef"
+    },
+    "infinitif": "connaître",
+    "present": [
+      "connais",
+      "connais",
+      "connaît",
+      "connaissons",
+      "connaissez",
+      "connaissent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88f2"
+    },
+    "infinitif": "construire",
+    "present": [
+      "construis",
+      "construis",
+      "construit",
+      "construisons",
+      "construisez",
+      "construisent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88f6"
+    },
+    "infinitif": "continuer",
+    "present": [
+      "continue",
+      "continues",
+      "continue",
+      "continuons",
+      "continuez",
+      "continuent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f88fe"
+    },
+    "infinitif": "courir",
+    "present": [
+      "cours",
+      "cours",
+      "court",
+      "courons",
+      "courez",
+      "courent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8905"
+    },
+    "infinitif": "croire",
+    "present": [
+      "crois",
+      "crois",
+      "croit",
+      "croyons",
+      "croyez",
+      "croient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8909"
+    },
+    "infinitif": "demander",
+    "present": [
+      "demande",
+      "demandes",
+      "demande",
+      "demandons",
+      "demandez",
+      "demandent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f890e"
+    },
+    "infinitif": "devenir",
+    "present": [
+      "deviens",
+      "deviens",
+      "devient",
+      "devenons",
+      "devenez",
+      "deviennent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8910"
+    },
+    "infinitif": "devoir",
+    "present": [
+      "dois",
+      "dois",
+      "doit",
+      "devons",
+      "devez",
+      "doivent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8914"
+    },
+    "infinitif": "décider",
+    "present": [
+      "décide",
+      "décides",
+      "décide",
+      "décidons",
+      "décidez",
+      "décident"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8918"
+    },
+    "infinitif": "décrire",
+    "present": [
+      "décris",
+      "décris",
+      "décrit",
+      "décrivons",
+      "décrivez",
+      "décrivent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8925"
+    },
+    "infinitif": "dire",
+    "present": [
+      "dis",
+      "dis",
+      "dit",
+      "disons",
+      "dites",
+      "disent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8927"
+    },
+    "infinitif": "discuter",
+    "present": [
+      "discute",
+      "discutes",
+      "discute",
+      "discutons",
+      "discutez",
+      "discutent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8928"
+    },
+    "infinitif": "disparaître",
+    "present": [
+      "disparais",
+      "disparais",
+      "disparaît",
+      "disparaissons",
+      "disparaissez",
+      "disparaissent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f892d"
+    },
+    "infinitif": "donner",
+    "present": [
+      "donne",
+      "donnes",
+      "donne",
+      "donnons",
+      "donnez",
+      "donnent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f892e"
+    },
+    "infinitif": "dormir",
+    "present": [
+      "dors",
+      "dors",
+      "dort",
+      "dormons",
+      "dormez",
+      "dorment"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8931"
+    },
+    "infinitif": "durer",
+    "present": [
+      "dure",
+      "dures",
+      "dure",
+      "durons",
+      "durez",
+      "durent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8932"
+    },
+    "infinitif": "effacer",
+    "present": [
+      "efface",
+      "effaces",
+      "efface",
+      "effaçons",
+      "effacez",
+      "effacent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8934"
+    },
+    "infinitif": "embrasser",
+    "present": [
+      "embrasse",
+      "embrasses",
+      "embrasse",
+      "embrassons",
+      "embrassez",
+      "embrassent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8935"
+    },
+    "infinitif": "emmener",
+    "present": [
+      "emmène",
+      "emmènes",
+      "emmène",
+      "emmenons",
+      "emmenez",
+      "emmènent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8938"
+    },
+    "infinitif": "emporter",
+    "present": [
+      "emporte",
+      "emportes",
+      "emporte",
+      "emportons",
+      "emportez",
+      "emportent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f893f"
+    },
+    "infinitif": "entendre",
+    "present": [
+      "entends",
+      "entends",
+      "entend",
+      "entendons",
+      "entendez",
+      "entendent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8942"
+    },
+    "infinitif": "entrer",
+    "present": [
+      "entre",
+      "entres",
+      "entre",
+      "entrons",
+      "entrez",
+      "entrent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8945"
+    },
+    "infinitif": "envoyer",
+    "present": [
+      "envoie",
+      "envoies",
+      "envoie",
+      "envoyons",
+      "envoyez",
+      "envoient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8947"
+    },
+    "infinitif": "essayer",
+    "present": [
+      "essaie, essaye",
+      "essaies, essayes",
+      "essaie, essaye",
+      "essayons",
+      "essayez",
+      "essaient, essayent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f894d"
+    },
+    "infinitif": "expliquer",
+    "present": [
+      "explique",
+      "expliques",
+      "explique",
+      "expliquons",
+      "expliquez",
+      "expliquent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8957"
+    },
+    "infinitif": "écrire",
+    "present": [
+      "écris",
+      "écris",
+      "écrit",
+      "écrivons",
+      "écrivez",
+      "écrivent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f895f"
+    },
+    "infinitif": "éteindre",
+    "present": [
+      "éteins",
+      "éteins",
+      "éteint",
+      "éteignons",
+      "éteignez",
+      "éteignent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8964"
+    },
+    "infinitif": "éviter",
+    "present": [
+      "évite",
+      "évites",
+      "évite",
+      "évitons",
+      "évitez",
+      "évitent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8965"
+    },
+    "infinitif": "être",
+    "present": [
+      "suis",
+      "es",
+      "est",
+      "sommes",
+      "êtes",
+      "sont"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8967"
+    },
+    "infinitif": "faire",
+    "present": [
+      "fais",
+      "fais",
+      "fait",
+      "faisons",
+      "faites",
+      "font"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8968"
+    },
+    "infinitif": "falloir",
+    "present": [
+      "",
+      "",
+      "faut",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f896a"
+    },
+    "infinitif": "fermer",
+    "present": [
+      "ferme",
+      "fermes",
+      "ferme",
+      "fermons",
+      "fermez",
+      "ferment"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f896c"
+    },
+    "infinitif": "finir",
+    "present": [
+      "finis",
+      "finis",
+      "finit",
+      "finissons",
+      "finissez",
+      "finissent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8974"
+    },
+    "infinitif": "frapper",
+    "present": [
+      "frappe",
+      "frappes",
+      "frappe",
+      "frappons",
+      "frappez",
+      "frappent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8978"
+    },
+    "infinitif": "gagner",
+    "present": [
+      "gagne",
+      "gagnes",
+      "gagne",
+      "gagnons",
+      "gagnez",
+      "gagnent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8979"
+    },
+    "infinitif": "garder",
+    "present": [
+      "garde",
+      "gardes",
+      "garde",
+      "gardons",
+      "gardez",
+      "gardent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8980"
+    },
+    "infinitif": "hésiter",
+    "present": [
+      "hésite",
+      "hésites",
+      "hésite",
+      "hésitons",
+      "hésitez",
+      "hésitent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f898d"
+    },
+    "infinitif": "inviter",
+    "present": [
+      "invite",
+      "invites",
+      "invite",
+      "invitons",
+      "invitez",
+      "invitent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8990"
+    },
+    "infinitif": "jouer",
+    "present": [
+      "joue",
+      "joues",
+      "joue",
+      "jouons",
+      "jouez",
+      "jouent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8992"
+    },
+    "infinitif": "lever",
+    "present": [
+      "lève",
+      "lèves",
+      "lève",
+      "levons",
+      "levez",
+      "lèvent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8994"
+    },
+    "infinitif": "lire",
+    "present": [
+      "lis",
+      "lis",
+      "lit",
+      "lisons",
+      "lisez",
+      "lisent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8999"
+    },
+    "infinitif": "manger",
+    "present": [
+      "mange",
+      "manges",
+      "mange",
+      "mangeons",
+      "mangez",
+      "mangent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f899a"
+    },
+    "infinitif": "manquer",
+    "present": [
+      "manque",
+      "manques",
+      "manque",
+      "manquons",
+      "manquez",
+      "manquent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f899b"
+    },
+    "infinitif": "marcher",
+    "present": [
+      "marche",
+      "marches",
+      "marche",
+      "marchons",
+      "marchez",
+      "marchent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a1"
+    },
+    "infinitif": "mentir",
+    "present": [
+      "mens",
+      "mens",
+      "ment",
+      "mentons",
+      "mentez",
+      "mentent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a3"
+    },
+    "infinitif": "mettre",
+    "present": [
+      "mets",
+      "mets",
+      "met",
+      "mettons",
+      "mettez",
+      "mettent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a6"
+    },
+    "infinitif": "monter",
+    "present": [
+      "monte",
+      "montes",
+      "monte",
+      "montons",
+      "montez",
+      "montent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a7"
+    },
+    "infinitif": "montrer",
+    "present": [
+      "montre",
+      "montres",
+      "montre",
+      "montrons",
+      "montrez",
+      "montrent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89a9"
+    },
+    "infinitif": "mourir",
+    "present": [
+      "meurs",
+      "meurs",
+      "meurt",
+      "mourons",
+      "mourez",
+      "meurent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ab"
+    },
+    "infinitif": "naître",
+    "present": [
+      "nais",
+      "nais",
+      "naît",
+      "naissons",
+      "naissez",
+      "naissent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b4"
+    },
+    "infinitif": "offrir",
+    "present": [
+      "offre",
+      "offres",
+      "offre",
+      "offrons",
+      "offrez",
+      "offrent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b5"
+    },
+    "infinitif": "oser",
+    "present": [
+      "ose",
+      "oses",
+      "ose",
+      "osons",
+      "osez",
+      "osent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b6"
+    },
+    "infinitif": "oublier",
+    "present": [
+      "oublie",
+      "oublies",
+      "oublie",
+      "oublions",
+      "oubliez",
+      "oublient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89b7"
+    },
+    "infinitif": "ouvrir",
+    "present": [
+      "ouvre",
+      "ouvres",
+      "ouvre",
+      "ouvrons",
+      "ouvrez",
+      "ouvrent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bb"
+    },
+    "infinitif": "parler",
+    "present": [
+      "parle",
+      "parles",
+      "parle",
+      "parlons",
+      "parlez",
+      "parlent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bc"
+    },
+    "infinitif": "partager",
+    "present": [
+      "partage",
+      "partages",
+      "partage",
+      "partageons",
+      "partagez",
+      "partagent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bd"
+    },
+    "infinitif": "partir",
+    "present": [
+      "pars",
+      "pars",
+      "part",
+      "partons",
+      "partez",
+      "partent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89bf"
+    },
+    "infinitif": "passer",
+    "present": [
+      "passe",
+      "passes",
+      "passe",
+      "passons",
+      "passez",
+      "passent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c0"
+    },
+    "infinitif": "payer",
+    "present": [
+      "paie, paye",
+      "paies, payes",
+      "paie, paye",
+      "payons",
+      "payez",
+      "paient, payent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c3"
+    },
+    "infinitif": "penser",
+    "present": [
+      "pense",
+      "penses",
+      "pense",
+      "pensons",
+      "pensez",
+      "pensent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c5"
+    },
+    "infinitif": "perdre",
+    "present": [
+      "perds",
+      "perds",
+      "perd",
+      "perdons",
+      "perdez",
+      "perdent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89c6"
+    },
+    "infinitif": "permettre",
+    "present": [
+      "permets",
+      "permets",
+      "permet",
+      "permettons",
+      "permettez",
+      "permettent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cb"
+    },
+    "infinitif": "plaire",
+    "present": [
+      "plais",
+      "plais",
+      "plaît",
+      "plaisons",
+      "plaisez",
+      "plaisent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cc"
+    },
+    "infinitif": "pleurer",
+    "present": [
+      "pleure",
+      "pleures",
+      "pleure",
+      "pleurons",
+      "pleurez",
+      "pleurent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89cd"
+    },
+    "infinitif": "pleuvoir",
+    "present": [
+      "",
+      "",
+      "pleut",
+      "",
+      "",
+      "pleuvent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d0"
+    },
+    "infinitif": "porter",
+    "present": [
+      "porte",
+      "portes",
+      "porte",
+      "portons",
+      "portez",
+      "portent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d6"
+    },
+    "infinitif": "pouvoir",
+    "present": [
+      "peux, puis",
+      "peux",
+      "peut",
+      "pouvons",
+      "pouvez",
+      "peuvent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89d7"
+    },
+    "infinitif": "prendre",
+    "present": [
+      "prends",
+      "prends",
+      "prend",
+      "prenons",
+      "prenez",
+      "prennent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89dd"
+    },
+    "infinitif": "préparer",
+    "present": [
+      "prépare",
+      "prépares",
+      "prépare",
+      "préparons",
+      "préparez",
+      "préparent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89e3"
+    },
+    "infinitif": "prêter",
+    "present": [
+      "prête",
+      "prêtes",
+      "prête",
+      "prêtons",
+      "prêtez",
+      "prêtent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89e6"
+    },
+    "infinitif": "profiter",
+    "present": [
+      "profite",
+      "profites",
+      "profite",
+      "profitons",
+      "profitez",
+      "profitent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89eb"
+    },
+    "infinitif": "proposer",
+    "present": [
+      "propose",
+      "proposes",
+      "propose",
+      "proposons",
+      "proposez",
+      "proposent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ee"
+    },
+    "infinitif": "quitter",
+    "present": [
+      "quitte",
+      "quittes",
+      "quitte",
+      "quittons",
+      "quittez",
+      "quittent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89ef"
+    },
+    "infinitif": "raconter",
+    "present": [
+      "raconte",
+      "racontes",
+      "raconte",
+      "racontons",
+      "racontez",
+      "racontent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89f2"
+    },
+    "infinitif": "rappeler",
+    "present": [
+      "rappelle",
+      "rappelles",
+      "rappelle",
+      "rappelons",
+      "rappelez",
+      "rappellent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89f8"
+    },
+    "infinitif": "recevoir",
+    "present": [
+      "reçois",
+      "reçois",
+      "reçoit",
+      "recevons",
+      "recevez",
+      "reçoivent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89fa"
+    },
+    "infinitif": "recommencer",
+    "present": [
+      "recommence",
+      "recommences",
+      "recommence",
+      "recommençons",
+      "recommencez",
+      "recommencent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f89fc"
+    },
+    "infinitif": "reconnaître",
+    "present": [
+      "reconnais",
+      "reconnais",
+      "reconnaît",
+      "reconnaissons",
+      "reconnaissez",
+      "reconnaissent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a07"
+    },
+    "infinitif": "refuser",
+    "present": [
+      "refuse",
+      "refuses",
+      "refuse",
+      "refusons",
+      "refusez",
+      "refusent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a08"
+    },
+    "infinitif": "regarder",
+    "present": [
+      "regarde",
+      "regardes",
+      "regarde",
+      "regardons",
+      "regardez",
+      "regardent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a0f"
+    },
+    "infinitif": "remarquer",
+    "present": [
+      "remarque",
+      "remarques",
+      "remarque",
+      "remarquons",
+      "remarquez",
+      "remarquent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a10"
+    },
+    "infinitif": "remercier",
+    "present": [
+      "remercie",
+      "remercies",
+      "remercie",
+      "remercions",
+      "remerciez",
+      "remercient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a14"
+    },
+    "infinitif": "remplacer",
+    "present": [
+      "remplace",
+      "remplaces",
+      "remplace",
+      "remplaçons",
+      "remplacez",
+      "remplacent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a17"
+    },
+    "infinitif": "rencontrer",
+    "present": [
+      "rencontre",
+      "rencontres",
+      "rencontre",
+      "rencontrons",
+      "rencontrez",
+      "rencontrent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a1b"
+    },
+    "infinitif": "rentrer",
+    "present": [
+      "rentre",
+      "rentres",
+      "rentre",
+      "rentrons",
+      "rentrez",
+      "rentrent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a2b"
+    },
+    "infinitif": "rester",
+    "present": [
+      "reste",
+      "restes",
+      "reste",
+      "restons",
+      "restez",
+      "restent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a30"
+    },
+    "infinitif": "retourner",
+    "present": [
+      "retourne",
+      "retournes",
+      "retourne",
+      "retournons",
+      "retournez",
+      "retournent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a32"
+    },
+    "infinitif": "retrouver",
+    "present": [
+      "retrouve",
+      "retrouves",
+      "retrouve",
+      "retrouvons",
+      "retrouvez",
+      "retrouvent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a34"
+    },
+    "infinitif": "revenir",
+    "present": [
+      "reviens",
+      "reviens",
+      "revient",
+      "revenons",
+      "revenez",
+      "reviennent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a3e"
+    },
+    "infinitif": "répondre",
+    "present": [
+      "réponds",
+      "réponds",
+      "répond",
+      "répondons",
+      "répondez",
+      "répondent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a44"
+    },
+    "infinitif": "réveiller",
+    "present": [
+      "réveille",
+      "réveilles",
+      "réveille",
+      "réveillons",
+      "réveillez",
+      "réveillent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a47"
+    },
+    "infinitif": "rire",
+    "present": [
+      "ris",
+      "ris",
+      "rit",
+      "rions",
+      "riez",
+      "rient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a4a"
+    },
+    "infinitif": "rouler",
+    "present": [
+      "roule",
+      "roules",
+      "roule",
+      "roulons",
+      "roulez",
+      "roulent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a57"
+    },
+    "infinitif": "s'acheter",
+    "present": [
+      "m'achète",
+      "t'achètes",
+      "s'achète",
+      "nous achetons",
+      "vous achetez",
+      "s'achètent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a6a"
+    },
+    "infinitif": "s'appeler",
+    "present": [
+      "m'appelle",
+      "t'appelles",
+      "s'appelle",
+      "nous appelons",
+      "vous appelez",
+      "s'appellent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a70"
+    },
+    "infinitif": "s'arrêter",
+    "present": [
+      "m'arrête",
+      "t'arrêtes",
+      "s'arrête",
+      "nous arrêtons",
+      "vous arrêtez",
+      "s'arrêtent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a72"
+    },
+    "infinitif": "s'asseoir",
+    "present": [
+      "m'assieds, assois",
+      "t'assieds, assois",
+      "s'assied, assoit",
+      "nous asseyons, assoyons",
+      "vous asseyez, assoyez",
+      "s'asseyent, assoient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8a89"
+    },
+    "infinitif": "s'entraîner",
+    "present": [
+      "m'entraîne",
+      "t'entraînes",
+      "s'entraîne",
+      "nous entraînons",
+      "vous entraînez",
+      "s'entraînent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8aa8"
+    },
+    "infinitif": "s'habiller",
+    "present": [
+      "m'habille",
+      "t'habilles",
+      "s'habille",
+      "nous habillons",
+      "vous habillez",
+      "s'habillent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8aac"
+    },
+    "infinitif": "s'inquiéter",
+    "present": [
+      "m'inquiète",
+      "t'inquiètes",
+      "s'inquiète",
+      "nous inquiétons",
+      "vous inquiétez",
+      "s'inquiètent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8ac2"
+    },
+    "infinitif": "sauver",
+    "present": [
+      "sauve",
+      "sauves",
+      "sauve",
+      "sauvons",
+      "sauvez",
+      "sauvent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8ac3"
+    },
+    "infinitif": "savoir",
+    "present": [
+      "sais",
+      "sais",
+      "sait",
+      "savons",
+      "savez",
+      "savent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8b3f"
+    },
+    "infinitif": "se plaindre",
+    "present": [
+      "me plains",
+      "te plains",
+      "se plaint",
+      "nous plaignons",
+      "vous plaignez",
+      "se plaignent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bb5"
+    },
+    "infinitif": "se sentir",
+    "present": [
+      "me sens",
+      "te sens",
+      "se sent",
+      "nous sentons",
+      "vous sentez",
+      "se sentent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bf6"
+    },
+    "infinitif": "sentir",
+    "present": [
+      "sens",
+      "sens",
+      "sent",
+      "sentons",
+      "sentez",
+      "sentent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8bf9"
+    },
+    "infinitif": "servir",
+    "present": [
+      "sers",
+      "sers",
+      "sert",
+      "servons",
+      "servez",
+      "servent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c00"
+    },
+    "infinitif": "sortir",
+    "present": [
+      "sors",
+      "sors",
+      "sort",
+      "sortons",
+      "sortez",
+      "sortent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c0c"
+    },
+    "infinitif": "souvenir",
+    "present": [
+      "",
+      "",
+      "souvient",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c1f"
+    },
+    "infinitif": "survivre",
+    "present": [
+      "survis",
+      "survis",
+      "survit",
+      "survivons",
+      "survivez",
+      "survivent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c23"
+    },
+    "infinitif": "tenir",
+    "present": [
+      "tiens",
+      "tiens",
+      "tient",
+      "tenons",
+      "tenez",
+      "tiennent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c25"
+    },
+    "infinitif": "terminer",
+    "present": [
+      "termine",
+      "termines",
+      "termine",
+      "terminons",
+      "terminez",
+      "terminent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c27"
+    },
+    "infinitif": "tomber",
+    "present": [
+      "tombe",
+      "tombes",
+      "tombe",
+      "tombons",
+      "tombez",
+      "tombent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c29"
+    },
+    "infinitif": "toucher",
+    "present": [
+      "touche",
+      "touches",
+      "touche",
+      "touchons",
+      "touchez",
+      "touchent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c2c"
+    },
+    "infinitif": "traduire",
+    "present": [
+      "traduis",
+      "traduis",
+      "traduit",
+      "traduisons",
+      "traduisez",
+      "traduisent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c38"
+    },
+    "infinitif": "tromper",
+    "present": [
+      "trompe",
+      "trompes",
+      "trompe",
+      "trompons",
+      "trompez",
+      "trompent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c3b"
+    },
+    "infinitif": "trouver",
+    "present": [
+      "trouve",
+      "trouves",
+      "trouve",
+      "trouvons",
+      "trouvez",
+      "trouvent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c41"
+    },
+    "infinitif": "vendre",
+    "present": [
+      "vends",
+      "vends",
+      "vend",
+      "vendons",
+      "vendez",
+      "vendent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c42"
+    },
+    "infinitif": "venir",
+    "present": [
+      "viens",
+      "viens",
+      "vient",
+      "venons",
+      "venez",
+      "viennent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c49"
+    },
+    "infinitif": "vivre",
+    "present": [
+      "vis",
+      "vis",
+      "vit",
+      "vivons",
+      "vivez",
+      "vivent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4b"
+    },
+    "infinitif": "voir",
+    "present": [
+      "vois",
+      "vois",
+      "voit",
+      "voyons",
+      "voyez",
+      "voient"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4c"
+    },
+    "infinitif": "voler",
+    "present": [
+      "vole",
+      "voles",
+      "vole",
+      "volons",
+      "volez",
+      "volent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c4f"
+    },
+    "infinitif": "vouloir",
+    "present": [
+      "veux",
+      "veux",
+      "veut",
+      "voulons",
+      "voulez",
+      "veulent"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "638e3d1a81160d615d7f8c52"
+    },
+    "infinitif": "voyager",
+    "present": [
+      "voyage",
+      "voyages",
+      "voyage",
+      "voyageons",
+      "voyagez",
+      "voyagent"
+    ]
+  }
+]
